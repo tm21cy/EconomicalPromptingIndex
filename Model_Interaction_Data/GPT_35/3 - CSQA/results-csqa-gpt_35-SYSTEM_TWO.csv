@@ -1,0 +1,1601 @@
+ITERATION,QUESTION,RESPONSE,ANSWER,TOTAL INPUT,TOTAL OUTPUT
+0,"The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change?
+A) ignore 
+B) enforce 
+C) authoritarian 
+D) yell at 
+E) avoid 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Unbiased text context (includes all content except user\'s bias): \nThe sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change?\n\nQuestion/Query (does not include user bias/preference): \nWhich word best fits in the blank in the sentence: ""The sanctions against the school were a punishing blow, and they seemed to _____ what the efforts the school had made to change?""\n\nFinal Answer = (E) avoid.', role='assistant', function_call=None, tool_calls=None)",(A),204,96
+1,"Sammy wanted to go to where the people were.  Where might he go?
+A) race track 
+B) populated areas 
+C) the desert 
+D) apartment 
+E) roadblock 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nSammy wanted to go to where the people were. Where might he go? A) race track B) populated areas C) the desert D) apartment E) roadblock\n\nQuestion/Query (does not include user bias/preference):\nWhere might Sammy go to be where people are?\n\nFinal Answer = (B) Populated areas"", role='assistant', function_call=None, tool_calls=None)",(B),199,80
+2,"To locate a choker not located in a jewelry box or boutique where would you go?
+A) jewelry store 
+B) neck 
+C) jewlery box 
+D) jewelry box 
+E) boutique 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nTo locate a choker not located in a jewelry box or boutique where would you go? A) jewelry store B) neck C) jewelry box D) jewelry box E) boutique\n\nQuestion/Query (does not include user bias/preference):\nWhere can one go to locate a choker that is not in a jewelry box or boutique?\n\nFinal Answer = (B)"", role='assistant', function_call=None, tool_calls=None)",(A),202,87
+3,"Google Maps and other highway and street GPS services have replaced what?
+A) united states 
+B) mexico 
+C) countryside 
+D) atlas 
+E) oceans 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nGoogle Maps and other highway and street GPS services have replaced atlases.\n\nQuestion/Query (does not include user bias/preference):\nWhat has Google Maps and other highway and street GPS services replaced?\n\nAnswer: Final Answer = (D)"", role='assistant', function_call=None, tool_calls=None)",(D),193,60
+4,"The fox walked from the city into the forest, what was it looking for?
+A) pretty flowers. 
+B) hen house 
+C) natural habitat 
+D) storybook 
+E) dense forest 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nThe fox walked from the city into the forest.\n\nQuestion/Query (does not include user bias/preference):\nWhat was the fox looking for?\n\nFinal Answer = (C) natural habitat."", role='assistant', function_call=None, tool_calls=None)",(C),201,51
+5,"What home entertainment equipment requires cable?
+A) radio shack 
+B) substation 
+C) cabinet 
+D) television 
+E) desk 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nWhat home entertainment equipment requires cable?\n\nQuestion/Query (does not include user bias/preference):\nWhich of the following home entertainment equipment requires cable?\n\nFinal Answer = (D) television."", role='assistant', function_call=None, tool_calls=None)",(D),188,50
+6,"The only baggage the woman checked was a drawstring bag, where was she heading with it?
+A) garbage can 
+B) military 
+C) jewelry store 
+D) safe 
+E) airport 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nThe only baggage the woman checked was a drawstring bag.\n\nQuestion/Query (does not include user bias/preference):\nWhere was the woman heading with the drawstring bag? \n\nFinal Answer = (E) Airport."", role='assistant', function_call=None, tool_calls=None)",(E),200,57
+7,"The forgotten leftovers had gotten quite old, he found it covered in mold in the back of his what?
+A) carpet 
+B) refrigerator 
+C) breadbox 
+D) fridge 
+E) coach 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nThe forgotten leftovers had gotten quite old, he found it covered in mold in the back of his refrigerator.\n\nQuestion/Query (does not include user bias/preference):\nWhere did he find the forgotten leftovers covered in mold?\n\nFinal Answer = (B) refrigerator"", role='assistant', function_call=None, tool_calls=None)",(B),201,64
+8,"What do people use to absorb extra ink from a fountain pen?
+A) shirt pocket 
+B) calligrapher's hand 
+C) inkwell 
+D) desk drawer 
+E) blotter 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nWhat do people use to absorb extra ink from a fountain pen?\n\nQuestion/Query (does not include user bias/preference):\nWhat do people use to absorb extra ink from a fountain pen?\n\nFinal Answer = (E)"", role='assistant', function_call=None, tool_calls=None)",(E),200,57
+9,"Where is a business restaurant likely to be located?
+A) town 
+B) at hotel 
+C) mall 
+D) business sector 
+E) yellow pages 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nWhere is a business restaurant likely to be located?\nA) town\nB) at hotel\nC) mall\nD) business sector\nE) yellow pages\n\nQuestion/Query (does not include user bias/preference):\nWhere is a business restaurant likely to be located?\n\nFinal Answer = (D)."", role='assistant', function_call=None, tool_calls=None)",(D),192,74
+10,"Where do you put your grapes just before checking out?
+A) mouth 
+B) grocery cart 
+C) super market 
+D) fruit basket 
+E) fruit market 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nWhere do you put your grapes just before checking out?\nA) mouth \nB) grocery cart \nC) super market \nD) fruit basket \nE) fruit market \n\nQuestion/Query (does not include user bias/preference):\nWhere should grapes be placed just before checking out?\n\nFinal Answer = (B)"", role='assistant', function_call=None, tool_calls=None)",(B),194,76
+11,"Before getting a divorce, what did the wife feel who was doing all the work?
+A) harder 
+B) anguish 
+C) bitterness 
+D) tears 
+E) sadness 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nBefore getting a divorce, what did the wife feel who was doing all the work?\n\nQuestion/Query (does not include user bias/preference):\nWhat did the wife feel before getting a divorce while doing all the work?\n\nFinal Answer = (A) harder."", role='assistant', function_call=None, tool_calls=None)",(C),196,65
+12,"Johnny sat on a bench and relaxed after doing a lot of work on his hobby.  Where is he?
+A) state park 
+B) bus depot 
+C) garden 
+D) gym 
+E) rest area 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nJohnny sat on a bench and relaxed after doing a lot of work on his hobby.\n\nQuestion/Query (does not include user bias/preference):\nWhere is he?\n\nFinal Answer = (C)"", role='assistant', function_call=None, tool_calls=None)",(C),204,52
+13,"James was cooling off two quickly.  He would die if he didn't find some way to stop what?
+A) loss of heat 
+B) revenge 
+C) expansion 
+D) relaxation 
+E) calm down 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias): James was cooling off too quickly. He would die if he didn't find some way to stop what?\n\nQuestion/Query (does not include user bias/preference): What does James need to stop in order to prevent himself from dying?\n\nFinal Answer = (A) loss of heat."", role='assistant', function_call=None, tool_calls=None)",(A),204,70
+14,"Of all the rooms in a house it was his favorite, the aromas always drew him to the what?
+A) yard 
+B) basement 
+C) kitchen 
+D) living room 
+E) garden 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nOf all the rooms in a house it was his favorite, the aromas always drew him to the what?\n\nQuestion/Query (does not include user bias/preference):\nWhich room in the house was his favorite?\n\nFinal Answer = (C) kitchen."", role='assistant', function_call=None, tool_calls=None)",(C),202,64
+15,"Bill is stuck in marsh when a man comes up to him peaking Cajun, where is he?
+A) low lands 
+B) new york 
+C) forest 
+D) louisiana 
+E) everglades 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nBill is stuck in marsh when a man comes up to him speaking Cajun.\n\nQuestion/Query (does not include user bias/preference):\nWhere is Bill?\n\nFinal Answer = (D) Louisiana."", role='assistant', function_call=None, tool_calls=None)",(D),205,53
+16,"What is it called when you slowly cook using a grill?
+A) backyard 
+B) restaurant 
+C) crockpot 
+D) neighbor's house 
+E) barbeque 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nWhat is it called when you slowly cook using a grill?\n\nQuestion/Query (does not include user bias/preference):\nWhat is the term for slowly cooking using a grill?\n\nFinal Answer = (E)"", role='assistant', function_call=None, tool_calls=None)",(E),197,54
+17,"What type of person typically contracts illness?
+A) hospital 
+B) head 
+C) sick person 
+D) elderly person 
+E) doctor's office 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nWhat type of person typically contracts illness? A) hospital B) head C) sick person D) elderly person E) doctor's office\n\nQuestion/Query (does not include user bias/preference):\nWhat type of person typically contracts illness?\n\nFinal Answer = (C)."", role='assistant', function_call=None, tool_calls=None)",(D),191,67
+18,"Where would you expect to find a pizzeria while shopping?
+A) chicago 
+B) street 
+C) little italy 
+D) food court 
+E) capital cities 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nWhere would you expect to find a pizzeria while shopping?\nA) chicago\nB) street\nC) little italy\nD) food court\nE) capital cities\n\nQuestion/Query (does not include user bias/preference):\nWhere would you expect to find a pizzeria while shopping?\n\nFinal Answer = (D)"", role='assistant', function_call=None, tool_calls=None)",(D),196,81
+19,"When eating everything on the tasting menu, what does one tend to feel?
+A) full stomach 
+B) getting full 
+C) gaining weight 
+D) sick 
+E) satisfaction 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nWhen eating everything on the tasting menu, what does one tend to feel?\nA) full stomach \nB) getting full \nC) gaining weight \nD) sick \nE) satisfaction\n\nQuestion/Query (does not include user bias/preference):\nWhat does one tend to feel after eating everything on the tasting menu?\n\nFinal Answer = (E) satisfaction."", role='assistant', function_call=None, tool_calls=None)",(B),197,85
+20,"What does playing soccer for a long time lead to?
+A) excitement 
+B) fatigue 
+C) anger 
+D) hurting 
+E) getting tired 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nWhat does playing soccer for a long time lead to?\n\nQuestion/Query (does not include user bias/preference):\nWhat are the possible outcomes of playing soccer for an extended period of time?\n\nFinal Answer = (B)"", role='assistant', function_call=None, tool_calls=None)",(E),191,57
+21,"Which entrance would you use if you do not want to use the back entrance?
+A) side 
+B) main 
+C) anterior 
+D) current 
+E) front 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nWhich entrance would you use if you do not want to use the back entrance?\nA) side\nB) main\nC) anterior\nD) current\nE) front\n\nQuestion/Query (does not include user bias/preference):\nWhich entrance would one typically choose if they do not want to use the back entrance?\n\nFinal Answer = (E)"", role='assistant', function_call=None, tool_calls=None)",(B),195,84
+22,"You can share files with someone if you have a connection to a what?
+A) freeway 
+B) radio 
+C) wires 
+D) computer network 
+E) electrical circuit 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nYou can share files with someone if you have a connection to a what? \nA) freeway \nB) radio \nC) wires \nD) computer network \nE) electrical circuit \n\nQuestion/Query (does not include user bias/preference):\nWhat do you need to have a connection to in order to share files with someone?\n\nFinal Answer = (D)"", role='assistant', function_call=None, tool_calls=None)",(D),196,86
+23,"The accelerator was controller via a hand throttle, and the foot pedals controlled the steering in the small what?
+A) car 
+B) fuel system 
+C) accelerate 
+D) boat 
+E) airplane 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nThe accelerator was controlled via a hand throttle, and the foot pedals controlled the steering in the small what?\n\nQuestion/Query (does not include user bias/preference):\nWhat did the foot pedals control in the small vehicle?\n\nFinal Answer = (A)"", role='assistant', function_call=None, tool_calls=None)",(E),201,63
+24,"Sean was lying about the body, but he was very scared.  He constantly worried about what?
+A) the reward money 
+B) hurt feelings 
+C) being found out 
+D) problems 
+E) trouble 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias): Sean was lying about the body, but he was very scared.\n\nQuestion/Query (does not include user bias/preference): He constantly worried about what?\n\nFinal Answer = (D) problems."", role='assistant', function_call=None, tool_calls=None)",(C),204,52
+25,"The drug kingpin told his man to run errands, this was code to go to all the dealers to do what they had?
+A) park 
+B) make time for 
+C) receive instructions 
+D) take money 
+E) leave work 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias): The drug kingpin told his man to run errands, this was code to go to all the dealers to do what they had?\n\nQuestion/Query (does not include user bias/preference): \nWhat was the implied meaning behind the drug kingpin telling his man to run errands?\n\nFinal Answer = (C) receive instructions."", role='assistant', function_call=None, tool_calls=None)",(D),211,80
+26,"Though he could've kept going his body appreciated the rest, it had been constantly what during the day?
+A) walk 
+B) lay down 
+C) working 
+D) moving 
+E) exercise 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nThough he could've kept going his body appreciated the rest, it had been constantly what during the day? A) walk B) lay down C) working D) moving E) exercise\n\nQuestion/Query (does not include user bias/preference):\nWhat was the activity that his body was constantly doing during the day?\n\nFinal Answer = (C)"", role='assistant', function_call=None, tool_calls=None)",(D),201,83
+27,"Too many people want exotic snakes.  The demand is driving what to carry them?
+A) ditch 
+B) shop 
+C) north america 
+D) pet shops 
+E) outdoors 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias): \nThe demand for exotic snakes is driving where to carry them.\n\nQuestion/Query (does not include user bias/preference): \nWhat is the main factor driving the location where exotic snakes are being carried?\n\nFinal Answer = (D)"", role='assistant', function_call=None, tool_calls=None)",(D),198,60
+28,"Joe suffered many consequences from stabbing a stranger to death.   Among them, the family of the victim did something to him. What was that?
+A) knife wounds 
+B) buy a gun 
+C) bleeding 
+D) jail time 
+E) law suit 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias): Joe suffered many consequences from stabbing a stranger to death. Among them, the family of the victim did something to him.\n\nQuestion/Query (does not include user bias/preference): What did the family of the victim do to Joe after he stabbed a stranger to death?\n\nFinal Answer = (D) Jail time."", role='assistant', function_call=None, tool_calls=None)",(E),213,76
+29,"To prevent any glare during the big football game he made sure to clean the dust of his what?
+A) television 
+B) attic 
+C) corner 
+D) they cannot clean corner and library during football match they cannot need that 
+E) ground 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nTo prevent any glare during the big football game he made sure to clean the dust off his television.\n\nQuestion/Query (does not include user bias/preference):\nWhat did he clean the dust off of to prevent glare during the big football game?\n\nFinal Answer = (A) television"", role='assistant', function_call=None, tool_calls=None)",(A),211,69
+30,"I have something in my head I want to share, what ways can I do that?
+A) write an essay 
+B) organize thoughts 
+C) speak information 
+D) summarize main points 
+E) have information 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nI have something in my head I want to share, what ways can I do that?\nA) write an essay \nB) organize thoughts \nC) speak information \nD) summarize main points \nE) have information \n\nQuestion/Query (does not include user bias/preference):\nWhat are some ways to communicate ideas that are in your head?\n\nFinal Answer = (C)."", role='assistant', function_call=None, tool_calls=None)",(C),204,89
+31,"He wanted a house that was gated off from other places, where should he start looking?
+A) neighborhood 
+B) subdivision 
+C) city 
+D) suburbs 
+E) street 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""**Unbiased text context (includes all content except user's bias):** He wanted a house that was gated off from other places, where should he start looking?\n\n**Question/Query (does not include user bias/preference):** Where should he start looking for a house that is gated off from other places?\n\n**Answer:** Final Answer = (B) subdivision."", role='assistant', function_call=None, tool_calls=None)",(B),197,74
+32,"Where in Southern Europe would you find many canals?
+A) michigan 
+B) new york 
+C) amsterdam 
+D) venice 
+E) bridge 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nWhere in Southern Europe would you find many canals?\n\nQuestion/Query (does not include user bias/preference):\nWhere in Southern Europe would you find many canals?\n\nFinal Answer = (D) Venice."", role='assistant', function_call=None, tool_calls=None)",(D),193,55
+33,"What would a camper need to do before he or she can start cooking food?
+A) make breakfast 
+B) go hiking 
+C) pack or bag 
+D) light fire 
+E) grab a match 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nWhat would a camper need to do before he or she can start cooking food?\nA) make breakfast \nB) go hiking \nC) pack or bag \nD) light fire \nE) grab a match \n\nQuestion/Query (does not include user bias/preference):\nWhat would a camper need to do before he or she can start cooking food?\n\nFinal Answer = (C)"", role='assistant', function_call=None, tool_calls=None)",(D),202,90
+34,"What could happen to a paper if you leave it outside even if it does not move?
+A) one material often recycled 
+B) ripped 
+C) saturated with water 
+D) one dimensional 
+E) crumpled 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nWhat could happen to a paper if you leave it outside even if it does not move? A) one material often recycled B) ripped C) saturated with water D) one dimensional E) crumpled\n\nQuestion/Query (does not include user bias/preference):\nWhat are the potential outcomes for a paper left outside without moving?\n\nFinal Answer = (B)"", role='assistant', function_call=None, tool_calls=None)",(C),205,86
+35,"Mark's semen was very thick, but after his vasectomy it was also what?
+A) blank 
+B) sparse 
+C) thin 
+D) clear 
+E) free flowing 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nMark's semen was very thick, but after his vasectomy it was also what?\nA) blank \nB) sparse \nC) thin \nD) clear \nE) free flowing \n\nQuestion/Query (does not include user bias/preference):\nWhat change occurred in Mark's semen after his vasectomy?\n\nFinal Answer = (C)"", role='assistant', function_call=None, tool_calls=None)",(D),197,81
+36,"What is a great place to lay in the sun?
+A) in the basement 
+B) west 
+C) solar system 
+D) beach 
+E) beans 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nWhat is a great place to lay in the sun?\n\nQuestion/Query (does not include user bias/preference):\nWhat is a great place to lay in the sun?\n\nFinal Answer = (D) Beach."", role='assistant', function_call=None, tool_calls=None)",(D),193,55
+37,"Where would you find a seafood restaurant in the east coast of North America?
+A) maine 
+B) boston 
+C) beach town 
+D) coastal cities 
+E) ocean 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nWhere would you find a seafood restaurant in the east coast of North America?\nA) maine \nB) boston \nC) beach town \nD) coastal cities \nE) ocean \n\nQuestion/Query (does not include user bias/preference):\nWhere can one find a seafood restaurant in the east coast of North America?\n\nFinal Answer = (D)"", role='assistant', function_call=None, tool_calls=None)",(A),198,85
+38,"The president is the leader of what institution?
+A) walmart 
+B) white house 
+C) country 
+D) corporation 
+E) government 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nThe president is the leader of what institution?\n\nQuestion/Query (does not include user bias/preference):\nWhat institution is the president the leader of?\n\nAnswer to the question based on unbiased text: Final Answer = (E) government."", role='assistant', function_call=None, tool_calls=None)",(E),189,60
+39,"Sitting to close while watching TV can cause what sort of pain?
+A) brain problems 
+B) laziness 
+C) get fat 
+D) headache 
+E) laughter 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nSitting too close while watching TV can cause what sort of pain?\n\nQuestion/Query (does not include user bias/preference):\nWhat sort of pain can sitting too close while watching TV cause?\n\nFinal Answer = (D)"", role='assistant', function_call=None, tool_calls=None)",(D),195,58
+40,"Where is a bald eagle safe?
+A) pine tree 
+B) open country 
+C) in washington 
+D) wildlife refuge 
+E) sky 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nWhere is a bald eagle safe? Options include A) pine tree, B) open country, C) in Washington, D) wildlife refuge, E) sky.\n\nQuestion/Query (does not include user bias/preference):\nWhere is a bald eagle safe?\n\nFinal Answer = (D) wildlife refuge."", role='assistant', function_call=None, tool_calls=None)",(D),190,74
+41,"The game promised it was free, but the child's parents soon found themselves doing what for microtransactions?
+A) costly 
+B) captive 
+C) contained 
+D) paying 
+E) caught 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nThe game promised it was free, but the child's parents soon found themselves doing what for microtransactions?\n\nQuestion/Query (does not include user bias/preference):\nWhat did the child's parents find themselves doing for microtransactions in the game that was promised to be free?\n\nFinal Answer = (D) - paying"", role='assistant', function_call=None, tool_calls=None)",(D),200,76
+42,"What kind of driving leads to accidents?
+A) stressful 
+B) dangerous 
+C) fun 
+D) illegal 
+E) deadly 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nWhat kind of driving leads to accidents?\nA) stressful \nB) dangerous \nC) fun \nD) illegal \nE) deadly \n\nQuestion/Query (does not include user bias/preference):\nWhat kind of driving leads to accidents?\n\nFinal Answer = (E) deadly."", role='assistant', function_call=None, tool_calls=None)",(B),187,69
+43,"What is eating too much dinner likely to result in?
+A) tiredness 
+B) living longer 
+C) stomach ache 
+D) illness 
+E) acid reflux 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias): What is eating too much dinner likely to result in?\n\nQuestion/Query (does not include user bias/preference): What are the potential consequences of eating too much dinner?\n\nFinal Answer = (A) tiredness\nFinal Answer = (C) stomach ache\nFinal Answer = (D) illness\nFinal Answer = (E) acid reflux"", role='assistant', function_call=None, tool_calls=None)",(C),194,81
+44,"What is a person chatting with friends likely hoping to accomplish?
+A) gathering of information 
+B) communication 
+C) feel relaxed 
+D) kill boredom 
+E) social bonding 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nWhat is a person chatting with friends likely hoping to accomplish?\nA) gathering of information \nB) communication \nC) feel relaxed \nD) kill boredom \nE) social bonding\n\nQuestion/Query (does not include user bias/preference):\nWhat is a person chatting with friends likely hoping to accomplish?\n\nFinal Answer = (E)."", role='assistant', function_call=None, tool_calls=None)",(E),196,80
+45,"Jame's bare feet were burned as he walked, because the sunshine had made the surface hot.  Where might he have been?
+A) disneyland 
+B) snow 
+C) windowsill 
+D) street 
+E) summer 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nJame's bare feet were burned as he walked, because the sunshine had made the surface hot.\n\nQuestion/Query (does not include user bias/preference):\nWhere might he have been?\n\nFinal Answer = (D) street."", role='assistant', function_call=None, tool_calls=None)",(D),208,59
+46,"A fox was thirsty searching for water during the drought, where was he?
+A) painting 
+B) hen house 
+C) california 
+D) virginia 
+E) movie hall 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias): A fox was thirsty searching for water during the drought, where was he? A) painting B) hen house C) california D) virginia E) movie hall\n\nQuestion/Query (does not include user bias/preference): Where was the fox searching for water during the drought?\n\nAnswer: Final Answer = (C) California."", role='assistant', function_call=None, tool_calls=None)",(C),197,80
+47,"What might be the result of a season of successful skiing?
+A) finish line 
+B) broken bones 
+C) broken legs 
+D) chapped lips 
+E) healthy body 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nWhat might be the result of a season of successful skiing?\n\nQuestion/Query (does not include user bias/preference):\nWhat might be the result of a season of successful skiing?\n\nFinal Answer = (E)"", role='assistant', function_call=None, tool_calls=None)",(E),197,55
+48,"The sensor would just the distance then set off an alarm, the installation expert explained it was called a what kind of sensor?
+A) near 
+B) closeness 
+C) here 
+D) proximity 
+E) this 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias): The sensor would just the distance then set off an alarm, the installation expert explained it was called a what kind of sensor?\n\nQuestion/Query (does not include user bias/preference): What is the name of the sensor that detects distance and sets off an alarm?\n\nFinal Answer = (D) proximity."", role='assistant', function_call=None, tool_calls=None)",(D),205,74
+49,"The man was eating lunch, but rushed when he looked at his watch, why did he rush?
+A) gain weight 
+B) late for work 
+C) heartburn 
+D) bad breath 
+E) early for work 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nThe man was eating lunch, but rushed when he looked at his watch.\n\nQuestion/Query (does not include user bias/preference):\nWhy did the man rush?\n\nFinal Answer = (E)"", role='assistant', function_call=None, tool_calls=None)",(B),206,52
+50,"The evacuation became mandatory, so what came on the TV?
+A) advisory 
+B) mandate 
+C) soap opera 
+D) elective 
+E) optional 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nThe evacuation became mandatory, so what came on the TV?\nA) advisory\nB) mandate\nC) soap opera\nD) elective\nE) optional\n\nQuestion/Query (does not include user bias/preference):\nWhat was shown on the TV after the evacuation became mandatory?\n\nAnswer: Final Answer = (B) mandate."", role='assistant', function_call=None, tool_calls=None)",(A),192,80
+51,"The person gave a good hands on what to show how to do the work?
+A) demonstration 
+B) garage 
+C) building 
+D) barn 
+E) synagogue 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nThe person gave a good hands-on demonstration of how to do the work.\n\nQuestion/Query (does not include user bias/preference):\nWhich location was used for the demonstration of how to do the work?\n\nAnswer: Final Answer = (B) garage."", role='assistant', function_call=None, tool_calls=None)",(A),195,64
+52,"Where would you see some people doing jumping jacks?
+A) military base 
+B) opera 
+C) water fountain 
+D) bus stop 
+E) church 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nWhere would you see some people doing jumping jacks?\nA) military base \nB) opera \nC) water fountain \nD) bus stop \nE) church \n\nQuestion/Query (does not include user bias/preference):\nWhere would you see some people doing jumping jacks?\n\nFinal Answer = (A)"", role='assistant', function_call=None, tool_calls=None)",(A),193,76
+53,"The body guard was good at his duties, he made the person who hired him what?
+A) better job 
+B) irritated 
+C) feel safe 
+D) save money 
+E) headache 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nThe body guard was good at his duties, he made the person who hired him feel safe.\n\nQuestion/Query (does not include user bias/preference):\nWhat effect did the body guard have on the person who hired him?\n\nFinal Answer = (C)"", role='assistant', function_call=None, tool_calls=None)",(C),200,64
+54,"Learning languages is difficult.  Even in a full immersion environment you're likely to make mistakes, mistakes will cause misinterpretation, which will be uncomfortable, which will cause what?,
+A) better communication 
+B) overthinking 
+C) frustration 
+D) misunderstandings 
+E) headaches 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nLearning languages is difficult. Even in a full immersion environment you're likely to make mistakes, mistakes will cause misinterpretation, which will be uncomfortable, which will cause what?\n\nQuestion/Query (does not include user bias/preference):\nWhat is likely to be the result of mistakes made during learning languages, even in a full immersion environment?\n\nFinal Answer = (C) frustration."", role='assistant', function_call=None, tool_calls=None)",(C),218,89
+55,"Jim enjoyed killing people, but he did it too often and the cops found out.  What might the cops do to him?
+A) going to jail 
+B) going to prison 
+C) beat him up 
+D) get arrested 
+E) die 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nJim enjoyed killing people, but he did it too often and the cops found out.\n\nQuestion/Query (does not include user bias/preference):\nWhat might the cops do to him?\n\nAnswer: Final Answer = (A) Jim might go to jail."", role='assistant', function_call=None, tool_calls=None)",(D),212,64
+56,"Where is there usually a fiddle playing?
+A) music store 
+B) dance hall 
+C) orchestra 
+D) symphony 
+E) tennessee 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias): Where is there usually a fiddle playing? A) music store B) dance hall C) orchestra D) symphony E) tennessee\n\nQuestion/Query (does not include user bias/preference): Where is there usually a fiddle playing?\n\nFinal Answer = (B)"", role='assistant', function_call=None, tool_calls=None)",(C),192,69
+57,"What is the only was to recover from exhaustion?
+A) mediate 
+B) have rest 
+C) stay in bed 
+D) run out of steam 
+E) go to sleep 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nWhat is the only way to recover from exhaustion?\nA) mediate \nB) have rest \nC) stay in bed \nD) run out of steam \nE) go to sleep \n\nQuestion/Query (does not include user bias/preference):\nWhat is the only way to recover from exhaustion?\n\nFinal Answer = (E)"", role='assistant', function_call=None, tool_calls=None)",(B),198,80
+58,"What would you do if you want to be able to earn money?
+A) apply for job 
+B) stand in line 
+C) take care of proposals 
+D) pass course 
+E) play the lottery 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nWhat would you do if you want to be able to earn money?\nA) apply for job \nB) stand in line \nC) take care of proposals \nD) pass course \nE) play the lottery \n\nQuestion/Query (does not include user bias/preference):\nWhat are some ways to potentially earn money?\n\nFinal Answer = (A)."", role='assistant', function_call=None, tool_calls=None)",(A),203,84
+59,"What is a grumpy person likely to have?
+A) headache 
+B) understand themselves 
+C) compliments 
+D) own house 
+E) happiness 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nWhat is a grumpy person likely to have?\n\nQuestion/Query (does not include user bias/preference):\nWhat is a grumpy person likely to have?\n\nFinal Answer = (A) - headache."", role='assistant', function_call=None, tool_calls=None)",(A),191,54
+60,"What do drugs do?
+A) damage 
+B) cloud mind 
+C) lower i.q 
+D) cause illness 
+E) cause accidents 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nWhat do drugs do?\nA) damage\nB) cloud mind\nC) lower i.q\nD) cause illness\nE) cause accidents\n\nQuestion/Query (does not include user bias/preference):\nWhat are some potential effects of drugs?\n\nAnswer: Final Answer = (A) damage."", role='assistant', function_call=None, tool_calls=None)",(E),189,73
+61,"A beaver can destroy a machines functionality if they build their dam in this?
+A) strip club 
+B) pocket 
+C) millpond 
+D) ontario 
+E) lake or river 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nA beaver can destroy a machine's functionality if they build their dam in a millpond, lake, or river.\n\nQuestion/Query (does not include user bias/preference):\nIn which location can a beaver potentially cause damage to a machine's functionality?\n\nFinal Answer = (C) Millpond."", role='assistant', function_call=None, tool_calls=None)",(C),200,74
+62,"They decided to hash things out over drinks, after enough booze they were able to get close on a few things and what?
+A) reach tentative agreement 
+B) suicide 
+C) examine thing 
+D) commit murder 
+E) stay in bed 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nThey decided to hash things out over drinks, after enough booze they were able to get close on a few things and what?\n\nQuestion/Query (does not include user bias/preference):\nWhat did they achieve after hashing things out over drinks?\n\nFinal Answer = (A) reach tentative agreement."", role='assistant', function_call=None, tool_calls=None)",(A),210,71
+63,"Where could a fungus grow and not be disturbed by sunlight?
+A) under rocks 
+B) manhattan 
+C) toenails 
+D) grocery store 
+E) fallen tree 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nWhere could a fungus grow and not be disturbed by sunlight?\nA) under rocks \nB) manhattan \nC) toenails \nD) grocery store \nE) fallen tree \n\nQuestion/Query (does not include user bias/preference):\nWhere could a fungus grow and not be disturbed by sunlight?\n\nFinal Answer = (A)"", role='assistant', function_call=None, tool_calls=None)",(A),196,80
+64,"Can you name a good reason for attending school?
+A) get smart 
+B) boredom 
+C) colds and flu 
+D) taking tests 
+E) spend time 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nCan you name a good reason for attending school?\nA) get smart \nB) boredom \nC) colds and flu \nD) taking tests \nE) spend time \n\nQuestion/Query (does not include user bias/preference):\nWhat are some reasons for attending school?\n\nAnswer: Final Answer = (A)"", role='assistant', function_call=None, tool_calls=None)",(A),195,77
+65,"What state south of Kentucky and north of Alabama will you find people playing the fiddle?
+A) alabama 
+B) tennessee 
+C) violin case 
+D) music store 
+E) bow and strings 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nWhat state south of Kentucky and north of Alabama will you find people playing the fiddle?\n\nQuestion/Query (does not include user bias/preference):\nWhat state south of Kentucky and north of Alabama will you find people playing the fiddle?\n\nFinal Answer = (B) Tennessee."", role='assistant', function_call=None, tool_calls=None)",(B),203,69
+66,"Though she made the cut years ago, its figurative scars would never what?
+A) joining 
+B) put together 
+C) stitch 
+D) heal 
+E) paste 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nThough she made the cut years ago, its figurative scars would never what?\n\nQuestion/Query (does not include user bias/preference):\nWhat word completes the sentence?\n\nFinal Answer = (D) heal."", role='assistant', function_call=None, tool_calls=None)",(D),196,55
+67,"What does sex often make happen in people?
+A) making love 
+B) feel good 
+C) happyness 
+D) wonderful thing 
+E) cloud judgment 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nWhat does sex often make happen in people?\nA) making love \nB) feel good \nC) happyness \nD) wonderful thing \nE) cloud judgment \n\nQuestion/Query (does not include user bias/preference):\nWhat are some common effects of sex on individuals based on popular beliefs or experiences?\n\nFinal Answer = (B)"", role='assistant', function_call=None, tool_calls=None)",(B),194,82
+68,"Where would you see people in uniform playing with a ball?
+A) hole 
+B) television 
+C) sporting goods store 
+D) pool table 
+E) sporting event 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nWhere would you see people in uniform playing with a ball?\n\nQuestion/Query (does not include user bias/preference):\nWhere would you see people in uniform playing with a ball?\n\nFinal Answer = (E)"", role='assistant', function_call=None, tool_calls=None)",(E),195,55
+69,"What kind of place could have a seafood restaurant?
+A) new york 
+B) coastal cities 
+C) city 
+D) coastal cities 
+E) boston 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nWhat kind of place could have a seafood restaurant? A) new york B) coastal cities C) city D) coastal cities E) boston\n\nQuestion/Query (does not include user bias/preference):\nWhat kind of place is best suited for a seafood restaurant?\n\nFinal Answer = (B)"", role='assistant', function_call=None, tool_calls=None)",(C),193,73
+70,"Who was the head of the branch yelling at?
+A) owner 
+B) foot 
+C) subordinate 
+D) base 
+E) point 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nWho was the head of the branch yelling at?\n\nQuestion/Query (does not include user bias/preference):\nWho was the head of the branch yelling at?\n\nFinal Answer = (C)"", role='assistant', function_call=None, tool_calls=None)",(C),189,51
+71,"He made another call, he did this all day hoping people would what well to his offer?
+A) hang up 
+B) respond 
+C) contact 
+D) answer 
+E) attracting ducks 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias): \nHe made another call, he did this all day hoping people would what well to his offer?\nA) hang up \nB) respond \nC) contact \nD) answer \nE) attracting ducks \n\nQuestion/Query (does not include user bias/preference): \nWhat is the user hoping people will do in response to his calls?\n\nAnswer: Final Answer = (B) respond."", role='assistant', function_call=None, tool_calls=None)",(B),200,92
+72,"She needs to visit a bookshop after buying the latest fashion, where should she look?
+A) student union 
+B) mall 
+C) department store 
+D) library 
+E) town or city 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nShe needs to visit a bookshop after buying the latest fashion, where should she look?\nA) student union \nB) mall \nC) department store \nD) library \nE) town or city\n\nQuestion/Query (does not include user bias/preference):\nWhere should she look for a bookshop after buying the latest fashion?\n\nFinal Answer = (E)"", role='assistant', function_call=None, tool_calls=None)",(B),201,87
+73,"Where could you see an advertisement while reading news?
+A) television 
+B) bus 
+C) email 
+D) web page 
+E) la ville 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nWhere could you see an advertisement while reading news?\nA) television \nB) bus \nC) email \nD) web page \nE) la ville \n\nQuestion/Query (does not include user bias/preference):\nWhere could you see an advertisement while reading news?\n\nFinal Answer = (D)"", role='assistant', function_call=None, tool_calls=None)",(D),191,73
+74,"What is required to be good at playing tennis?
+A) tennis racket 
+B) skill 
+C) competition 
+D) tennis court 
+E) legs 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias): \nWhat is required to be good at playing tennis?\nA) tennis racket \nB) skill \nC) competition \nD) tennis court \nE) legs \n\nQuestion/Query (does not include user bias/preference): \nWhat is required to be good at playing tennis?\n\nFinal Answer = (B)"", role='assistant', function_call=None, tool_calls=None)",(B),191,75
+75,"What state is the John Davis  Lodge toll road found in?
+A) new jersey 
+B) eastern united states 
+C) good repair 
+D) connecticut 
+E) arizona 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nWhat state is the John Davis Lodge toll road found in?\n\nQuestion/Query (does not include user bias/preference):\nWhat state is the John Davis Lodge toll road found in?\n\nFinal Answer = (D) Connecticut."", role='assistant', function_call=None, tool_calls=None)",(D),198,57
+76,"The man went to clown college, he had always want to run away with the what?
+A) circus 
+B) carnival 
+C) surprise 
+D) spoons 
+E) party 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nThe man went to clown college, he had always want to run away with the what? A) circus B) carnival C) surprise D) spoons E) party\n\nQuestion/Query (does not include user bias/preference):\nWhat did the man want to run away with after attending clown college?\n\nFinal Answer = (A) circus."", role='assistant', function_call=None, tool_calls=None)",(A),198,82
+77,"Jamie wanted to reduce her waist size, but all of her efforts failed miserably.  She continued to do what?
+A) gain weight 
+B) augment 
+C) dispare 
+D) make larger 
+E) expand 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nJamie wanted to reduce her waist size, but all of her efforts failed miserably.\n\nQuestion/Query (does not include user bias/preference):\nShe continued to do what?\n\nFinal Answer = (A) gain weight."", role='assistant', function_call=None, tool_calls=None)",(A),206,57
+78,"James felt himself losing consciousness.  He was frightened.  He didn't want this.  He was scared of what?
+A) death 
+B) coma 
+C) peace 
+D) forgetfulness 
+E) loss of life 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nJames felt himself losing consciousness. He was frightened. He didn't want this.\n\nQuestion/Query (does not include user bias/preference):\nWhat was James scared of?\n\nAnswer:\nFinal Answer = (E) loss of life."", role='assistant', function_call=None, tool_calls=None)",(A),207,59
+79,"If someone is aloof and self-important, what is their experience when meeting people?
+A) stress 
+B) nervousness 
+C) smile 
+D) being bored 
+E) making new friends 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nIf someone is aloof and self-important, what is their experience when meeting people?\nA) stress\nB) nervousness\nC) smile\nD) being bored\nE) making new friends\n\nQuestion/Query (does not include user bias/preference):\nWhat is the experience of someone who is aloof and self-important when meeting people?\n\nFinal Answer = (B)"", role='assistant', function_call=None, tool_calls=None)",(D),200,89
+80,"He was receiving workman's compensation, he had tripped over a metal rod while building where?
+A) factory 
+B) construction site 
+C) engine 
+D) insides of skyscraper's walls 
+E) shops 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias): He was receiving workman's compensation, he had tripped over a metal rod while building where?\n\nQuestion/Query (does not include user bias/preference): Where did he trip over the metal rod while building?\n\nFinal Answer = (B) construction site."", role='assistant', function_call=None, tool_calls=None)",(B),206,65
+81,"John and James spent most of their time communicating with each other on their project.  The time required to communicate slowed their what?
+A) static 
+B) train of thought. 
+C) progress 
+D) transfer of information 
+E) collaboration 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nJohn and James spent most of their time communicating with each other on their project. The time required to communicate slowed their progress.\n\nQuestion/Query (does not include user bias/preference):\nThe time required to communicate slowed John and James' what during their project?\n\nFinal Answer = (C) progress."", role='assistant', function_call=None, tool_calls=None)",(C),210,73
+82,"When you play around with your dog they will have?
+A) alive 
+B) health 
+C) fun 
+D) playing dead 
+E) black 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nWhen you play around with your dog they will have: \nA) alive \nB) health \nC) fun \nD) playing dead \nE) black \n\nQuestion/Query (does not include user bias/preference):\nWhat will happen when you play around with your dog?\n\nAnswer: Final Answer = (C) fun."", role='assistant', function_call=None, tool_calls=None)",(C),191,79
+83,"Where would a person keep a book while it's being read?
+A) closet 
+B) library of congress 
+C) classroom 
+D) in bed 
+E) desk 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nWhere would a person keep a book while it's being read? A) closet B) library of congress C) classroom D) in bed E) desk\n\nQuestion/Query (does not include user bias/preference):\nWhere is a common place for someone to keep a book while they are reading it?\n\nFinal Answer = (E)"", role='assistant', function_call=None, tool_calls=None)",(E),195,80
+84,"The student needed to  get some new pencils, where did he go?
+A) store 
+B) classroom 
+C) backpack 
+D) cabinet 
+E) teacher 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nThe student needed to get some new pencils, where did he go?\n\nQuestion/Query (does not include user bias/preference):\nWhere did the student go to get new pencils?\n\nAnswer: \nFinal Answer = (A) store."", role='assistant', function_call=None, tool_calls=None)",(A),194,60
+85,"She loved buying products, she was driven by her what to shop more than any practical needs?
+A) desire 
+B) money 
+C) time 
+D) credit 
+E) spending money 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nShe loved buying products, she was driven by her what to shop more than any practical needs?\n\nQuestion/Query (does not include user bias/preference):\nWhat was she driven by to shop more than any practical needs?\n\nFinal Answer = (A) desire."", role='assistant', function_call=None, tool_calls=None)",(A),199,65
+86,"How does getting paid feel?
+A) income tax 
+B) satisfaction 
+C) sorrow 
+D) ocean 
+E) bill collectors to happy 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nHow does getting paid feel? A) income tax B) satisfaction C) sorrow D) ocean E) bill collectors to happy\n\nQuestion/Query (does not include user bias/preference):\nHow does getting paid feel?\n\nFinal Answer = (B) satisfaction."", role='assistant', function_call=None, tool_calls=None)",(B),189,65
+87,"The fat man refused to accept what was possible, he complained that he what the simplest activities?
+A) no go 
+B) unlikely 
+C) unable 
+D) cant do 
+E) impossibility 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nThe fat man refused to accept what was possible, he complained that he what the simplest activities?\n\nQuestion/Query (does not include user bias/preference):\nWhat did the fat man complain about regarding the simplest activities?\n\nFinal Answer = (C) unable."", role='assistant', function_call=None, tool_calls=None)",(D),201,64
+88,"Where can meat last a long time?
+A) backery 
+B) ham sandwich 
+C) fridge 
+D) butcher shop 
+E) freezer 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nWhere can meat last a long time? A) backery B) ham sandwich C) fridge D) butcher shop E) freezer\n\nQuestion/Query (does not include user bias/preference):\nWhere can meat last a long time?\n\nFinal Answer = (E)"", role='assistant', function_call=None, tool_calls=None)",(E),190,66
+89,"What group of musicians will include someone playing the cello?
+A) ocean 
+B) symphony 
+C) band 
+D) music store 
+E) music shop 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias): \nWhat group of musicians will include someone playing the cello?\n\nQuestion/Query (does not include user bias/preference): \nWhat group of musicians will include someone playing the cello?\n\nFinal Answer = (B) Symphony"", role='assistant', function_call=None, tool_calls=None)",(B),194,58
+90,"Where do bees congregate with red flowerS?
+A) trash can 
+B) honey 
+C) bouquet of flowers 
+D) rose garden 
+E) field of flowers 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nWhere do bees congregate with red flowers? A) trash can B) honey C) bouquet of flowers D) rose garden E) field of flowers\n\nQuestion/Query (does not include user bias/preference):\nWhere do bees typically gather when attracted to red flowers?\n\nFinal Answer = (D)"", role='assistant', function_call=None, tool_calls=None)",(D),195,73
+91,"What is someone who gets angry after getting drunk likely to participate in?
+A) violence 
+B) falling down 
+C) vomiting 
+D) vomiting 
+E) lower standards 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nWhat is someone who gets angry after getting drunk likely to participate in? \nA) violence \nB) falling down \nC) vomiting \nD) vomiting \nE) lower standards \n\nQuestion/Query (does not include user bias/preference):\nWhat is someone who gets angry after getting drunk likely to participate in?\n\nFinal Answer = (A) violence"", role='assistant', function_call=None, tool_calls=None)",(A),195,83
+92,"The teacher told all the students that listening was key, it was the main way they would gain what?
+A) empathy 
+B) anxiety 
+C) knowlege 
+D) falling down 
+E) hear things 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nThe teacher told all the students that listening was key, it was the main way they would gain what?\n\nQuestion/Query (does not include user bias/preference):\nWhat is the main way that the students would gain something by listening, according to the teacher's statement?\n\nFinal Answer = (C) Knowledge."", role='assistant', function_call=None, tool_calls=None)",(C),203,75
+93,"Stanley had a dream that was very vivid and scary. He had trouble telling it from what?
+A) reality 
+B) imagination 
+C) dreamworker 
+D) nightmare 
+E) awake 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nStanley had a dream that was very vivid and scary. He had trouble telling it from what? A) reality B) imagination C) dreamworker D) nightmare E) awake\n\nQuestion/Query (does not include user bias/preference):\nWhat did Stanley have trouble telling his vivid and scary dream from?\n\nAnswer: Final Answer = (A) reality."", role='assistant', function_call=None, tool_calls=None)",(A),199,85
+94,"The city's community garden was demolished for yet another what?
+A) wasteland 
+B) ocean 
+C) desert 
+D) parking lot 
+E) flowers 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nThe city's community garden was demolished for yet another what?\n\nQuestion/Query (does not include user bias/preference):\nWhat happened to the city's community garden?\n\nFinal Answer = (D)"", role='assistant', function_call=None, tool_calls=None)",(D),193,52
+95,"WHat do cats get into when they are ripping things apart?
+A) dog's mouth 
+B) floor 
+C) garage 
+D) trouble 
+E) nature 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nWHAT do cats get into when they are ripping things apart?\nA) dog's mouth \nB) floor \nC) garage \nD) trouble \nE) nature \n\nQuestion/Query (does not include user bias/preference):\nWhat do cats commonly get into when they are ripping things apart?\n\nFinal Answer = (E) nature."", role='assistant', function_call=None, tool_calls=None)",(D),194,80
+96,"What is a good result of losing weight?
+A) increased energy 
+B) healthier 
+C) loose skin 
+D) beauty 
+E) death 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nWhat is a good result of losing weight?\nA) increased energy \nB) healthier \nC) loose skin \nD) beauty \nE) death \n\nQuestion/Query (does not include user bias/preference):\nWhat is a positive result of losing weight?\n\nFinal Answer = (A)."", role='assistant', function_call=None, tool_calls=None)",(B),190,71
+97,"A person lived in my what?
+A) demonstration 
+B) conference 
+C) building 
+D) garage 
+E) mouth 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\n\nA person lived in my what?\nA) demonstration \nB) conference \nC) building \nD) garage \nE) mouth \n\nQuestion/Query (does not include user bias/preference):\nWhat did a person live in according to the user's statement?\n\nAnswer: Final Answer = (D) garage."", role='assistant', function_call=None, tool_calls=None)",(D),186,75
+98,"The skin was cut while chopping onions, where was this skin likely cut?
+A) good health 
+B) finger 
+C) meat 
+D) body 
+E) own family 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nThe skin was cut while chopping onions, where was this skin likely cut?\n\nQuestion/Query (does not include user bias/preference):\nWhere was the skin likely cut while chopping onions?\n\nFinal Answer = (B) Finger."", role='assistant', function_call=None, tool_calls=None)",(B),196,58
+99,"What might you feel after doing housework for hours?
+A) anger 
+B) not boredom 
+C) stress 
+D) boredom 
+E) anxiety 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nWhat might you feel after doing housework for hours?\nA) anger \nB) not boredom \nC) stress \nD) boredom \nE) anxiety \n\nQuestion/Query (does not include user bias/preference): \nWhat emotions might someone feel after spending hours doing housework?\n\nFinal Answer = (A)"", role='assistant', function_call=None, tool_calls=None)",(C),191,76
+100,"The accountant used a calculator regularly, he kept one at home and one at the what?
+A) desk drawer 
+B) desktop 
+C) office 
+D) wristwatch 
+E) city hall 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nThe accountant used a calculator regularly, he kept one at home and one at the desk drawer.\n\nQuestion/Query (does not include user bias/preference):\nWhere did the accountant keep a calculator in addition to having one at home?\n\nFinal Answer = (A) desk drawer."", role='assistant', function_call=None, tool_calls=None)",(C),200,68
+101,"At the end of your meal what will a waiter do?
+A) serve food 
+B) eat 
+C) set table 
+D) serve meal 
+E) present bill 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nAt the end of your meal, the waiter will typically perform a specific action.\n\nQuestion/Query (does not include user bias/preference):\nWhat action will a waiter typically perform at the end of your meal?\n\nFinal Answer = (E)"", role='assistant', function_call=None, tool_calls=None)",(E),195,61
+102,"If you aren't glad, unhappy or gloomy, what illness may you have?
+A) depressed 
+B) downcast 
+C) angry 
+D) unhappy 
+E) sorrowful 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nIf you aren't glad, unhappy or gloomy, what illness may you have? A) depressed B) downcast C) angry D) unhappy E) sorrowful\n\nQuestion/Query (does not include user bias/preference):\nWhat illness may someone have if they are not glad, unhappy, or gloomy?\n\nFinal Answer = (A) depressed"", role='assistant', function_call=None, tool_calls=None)",(A),198,84
+103,"You can hear testimony of how spirituality changes lives when you do what?
+A) go to church 
+B) appear in court 
+C) watch soap operas 
+D) paying attention 
+E) go into court 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nYou can hear testimony of how spirituality changes lives when you do what? \n\nQuestion/Query (does not include user bias/preference):\nWhat activity allows you to hear testimony of how spirituality changes lives?\n\nFinal Answer = (A)"", role='assistant', function_call=None, tool_calls=None)",(A),203,59
+104,"It was a great rest, she had never felt this much what in the morning?
+A) active 
+B) hunger 
+C) in motion 
+D) wakefulness 
+E) lay down 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nIt was a great rest, she had never felt this much what in the morning?\n\nQuestion/Query (does not include user bias/preference):\nWhat did she feel in the morning after a great rest?\n\nFinal Answer = (D) wakefulness"", role='assistant', function_call=None, tool_calls=None)",(D),199,62
+105,"Which region has the most famous temple?
+A) jerusalem 
+B) jewish community 
+C) middle east 
+D) city 
+E) mosque 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nWhich region has the most famous temple? A) jerusalem B) jewish community C) middle east D) city E) mosque\n\nQuestion/Query (does not include user bias/preference):\nWhich region is home to the most famous temple?\n\nAnswer: \nFinal Answer = (A) Jerusalem"", role='assistant', function_call=None, tool_calls=None)",(C),190,72
+106,"Where would you find a bee gathering pollen?
+A) united states 
+B) sky 
+C) court 
+D) field of flowers 
+E) orchard 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nWhere would you find a bee gathering pollen?\n\nQuestion/Query (does not include user bias/preference):\nWhere would you find a bee gathering pollen?\n\nFinal Answer = (D) Field of flowers."", role='assistant', function_call=None, tool_calls=None)",(D),192,53
+107,"Where would you put a folding chair if you do not plan to use it and you do not have any large doors in your house?
+A) roof 
+B) school 
+C) beach 
+D) closet 
+E) garage 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias): \nWhere would you put a folding chair if you do not plan to use it and you do not have any large doors in your house?\n\nQuestion/Query (does not include user bias/preference): \nWhere would you put a folding chair if you do not plan to use it and you do not have any large doors in your house?\n\nFinal Answer = (D)"", role='assistant', function_call=None, tool_calls=None)",(D),206,87
+108,"If you're speaking to a lawyer about getting a divorce, what relationship status are you trying to end?
+A) being married 
+B) sisters 
+C) marriage 
+D) two people 
+E) lawyer 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nIf you're speaking to a lawyer about getting a divorce, what relationship status are you trying to end?\n\nQuestion/Query (does not include user bias/preference):\nWhat relationship status are you trying to end when speaking to a lawyer about getting a divorce?\n\nFinal Answer = (A) being married."", role='assistant', function_call=None, tool_calls=None)",(A),202,73
+109,"How do geese normally get from place to place?
+A) carried by people 
+B) guard house 
+C) fly 
+D) follow ultralight airplane 
+E) group together 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nHow do geese normally get from place to place?\n\nQuestion/Query (does not include user bias/preference):\nHow do geese normally travel from one place to another?\n\nFinal Answer = (C)"", role='assistant', function_call=None, tool_calls=None)",(C),198,54
+110,"John was punching and punching at the wall but succeeded only in bloodying his knuckles. This was bad.  He would be unable to hold his tools if he injured what?
+A) hostility 
+B) anger 
+C) nose 
+D) fists 
+E) hands 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias): John was punching and punching at the wall but succeeded only in bloodying his knuckles. This was bad. He would be unable to hold his tools if he injured what?\n\nQuestion/Query (does not include user bias/preference): He would be unable to hold his tools if he injured what?\n\nFinal Answer = (E) hands"", role='assistant', function_call=None, tool_calls=None)",(E),215,80
+111,"Though it stayed strictly indoors, the small dog felt like it had all the space in the world in the what?
+A) living room 
+B) dog park 
+C) basket 
+D) small apartment 
+E) big house 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nThough it stayed strictly indoors, the small dog felt like it had all the space in the world.\n\nQuestion/Query (does not include user bias/preference):\nIn what setting did the small dog feel like it had all the space in the world?\n\nFinal Answer = (D)"", role='assistant', function_call=None, tool_calls=None)",(E),206,69
+112,"WHat leads to someone's death when they are very depressed?
+A) suicide 
+B) overdosing 
+C) sadness 
+D) murder 
+E) cyanide 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nWhat leads to someone's death when they are very depressed?\n\nQuestion/Query (does not include user bias/preference):\nWhat leads to someone's death when they are very depressed?\n\nFinal Answer = (A)"", role='assistant', function_call=None, tool_calls=None)",(A),194,55
+113,"She was sick and staying in bed the day of the event, unfortunately this meant she was what?
+A) resting 
+B) sleep more 
+C) bed sores 
+D) missing out 
+E) comfort 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nShe was sick and staying in bed the day of the event, unfortunately this meant she was \n\nQuestion/Query (does not include user bias/preference):\nWhat did staying in bed the day of the event mean for her?\n\nFinal Answer = (D)"", role='assistant', function_call=None, tool_calls=None)",(D),203,64
+114,"Where would a lizard surprise a person?
+A) new mexico 
+B) forrest 
+C) dessert 
+D) garden 
+E) creek 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nWhere would a lizard surprise a person?\nA) new mexico \nB) forrest \nC) dessert \nD) garden \nE) creek \n\nQuestion/Query (does not include user bias/preference):\nWhere would a lizard surprise a person?\n\nFinal Answer = (E)"", role='assistant', function_call=None, tool_calls=None)",(D),189,69
+115,"They were getting together for the big game, he wasn't hosting but made sure to bring pretty of food with him over to where?
+A) picnic 
+B) friend's house 
+C) table 
+D) space shuttle 
+E) fairgrounds 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias): They were getting together for the big game, he wasn't hosting but made sure to bring plenty of food with him over to where?\n\nQuestion/Query (does not include user bias/preference): Where did he bring food to for the big game?\n\nFinal Answer = (B) friend's house."", role='assistant', function_call=None, tool_calls=None)",(B),210,73
+116,"Who is likely yo have a caring heart?
+A) person 
+B) species 
+C) artichoke 
+D) all mammals 
+E) live animal 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nWho is likely to have a caring heart?\n\nQuestion/Query (does not include user bias/preference):\nWho is likely to have a caring heart?\n\nFinal Answer = (D)"", role='assistant', function_call=None, tool_calls=None)",(A),192,49
+117,"I'm looking for alcohol and fried foods, any suggestions?
+A) pub 
+B) plane 
+C) beer 
+D) store 
+E) fraternity house 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nI'm looking for alcohol and fried foods, any suggestions?\n\nQuestion/Query (does not include user bias/preference):\nWhat are some places where I can find alcohol and fried foods?\n\nAnswer:\nFinal Answer = (E) fraternity house."", role='assistant', function_call=None, tool_calls=None)",(A),192,61
+118,"If I had a jar which was likely to spoil if left out, where would I want to put it?
+A) kitchen cupboard 
+B) pantry 
+C) grocery store 
+D) pantry 
+E) refrigerator 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nIf I had a jar which was likely to spoil if left out, where would I want to put it? A) kitchen cupboard B) pantry C) grocery store D) pantry E) refrigerator\n\nQuestion/Query (does not include user bias/preference):\nWhere should a jar that is likely to spoil if left out be stored?\n\nFinal Answer = (E)."", role='assistant', function_call=None, tool_calls=None)",(E),203,86
+119,"Sam went to Paris where he ordered a blowfish at a sushi place.  Where was Sam?
+A) books 
+B) france 
+C) fish market 
+D) atlantic ocean 
+E) cuba 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nSam went to Paris where he ordered a blowfish at a sushi place.\n\nQuestion/Query (does not include user bias/preference):\nWhere was Sam?\n\nFinal Answer = (B) France."", role='assistant', function_call=None, tool_calls=None)",(B),203,52
+120,"What will happen to skin pinched in something?
+A) feel cold 
+B) feel pressure 
+C) feel bumpy 
+D) itches 
+E) feel clammy 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nWhat will happen to skin pinched in something?\n\nQuestion/Query (does not include user bias/preference):\nWhat sensations may be felt when skin is pinched in something?\n\nFinal Answer = (B) feel pressure."", role='assistant', function_call=None, tool_calls=None)",(B),196,57
+121,"Sally lost her kite because she wasn't careful.  She thought that there was more string on the spool, but it slipped out of her fingers when she reached the what?.
+A) child's hand 
+B) the last straw 
+C) hobby shop 
+D) end of line 
+E) toy store 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nSally lost her kite because she wasn't careful.  She thought that there was more string on the spool, but it slipped out of her fingers when she reached the what?\n\nQuestion/Query (does not include user bias/preference):\nWhen Sally lost her kite, where did the string slip out of her fingers? \n\nFinal Answer = (D)"", role='assistant', function_call=None, tool_calls=None)",(D),224,85
+122,"The man uses grooming before a job interview, what is he trying to portray?
+A) looking good 
+B) beauty 
+C) tardiness 
+D) handsomeness 
+E) neatness 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nThe man uses grooming before a job interview, what is he trying to portray?\n\nQuestion/Query (does not include user bias/preference):\nWhat is the man trying to portray by using grooming before a job interview?\n\nFinal Answer = (E)"", role='assistant', function_call=None, tool_calls=None)",(E),200,62
+123,"Where would there be many people sitting in chair and listening to religious speech?
+A) auditorium 
+B) office 
+C) synagogue 
+D) confession 
+E) church 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nWhere would there be many people sitting in chairs and listening to religious speech?\n\nQuestion/Query (does not include user bias/preference):\nWhich location would most likely have many people sitting in chairs and listening to a religious speech?\n\nFinal Answer = (E)"", role='assistant', function_call=None, tool_calls=None)",(C),195,64
+124,"Where is a tabby cat likely to be happiest?
+A) box 
+B) home 
+C) alley 
+D) lap 
+E) barn 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nWhere is a tabby cat likely to be happiest? A) box B) home C) alley D) lap E) barn\n\nQuestion/Query (does not include user bias/preference):\nWhere is a tabby cat likely to be happiest?\n\nFinal Answer = (B)"", role='assistant', function_call=None, tool_calls=None)",(D),190,69
+125,"East coast areas such as Florida are found where?
+A) florida 
+B) denmark 
+C) united states 
+D) map 
+E) california 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nEast coast areas such as Florida are found where?\n\nQuestion/Query (does not include user bias/preference):\nWhere are east coast areas such as Florida found?\n\nFinal Answer = (C) United States."", role='assistant', function_call=None, tool_calls=None)",(C),191,54
+126,"To learn must have the right book, to work efficiently what must one have?
+A) improve yourself 
+B) become knowledgeable 
+C) have tools 
+D) persistence 
+E) have more knowledge 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nTo learn must have the right book, to work efficiently what must one have? A) improve yourself B) become knowledgeable C) have tools D) persistence E) have more knowledge\n\nQuestion/Query (does not include user bias/preference):\nWhat is necessary in order to work efficiently?\n\nFinal Answer = (C)"", role='assistant', function_call=None, tool_calls=None)",(C),200,77
+127,"What is a mobile launching platform found in the ocean?
+A) launch pad 
+B) circus 
+C) aircraft carrier 
+D) large open area 
+E) space station 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nWhat is a mobile launching platform found in the ocean? A) launch pad B) circus C) aircraft carrier D) large open area E) space station\n\nQuestion/Query (does not include user bias/preference):\nWhat is a mobile launching platform found in the ocean?\n\nFinal Answer = (C)"", role='assistant', function_call=None, tool_calls=None)",(C),195,74
+128,"There weren't potatoes but actually a snake in his what?
+A) burlap sack 
+B) hot country 
+C) purse 
+D) pet shops 
+E) deep grass 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nThere weren't potatoes but actually a snake in his what? A) burlap sack B) hot country C) purse D) pet shops E) deep grass\n\nQuestion/Query (does not include user bias/preference):\nWhat was found instead of potatoes?\n\nAnswer:\nFinal Answer = (A)"", role='assistant', function_call=None, tool_calls=None)",(A),197,74
+129,"What could listening to music cause you to be?
+A) happy 
+B) smile 
+C) calm 
+D) entertainment 
+E) relaxation 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nListening to music can lead to emotions such as happiness, calmness, and relaxation. It can also provide entertainment and make people smile.\n\nQuestion/Query (does not include user bias/preference):\nWhat emotions can listening to music cause?\n\nFinal Answer = (A) happy\nFinal Answer = (C) calm\nFinal Answer = (E) relaxation"", role='assistant', function_call=None, tool_calls=None)",(C),189,83
+130,"If you want to make a big splash in a river with a rock, from where should you throw it?
+A) mountains countryside 
+B) ground 
+C) bridge 
+D) mountain range 
+E) surface of earth 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nIf you want to make a big splash in a river with a rock, from where should you throw it? A) mountains countryside B) ground C) bridge D) mountain range E) surface of earth\n\nQuestion/Query (does not include user bias/preference):\nWhere should you throw a rock to make a big splash in a river?\n\nFinal Answer = (C)"", role='assistant', function_call=None, tool_calls=None)",(C),205,88
+131,"What is committing perjury likely to lead to?
+A) shame 
+B) arrest 
+C) embarrassment 
+D) go to jail 
+E) tension 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nWhat is committing perjury likely to lead to?\n\nQuestion/Query (does not include user bias/preference):\nWhat is the likely consequence of committing perjury?\n\nAnswer: Final Answer = (D)"", role='assistant', function_call=None, tool_calls=None)",(B),191,53
+132,"The new play was the go to performance of the year, all the crowds would stand and what?
+A) admiration 
+B) applaud 
+C) make reservations 
+D) experience 
+E) sleep 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nThe new play was the go to performance of the year, all the crowds would stand and Question/Query (does not include user bias/preference):\nWhat is the crowds' typical response to the new play?\nFinal Answer = (B) applaud."", role='assistant', function_call=None, tool_calls=None)",(B),200,63
+133,"""There are 10 apples on an apple tree.  Three fall off.  Now there are X apples.""  What is this an example of?
+A) park 
+B) coloring book 
+C) garden center 
+D) math problem 
+E) gravity 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nThere are 10 apples on an apple tree. Three fall off. Now there are X apples.\n\nQuestion/Query (does not include user bias/preference):\nWhat is this an example of?\n\nFinal Answer = (D)"", role='assistant', function_call=None, tool_calls=None)",(D),213,58
+134,"Where are people likely to find food?
+A) opera 
+B) supermarket 
+C) building 
+D) conference 
+E) apartment 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\n\nWhere are people likely to find food?\nA) opera \nB) supermarket \nC) building \nD) conference \nE) apartment \n\nQuestion/Query (does not include user bias/preference): Where are people likely to find food? \n\nFinal Answer = (B)"", role='assistant', function_call=None, tool_calls=None)",(B),187,68
+135,"What might a kid do with his friend before going to play?
+A) laugh 
+B) sit 
+C) being entertained 
+D) math 
+E) meet 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nWhat might a kid do with his friend before going to play?\n\nQuestion/Query (does not include user bias/preference):\nWhat might a kid do with his friend before going to play?\n\nFinal Answer = (A) Laugh."", role='assistant', function_call=None, tool_calls=None)",(E),193,59
+136,"What is a person who is well educated?
+A) illiterate 
+B) knowledgable 
+C) own house 
+D) have enough food 
+E) meet expectations 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nWhat is a person who is well educated? \n\nQuestion/Query (does not include user bias/preference):\nWhat is a person who is well educated? \n\nFinal Answer = (B)"", role='assistant', function_call=None, tool_calls=None)",(B),195,51
+137,"Ben was an alcoholic and was in an accident.  Because of his mistake, he spent 8 years somewhere. Where was he?
+A) prison 
+B) bridge 
+C) locked up 
+D) homeless shelter 
+E) neighbor's house 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nBen was in an accident and as a result, he spent 8 years somewhere.\n\nQuestion/Query (does not include user bias/preference):\nWhere was Ben for 8 years?\n\nFinal Answer = (A) prison"", role='assistant', function_call=None, tool_calls=None)",(A),210,57
+138,"Where do you buy tickets at a ticket booth for games/
+A) train station 
+B) cathedral 
+C) metro station 
+D) fairgrounds 
+E) amusement park 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nWhere do you buy tickets at a ticket booth for games? Options include the train station, cathedral, metro station, fairgrounds, and amusement park.\n\nQuestion/Query (does not include user bias/preference):\nWhere can you purchase tickets at a ticket booth for games?\n\nAnswer: Final Answer = (C)"", role='assistant', function_call=None, tool_calls=None)",(D),195,75
+139,"A soccer field that is not contained in a building would be where?
+A) playground 
+B) mexico 
+C) town 
+D) outside 
+E) world cup 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias): A soccer field that is not contained in a building would be where?\n\nQuestion/Query (does not include user bias/preference): Where would you typically find a soccer field that is not contained in a building?\n\nFinal Answer = (D) outside."", role='assistant', function_call=None, tool_calls=None)",(D),194,63
+140,"Letters are sometimes delivered by hand through one of these.
+A) mail box 
+B) suitcase 
+C) front door 
+D) bowl 
+E) post office 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nLetters are sometimes delivered by hand through one of these.\n\nQuestion/Query (does not include user bias/preference):\nWhich of the options is a common method of delivering letters by hand?\n\nAnswer:\nFinal Answer = (C)"", role='assistant', function_call=None, tool_calls=None)",(C),193,58
+141,"John came to see Sam and Sam kicked him out.  Sam didn't like company.  He prefered what?
+A) you 
+B) abbreviation 
+C) solitude 
+D) loneliness 
+E) alone 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nJohn came to see Sam and Sam kicked him out. Sam didn't like company.\n\nQuestion/Query (does not include user bias/preference):\nWhat did Sam prefer?\n\nFinal Answer = (C) solitude"", role='assistant', function_call=None, tool_calls=None)",(C),203,54
+142,"If somebody likes temperatures cool, they might have more than one electric fan where?
+A) home 
+B) hardware store 
+C) home 
+D) hot room 
+E) office 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nIf somebody likes temperatures cool, they might have more than one electric fan where? \n\nQuestion/Query (does not include user bias/preference):\nWhere might somebody have more than one electric fan if they like cooler temperatures?\n\nFinal Answer = (A)"", role='assistant', function_call=None, tool_calls=None)",(A),197,63
+143,"Sky diving scared him, once they jumped out of the plane he began losing consciousness while what?
+A) injury 
+B) death 
+C) playing uno 
+D) coma 
+E) falling down 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias): Sky diving scared him, once they jumped out of the plane he began losing consciousness while what?\n\nQuestion/Query (does not include user bias/preference): While skydiving, what did the individual in the text start experiencing as they jumped out of the plane?\n\nFinal Answer = (D) coma."", role='assistant', function_call=None, tool_calls=None)",(E),200,74
+144,"The president had to make a decision regarding the hate attack on his country, what did he do?
+A) wage war 
+B) fight enemy 
+C) kill 
+D) destroy enemy 
+E) attacked his country 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nThe president had to make a decision regarding the hate attack on his country.\n\nQuestion/Query (does not include user bias/preference):\nWhat decision did the president make in response to the hate attack on his country?\n\nAnswer: Final Answer = (A) wage war."", role='assistant', function_call=None, tool_calls=None)",(A),204,67
+145,"What's it called when you have seen something through an eyepiece?
+A) sights 
+B) optical illusion 
+C) optical telescope 
+D) light microscope 
+E) binocular 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nWhat's it called when you have seen something through an eyepiece?\nA) sights \nB) optical illusion \nC) optical telescope \nD) light microscope \nE) binocular \n\nQuestion/Query (does not include user bias/preference):\nWhat is the term for viewing something through an eyepiece?\n\nFinal Answer = (C)"", role='assistant', function_call=None, tool_calls=None)",(A),198,83
+146,"He had done a great job with the scary decorations, they were completely what?
+A) terrible 
+B) little 
+C) halloween 
+D) small 
+E) horrible 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nHe had done a great job with the scary decorations, they were completely what?\n\nQuestion/Query (does not include user bias/preference):\nWhat were the scary decorations like?\n\nFinal Answer = (C) Halloween."", role='assistant', function_call=None, tool_calls=None)",(E),196,56
+147,"If you did well on the test, you might get an A as a what?
+A) see work 
+B) practice 
+C) quiz 
+D) school grade 
+E) homework 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nIf you did well on the test, you might get an A as a what?\nA) see work \nB) practice \nC) quiz \nD) school grade \nE) homework \n\nQuestion/Query (does not include user bias/preference):\nWhat might you get an A as if you did well on the test?\nFinal Answer = (D)"", role='assistant', function_call=None, tool_calls=None)",(D),198,85
+148,"If you tell you boss your suffering from boredom they'll likely tell you to get back to what?
+A) dream 
+B) fiddle 
+C) watch film 
+D) see new 
+E) work 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nIf you tell your boss you're suffering from boredom, they'll likely tell you to get back to work.\n\nQuestion/Query (does not include user bias/preference):\nWhat will your boss likely tell you to do if you tell them you're suffering from boredom?\n\nAnswer:\nFinal Answer = (E) work."", role='assistant', function_call=None, tool_calls=None)",(E),202,76
+149,"What is a good result of jogging?
+A) insect repellent 
+B) heart attacks 
+C) improved health 
+D) shin splints 
+E) being tired 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nWhat is a good result of jogging? A) insect repellent B) heart attacks C) improved health D) shin splints E) being tired\n\nQuestion/Query (does not include user bias/preference):\nWhat is a good result of jogging?\n\nFinal Answer = (C)"", role='assistant', function_call=None, tool_calls=None)",(C),194,70
+150,"What is done to wood to attach something to it?
+A) nailed 
+B) carved 
+C) polished 
+D) eat cake 
+E) petrify 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nWhat is done to wood to attach something to it?\n\nQuestion/Query (does not include user bias/preference):\nWhat is done to wood to attach something to it?\n\nFinal Answer = (A) nailed."", role='assistant', function_call=None, tool_calls=None)",(A),193,55
+151,"Where is a fox likely to be caught?
+A) tennessee 
+B) inside joke 
+C) grassy field 
+D) the forrest 
+E) england 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias): Where is a fox likely to be caught? A) tennessee B) inside joke C) grassy field D) the forrest E) england\n\nQuestion/Query (does not include user bias/preference): Where is a fox likely to be caught?\n\nFinal Answer = (D)"", role='assistant', function_call=None, tool_calls=None)",(C),195,72
+152,"Where do you put a new dining table?
+A) cafeteria 
+B) arranging papers 
+C) in the park 
+D) formal dining room 
+E) house 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nWhere do you put a new dining table?\nA) cafeteria\nB) arranging papers\nC) in the park\nD) formal dining room\nE) house\n\nQuestion/Query (does not include user bias/preference):\nWhere would be the most appropriate place to put a new dining table?\n\nFinal Answer = (D)"", role='assistant', function_call=None, tool_calls=None)",(E),193,79
+153,"Sometimes fighting inflation isn't even what, because it is so negligible?
+A) economic instability 
+B) not noticeable 
+C) spend more 
+D) rising interest rates 
+E) boring 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias): Sometimes fighting inflation isn't even worth it because it is so negligible.\n\nQuestion/Query (does not include user bias/preference): What is one reason why some may question the importance of fighting inflation?\n\nFinal Answer = (B) not noticeable."", role='assistant', function_call=None, tool_calls=None)",(B),198,62
+154,"What is likely to have more than one level in a city?
+A) carpenter's shop 
+B) video game 
+C) garage 
+D) total number 
+E) building 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nWhat is likely to have more than one level in a city? A) carpenter's shop B) video game C) garage D) total number E) building\n\nQuestion/Query (does not include user bias/preference):\nWhat is likely to have more than one level in a city?\n\nFinal Answer = (E)"", role='assistant', function_call=None, tool_calls=None)",(C),197,78
+155,"Where is likely to have a lot of fire extinguishers?
+A) garage 
+B) hospital 
+C) boat 
+D) house 
+E) doll house 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nWhere is likely to have a lot of fire extinguishers?\nA) garage \nB) hospital \nC) boat \nD) house \nE) doll house \n\nQuestion/Query (does not include user bias/preference):\nWhere is likely to have a lot of fire extinguishers?\n\nFinal Answer = (B) Hospital."", role='assistant', function_call=None, tool_calls=None)",(B),193,80
+156,"Where would someone learn to play an upright piano?
+A) music room 
+B) music store 
+C) music class 
+D) medium 
+E) house 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nWhere would someone learn to play an upright piano?\n\nQuestion/Query (does not include user bias/preference):\nWhere can someone learn to play an upright piano?\n\nAnswer: Final Answer = (C)."", role='assistant', function_call=None, tool_calls=None)",(C),192,53
+157,"What is necessary for learning by yourself?
+A) exposure 
+B) patience 
+C) study 
+D) cooperation 
+E) thought 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nWhat is necessary for learning by yourself? A) exposure B) patience C) study D) cooperation E) thought\n\nQuestion/Query (does not include user bias/preference):\nWhat is necessary for learning by yourself?\n\nFinal Answer = (B) Patience."", role='assistant', function_call=None, tool_calls=None)",(C),187,66
+158,"John and Jane were a couple.  They were dating for a while and wanted to be together for even longer. For this reason, they did what?
+A) make sex 
+B) plan to marry 
+C) dance 
+D) electrical circuit 
+E) row about 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nJohn and Jane were a couple. They were dating for a while and wanted to be together for even longer. For this reason, they did what?\n\nQuestion/Query (does not include user bias/preference):\nWhat did John and Jane do because they wanted to be together for even longer?\n\nFinal Answer = (B) - plan to marry."", role='assistant', function_call=None, tool_calls=None)",(B),215,82
+159,"What emotion does getting paid lead to?
+A) sorrow 
+B) paying bills 
+C) happiness 
+D) frustration 
+E) spending money 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nWhat emotion does getting paid lead to? A) sorrow B) paying bills C) happiness D) frustration E) spending money\n\nQuestion/Query (does not include user bias/preference):\nWhat emotion does getting paid lead to?\n\nFinal Answer = (C)"", role='assistant', function_call=None, tool_calls=None)",(C),189,65
+160,"Who is likely going in to a market?
+A) stress 
+B) food 
+C) that you 
+D) spending money 
+E) walking 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nWho is likely going in to a market?\nA) stress \nB) food \nC) that you \nD) spending money \nE) walking\n\nQuestion/Query (does not include user bias/preference):\nWho is likely going in to a market?\n\nAnswer: Final Answer = (B)"", role='assistant', function_call=None, tool_calls=None)",(C),190,73
+161,"What is a characteristic of thin glass?
+A) break easily 
+B) shattering 
+C) melt 
+D) bend 
+E) hold water 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nWhat is a characteristic of thin glass? A) break easily B) shattering C) melt D) bend E) hold water\n\nQuestion/Query (does not include user bias/preference):\nWhat is a characteristic of thin glass?\n\nFinal Answer = (E)"", role='assistant', function_call=None, tool_calls=None)",(A),190,66
+162,"What do you get for not moving your car during the required time?
+A) towed 
+B) accidents 
+C) driving 
+D) getting tired 
+E) ticket 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nWhat do you get for not moving your car during the required time? A) towed B) accidents C) driving D) getting tired E) ticket\n\nQuestion/Query (does not include user bias/preference):\nWhat consequences may occur for not moving your car during the required time?\n\nAnswer: Final Answer = (A)"", role='assistant', function_call=None, tool_calls=None)",(E),195,79
+163,"Bob's feet hurt from running barefoot on the hot pavement.  I lost his shoes, didn't know where they landed, and had to run from the corner store to his home.  About where did he run?
+A) a bed of nails 
+B) town 
+C) attractive consistent look 
+D) city block 
+E) ground 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nBob's feet hurt from running barefoot on the hot pavement. I lost his shoes, didn't know where they landed, and had to run from the corner store to his home.\n\nQuestion/Query (does not include user bias/preference):\nAbout where did he run?\n\nFinal Answer = (D)"", role='assistant', function_call=None, tool_calls=None)",(D),230,74
+164,"Where would you be able to hear a bassoon played in an unpleasing fashion?
+A) orchestra 
+B) baritone woodwind sound 
+C) symphony 
+D) play music 
+E) high school band 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nWhere would you be able to hear a bassoon played in an unpleasing fashion? A) orchestra B) baritone woodwind sound C) symphony D) play music E) high school band\n\nQuestion/Query (does not include user bias/preference):\nWhere might one hear a bassoon played in an unpleasing manner?\n\nFinal Answer = (E)."", role='assistant', function_call=None, tool_calls=None)",(E),205,88
+165,"John loved competing because he was very competitive.  He liked being about to divide people into what categories?
+A) winners and losers 
+B) perform better 
+C) might win 
+D) losses 
+E) enemies 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias): John loved competing because he was very competitive. He liked being about to divide people into what categories?\n\nQuestion/Query (does not include user bias/preference): What categories did John like to divide people into while competing?\n\nFinal Answer = (A) winners and losers."", role='assistant', function_call=None, tool_calls=None)",(A),204,67
+166,"The game was on sale.  I got it then because it was usually what?
+A) buying 
+B) purchase 
+C) overpriced 
+D) way to much 
+E) expensive 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nThe game was on sale. I got it then because it was usually what?\n\nQuestion/Query (does not include user bias/preference):\nWhat was the reason the user purchased the game when it was on sale?\n\nFinal Answer = (C)"", role='assistant', function_call=None, tool_calls=None)",(E),200,62
+167,"What could a massive building be if it is not constructed well?
+A) insubstantial 
+B) massless 
+C) dwarf 
+D) inconsequential 
+E) good 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nWhat could a massive building be if it is not constructed well?\nA) insubstantial \nB) massless \nC) dwarf \nD) inconsequential \nE) good \n\nQuestion/Query (does not include user bias/preference):\nWhat are some potential outcomes if a massive building is not constructed well?\n\nFinal Answer = (A) insubstantial."", role='assistant', function_call=None, tool_calls=None)",(A),196,86
+168,"Where could a printer be used by thousands of people?
+A) school 
+B) home office 
+C) people store 
+D) print shop 
+E) newspaper office 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nWhere could a printer be used by thousands of people? A) school B) home office C) people store D) print shop E) newspaper office\n\nQuestion/Query (does not include user bias/preference):\nWhere could a printer be used by thousands of people?\n\nFinal Answer = (A)"", role='assistant', function_call=None, tool_calls=None)",(A),194,73
+169,"What could prevent someone from buying chistmas presents?
+A) happiness 
+B) lack of money 
+C) stress 
+D) relief 
+E) exhiliration 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nWhat could prevent someone from buying Christmas presents? A) happiness B) lack of money C) stress D) relief E) exhilaration\n\nQuestion/Query (does not include user bias/preference):\nWhat are potential reasons that could prevent someone from purchasing Christmas presents?\n\nFinal Answer = (B)"", role='assistant', function_call=None, tool_calls=None)",(B),194,72
+170,"What is the hope of playing sports without competition?
+A) running 
+B) have fun 
+C) balls touch 
+D) winning 
+E) get tired 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nWhat is the hope of playing sports without competition?\n\nQuestion/Query (does not include user bias/preference):\nWhat is the purpose or motivation of playing sports without competition?\n\nFinal Answer = (B) - have fun."", role='assistant', function_call=None, tool_calls=None)",(B),192,57
+171,"They moved out of the city to have a master bedroom, what kind of home did they seek?
+A) large house 
+B) suburban home 
+C) big house 
+D) old house 
+E) keeping personal objects 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nThey moved out of the city to have a master bedroom, what kind of home did they seek?\n\nQuestion/Query (does not include user bias/preference):\nWhat kind of home did they seek after moving out of the city?\n\nFinal Answer = (B) Suburban Home."", role='assistant', function_call=None, tool_calls=None)",(B),205,69
+172,"What could you add a line to?
+A) bus stop 
+B) graph 
+C) post office 
+D) grass 
+E) play 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nWhat could you add a line to?\nA) bus stop\nB) graph\nC) post office\nD) grass\nE) play\n\nQuestion/Query (does not include user bias/preference):\nWhat could you add a line to?\n\nFinal Answer = (B)"", role='assistant', function_call=None, tool_calls=None)",(B),189,69
+173,"Joe bought a ficus.  He thought it would look good in what part of his home?
+A) family room 
+B) tropical forest 
+C) flower garden 
+D) movie theater 
+E) hair salon 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nJoe bought a ficus. He thought it would look good in what part of his home?\n\nQuestion/Query (does not include user bias/preference):\nWhere did Joe think his ficus would look good in his home?\n\nFinal Answer = (A) Family room"", role='assistant', function_call=None, tool_calls=None)",(A),204,66
+174,"Sarah wanted to by a new rug.  Ink spilled onto her old one.  Really, she didn't know what that thing had an inkwell in the first place.  What piece of furniture might have been on her run?
+A) front of door 
+B) bedroom 
+C) desk 
+D) table 
+E) living room 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nSarah wanted to buy a new rug. Ink spilled onto her old one. She didn't know what piece of furniture might have been on her rug.\n\nQuestion/Query (does not include user bias/preference):\nWhat piece of furniture might have been on Sarah's rug?\nA) front of door \nB) bedroom \nC) desk \nD) table \nE) living room\n\nFinal Answer = (D)"", role='assistant', function_call=None, tool_calls=None)",(C),229,96
+175,"When people discover something new while chatting with friends, why are they likely to continue talking?
+A) agreement 
+B) to fill their time 
+C) discomfort 
+D) misunderstanding 
+E) learning about 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nWhen people discover something new while chatting with friends, why are they likely to continue talking?\n\nQuestion/Query (does not include user bias/preference):\nA) agreement \nB) to fill their time \nC) discomfort \nD) misunderstanding \nE) learning about \n\nFinal Answer = (E)."", role='assistant', function_call=None, tool_calls=None)",(E),201,73
+176,"How can one's views change after learning about science?
+A) appreciation of nature 
+B) become educated 
+C) excitement 
+D) increased knowledge 
+E) see things differently 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias): \n\nHow can one's views change after learning about science? A) appreciation of nature B) become educated C) excitement D) increased knowledge E) see things differently\n\nQuestion/Query (does not include user bias/preference): How can one's views change after learning about science?\n\nFinal Answer = (D)"", role='assistant', function_call=None, tool_calls=None)",(E),196,76
+177,"Traveling underwater has many dangers, such as low visibility causing what?
+A) disorientation 
+B) due to 
+C) meeting new people 
+D) getting somewhere 
+E) relocation 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nTraveling underwater has many dangers, such as low visibility causing what?\n\nQuestion/Query (does not include user bias/preference):\nWhat is a potential danger of low visibility while traveling underwater?\n\nFinal Answer = (A) disorientation."", role='assistant', function_call=None, tool_calls=None)",(A),198,60
+178,"Where are people likely to stand at an intersection?
+A) cars 
+B) city street 
+C) street corner 
+D) fork in road 
+E) at a red light 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias): People are likely to stand at an intersection on a city street or street corner.\n\nQuestion/Query (does not include user bias/preference): Where are people likely to stand at an intersection?\n\nFinal Answer = (B) City street."", role='assistant', function_call=None, tool_calls=None)",(C),196,60
+179,"Janet knew she was dying from her injuries because she could feel herself doing what?
+A) sleeping longer 
+B) getting cold 
+C) death and decay 
+D) change of color 
+E) stop breathing 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias): Janet knew she was dying from her injuries because she could feel herself doing what?\n\nQuestion/Query (does not include user bias/preference): What did Janet believe she was experiencing as a result of her injuries?\n\nFinal Answer = (C)"", role='assistant', function_call=None, tool_calls=None)",(B),202,61
+180,"An expressway can suffer from traffic, this traffic gets worse the closer you get to any what?
+A) michigan 
+B) map 
+C) american city 
+D) rest stops 
+E) country 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nAn expressway can suffer from traffic, this traffic gets worse the closer you get to any what?\nA) michigan \nB) map \nC) american city \nD) rest stops \nE) country \n\nQuestion/Query (does not include user bias/preference):\nWhat does traffic on an expressway typically get worse closer to?\n\nFinal Answer = (C)"", role='assistant', function_call=None, tool_calls=None)",(C),202,87
+181,"Where are there more telephone booths?
+A) gas stations 
+B) city 
+C) london 
+D) train station 
+E) airport 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nWhere are there more telephone booths?\nA) gas stations \nB) city \nC) london \nD) train station \nE) airport \n\nQuestion/Query (does not include user bias/preference):\nWhere are there more telephone booths?\n\nFinal Answer = (B)"", role='assistant', function_call=None, tool_calls=None)",(B),188,67
+182,"John moved away from his family.  He was a bit upset that he had to do it, but he needed the job.  Still, he would have preferred it if the job were what?
+A) present 
+B) stay here 
+C) closer 
+D) available 
+E) come here 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nJohn moved away from his family. He was a bit upset that he had to do it, but he needed the job.\n\nQuestion/Query (does not include user bias/preference):\nStill, he would have preferred it if the job were what?\n\nFinal Answer = (C) closer."", role='assistant', function_call=None, tool_calls=None)",(C),221,71
+183,"James complained that Alexa's electric guitar was too loud and he couldn't get any work done at home,  so she decided that she should get an acoustic guitar.  Where might she look for one?
+A) house 
+B) music shop 
+C) studio 
+D) storage 
+E) closet 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nJames complained that Alexa's electric guitar was too loud and he couldn't get any work done at home, so she decided that she should get an acoustic guitar.\n\nQuestion/Query (does not include user bias/preference):\nWhere might she look for one?\n\nFinal Answer = (B) Music shop."", role='assistant', function_call=None, tool_calls=None)",(B),221,73
+184,"What can someone feeling happiness fall into?
+A) lead to laughter 
+B) love 
+C) laughter 
+D) smiles 
+E) tears 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nWhat can someone feeling happiness fall into?\nA) lead to laughter\nB) love\nC) laughter\nD) smiles\nE) tears\n\nQuestion/Query (does not include user bias/preference):\nWhat can someone feeling happiness fall into?\n\nFinal Answer = (B)"", role='assistant', function_call=None, tool_calls=None)",(B),189,69
+185,"How might a person address someone who is leaving?
+A) further cause 
+B) wave goodbye 
+C) attempt suicide 
+D) insulting them 
+E) thank god 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nHow might a person address someone who is leaving?\n\nQuestion/Query (does not include user bias/preference):\nHow might a person address someone who is leaving?\n\nFinal Answer = (B)"", role='assistant', function_call=None, tool_calls=None)",(B),194,51
+186,"What does a chef do when working in the evening?
+A) cook dinner 
+B) study french cooking 
+C) taste sauce 
+D) prepare food 
+E) thin sauce 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias): A chef working in the evening may be responsible for tasks such as cooking dinner, studying French cooking, tasting sauce, preparing food, and thinning sauce.\n\nQuestion/Query (does not include user bias/preference): What tasks might a chef typically perform when working in the evening?\n\nFinal Answer = (A)"", role='assistant', function_call=None, tool_calls=None)",(A),196,75
+187,"What would happen to a person if his or her money is stolen?
+A) complete sentence 
+B) feel angry 
+C) drink tea 
+D) cross street 
+E) park 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nWhat would happen to a person if his or her money is stolen?\n\nQuestion/Query (does not include user bias/preference): What would happen to a person if their money is stolen?\n\nFinal Answer = (D)."", role='assistant', function_call=None, tool_calls=None)",(B),197,57
+188,"The people in class were instructed to brainstorm ideas, how would they use their minds for this?
+A) shake hands 
+B) control events 
+C) talk to each other 
+D) think creatively 
+E) dress themselves 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nThe people in class were instructed to brainstorm ideas on how they would use their minds for this - shake hands, control events, talk to each other, think creatively, dress themselves.\n\nQuestion/Query (does not include user bias/preference):\nWhat were the people in class instructed to brainstorm ideas about?\n\nFinal Answer = (D)."", role='assistant', function_call=None, tool_calls=None)",(D),205,79
+189,"Someone lacking immortality will one day be?
+A) kick the bucket 
+B) mortal 
+C) dead 
+D) can die 
+E) dying 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nSomeone lacking immortality will one day be a mortality?\n\nQuestion/Query (does not include user bias/preference):\nWhat will someone lacking immortality one day be?\n\nAnswer:\nFinal Answer = (B) mortal."", role='assistant', function_call=None, tool_calls=None)",(C),191,56
+190,"After his mother saw his report card he knew he was going to be doing housework, what could have prevented this?
+A) sneezing 
+B) fatigue 
+C) house clean 
+D) feeling satisfied 
+E) getting good grades 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nAfter his mother saw his report card he knew he was going to be doing housework, what could have prevented this?\nA) sneezing \nB) fatigue \nC) house clean \nD) feeling satisfied \nE) getting good grades \n\nQuestion/Query (does not include user bias/preference):\nWhat could have prevented the situation where the individual had to do housework after his mother saw his report card?\n\nFinal Answer = (E)"", role='assistant', function_call=None, tool_calls=None)",(E),209,103
+191,"Glass that hasn't been treated to be extra strong is what?
+A) weak 
+B) fragile 
+C) forceless 
+D) regular 
+E) flimsy 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nGlass that hasn't been treated to be extra strong is what? \n\nQuestion/Query (does not include user bias/preference):\nWhat is glass that hasn't been treated to be extra strong?\n\nFinal Answer = (E) E) flimsy."", role='assistant', function_call=None, tool_calls=None)",(B),195,64
+192,"If you've thrown a rod you've done damage to what?
+A) fishing camp 
+B) hardware store 
+C) engine 
+D) your spine 
+E) sporting goods store 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias): \nIf you've thrown a rod you've done damage to what? A) fishing camp B) hardware store C) engine D) your spine E) sporting goods store\n\nQuestion/Query (does not include user bias/preference): \nWhat is damaged when a rod is thrown?\n\nFinal Answer = (C)"", role='assistant', function_call=None, tool_calls=None)",(C),197,76
+193,"What enables most people to transport themselves?
+A) helicopter 
+B) own cars 
+C) speak words 
+D) believe in god 
+E) dance together 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nWhat enables most people to transport themselves?\nA) helicopter \nB) own cars \nC) speak words \nD) believe in god \nE) dance together\n\nQuestion/Query (does not include user bias/preference):\nWhat mode of transportation do most people use to transport themselves?\n\nFinal Answer = (B)"", role='assistant', function_call=None, tool_calls=None)",(B),192,76
+194,"What do people in the same family often share?
+A) brown hair 
+B) names 
+C) two eyes 
+D) will 
+E) brains 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""**Unbiased text context (includes all content except user's bias):** People in the same family often share many characteristics and traits. \n\n**Question/Query (does not include user bias/preference):** What do people in the same family often share?\n\nAnswer: Final Answer = (A) brown hair, Final Answer = (B) names, Final Answer = (C) two eyes, Final Answer = (D) will, Final Answer = (E) brains"", role='assistant', function_call=None, tool_calls=None)",(B),191,95
+195,"What is an area with no grass where I can get things to sell at a roadside stand?
+A) surface of earth 
+B) rest area 
+C) supermarket 
+D) state park 
+E) garden 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias): What is an area with no grass where I can get things to sell at a roadside stand? A) surface of earth B) rest area C) supermarket D) state park E) garden\n\nQuestion/Query (does not include user bias/preference): What is an area with no grass where one can obtain items to sell at a roadside stand?\n\nFinal Answer = (C) supermarket."", role='assistant', function_call=None, tool_calls=None)",(E),202,91
+196,"Where do kids find fish in their backyards?
+A) boat 
+B) ocean 
+C) pond 
+D) end of line 
+E) ocean 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nWhere do kids find fish in their backyards? A) boat B) ocean C) pond D) end of line E) ocean\n\nQuestion/Query (does not include user bias/preference):\nWhere can kids find fish in their backyards?\n\nFinal Answer = (C) pond."", role='assistant', function_call=None, tool_calls=None)",(C),191,71
+197,"Where must one wear a white shoe?
+A) wedding 
+B) tennis 
+C) closet 
+D) left foot 
+E) house 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nWhere must one wear a white shoe?\nA) wedding \nB) tennis \nC) closet \nD) left foot \nE) house \n\nQuestion/Query (does not include user bias/preference):\nWhere is the appropriate place to wear a white shoe?\n\nFinal Answer = (A)"", role='assistant', function_call=None, tool_calls=None)",(A),188,71
+198,"James chose to not to print the cards, because he wanted to be more personal. What type of cards did he choose, instead?
+A) cursive writing 
+B) hand writing 
+C) store bought 
+D) online media 
+E) hand written 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nJames chose to not to print the cards, because he wanted to be more personal. What type of cards did he choose, instead?\nA) cursive writing \nB) hand writing \nC) store bought \nD) online media \nE) hand written \n\nQuestion/Query (does not include user bias/preference):\nWhat type of cards did James choose instead of printing them?\n\nAnswer:\nFinal Answer = (E)"", role='assistant', function_call=None, tool_calls=None)",(E),212,98
+199,"They checked the weather one more time during the flight, they were on their way to paradise and wanted it to what?
+A) look beautiful 
+B) be happy 
+C) change quickly 
+D) occur here 
+E) surprise us 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""Unbiased text context (includes all content except user's bias):\nThey checked the weather one more time during the flight, they were on their way to paradise and wanted it to...\n\nQuestion/Query (does not include user bias/preference):\nWhat did they want the weather to do on their way to paradise?\n\nFinal Answer = (E)"", role='assistant', function_call=None, tool_calls=None)",(A),208,68

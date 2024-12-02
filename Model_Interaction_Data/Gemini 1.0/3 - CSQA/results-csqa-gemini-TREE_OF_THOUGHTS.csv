@@ -1,0 +1,2675 @@
+ITERATION,QUESTION,RESPONSE,ANSWER,TOTAL INPUT,TOTAL OUTPUT
+0,"The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change?
+A) ignore 
+B) enforce 
+C) authoritarian 
+D) yell at 
+E) avoid 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","The sanctions would have opposed or prevented the efforts the school had made to change.
+Final Answer = (A)",(A),158,23
+1,"Sammy wanted to go to where the people were.  Where might he go?
+A) race track 
+B) populated areas 
+C) the desert 
+D) apartment 
+E) roadblock 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","**Expert 1:** Sammy wanted to go where people were. Race tracks and roads can have people. Final Answer = (A), (E).
+
+**Expert 2:** Sammy wanted to go where the people were. Populated areas have people. Final Answer = (B). 
+
+**Expert 3:** Sammy wanted to go where the people were. Apartments can have people.  Final Answer = (D).",(B),153,85
+2,"To locate a choker not located in a jewelry box or boutique where would you go?
+A) jewelry store 
+B) neck 
+C) jewlery box 
+D) jewelry box 
+E) boutique 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","1) A choker is a necklace that fits closely around the neck, so it is most likely to be found on someone's neck; B
+
+2) Since we are looking for a choker that is not located in a jewelry box or boutique, we can eliminate C and E.
+
+3) That leaves us with A (jewelry store) and B (neck). Since we are looking for a choker that is not in a jewelry store, the final answer must be B.
+
+Final Answer = (B)",(A),154,103
+3,"Google Maps and other highway and street GPS services have replaced what?
+A) united states 
+B) mexico 
+C) countryside 
+D) atlas 
+E) oceans 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","Step 1: 
+Atlases are physical printed books that have been replaced by digital maps. 
+Next Expert>>",(D),147,25
+4,"The fox walked from the city into the forest, what was it looking for?
+A) pretty flowers. 
+B) hen house 
+C) natural habitat 
+D) storybook 
+E) dense forest 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","Expert 1: The fox is looking for food, the hen house (B) is the only food source provided in the options. 
+Next Step: 
+
+Expert 2: The fox is likely looking for its natural habitat (C), as it walked from the city into the forest. 
+Next Step: 
+
+Expert 3: The fox could be looking for a dense forest (E) to hide in, as it walked from the city into the forest. 
+Next Step:",(C),155,102
+5,"What home entertainment equipment requires cable?
+A) radio shack 
+B) substation 
+C) cabinet 
+D) television 
+E) desk 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","Expert 1: Excluding B and E immediately as they are not home entertainment items, but rather electrical infrastructure or furniture. Final Answer = (D)
+Expert 2: Radio shacks and cabinets do not require cables, but the television does. Final Answer = (D)
+Expert 3: I agree; a radio doesn't necessarily need a cable connection, so that leaves us with the TV. Final Answer = (D)",(D),141,90
+6,"The only baggage the woman checked was a drawstring bag, where was she heading with it?
+A) garbage can 
+B) military 
+C) jewelry store 
+D) safe 
+E) airport 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.",Step 1: Drawstring bags are not commonly used for checking baggage at airports. Final Answer = Not (E).,(E),153,24
+7,"The forgotten leftovers had gotten quite old, he found it covered in mold in the back of his what?
+A) carpet 
+B) refrigerator 
+C) breadbox 
+D) fridge 
+E) coach 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","Look for words like ""old"", ""mold"", ""back"", and ""refrigerated"" to determine where the leftovers were stored.
+
+Next Expert:",(B),155,30
+8,"What do people use to absorb extra ink from a fountain pen?
+A) shirt pocket 
+B) calligrapher's hand 
+C) inkwell 
+D) desk drawer 
+E) blotter 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","Expert 1: I'm going to rule out the shirt pocket, because why put something inked up in your shirt? Final Answer (E).
+Expert 2: I agree with ruling out the shirt pocket, but I think we should also rule out the calligrapher's hand, because that's where they probably hold the pen. Final Answer (E).
+Expert 3: I agree with ruling out the shirt pocket and the calligrapher's hand. I also think we can rule out the desk drawer and the inkwell, because they're not absorbent materials. Final Answer (E).",(E),154,124
+9,"Where is a business restaurant likely to be located?
+A) town 
+B) at hotel 
+C) mall 
+D) business sector 
+E) yellow pages 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","Expert 1: A business restaurant is likely to be located in a business sector, where there are many businesses and professionals who are potential customers. Step 1 Final Answer: (D)",(D),146,38
+10,"Where do you put your grapes just before checking out?
+A) mouth 
+B) grocery cart 
+C) super market 
+D) fruit basket 
+E) fruit market 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","Expert 1: Grapes are typically sold at a grocery store or fruit market, so I can eliminate options C and E.
+Next Step: (B)
+
+Expert 2: You can't put grapes in your mouth before checking out because you haven't paid for them yet.
+Next Step: (D)
+
+Expert 3: You can't put grapes in your fruit basket before checking out because you haven't paid for them yet.
+Final Answer: (B)",(B),148,101
+11,"Before getting a divorce, what did the wife feel who was doing all the work?
+A) harder 
+B) anguish 
+C) bitterness 
+D) tears 
+E) sadness 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","Expert 1: The wife likely felt a combination of emotions, including anguish and bitterness. When a marriage is failing, it's common for one or both spouses to feel like they're doing more than their fair share of the work. This can lead to feelings of frustration and resentment, which can manifest in various ways, such as through arguments or by withdrawing from the relationship. Next step: Anguish and bitterness could both be valid answers, but they are not specific emotions related to feeling as if they are doing all the work. I think tears or sadness would be more accurate.  
+
+Expert 2: The wife likely felt overwhelmed and exhausted. When one person in a relationship feels like they are doing the majority of the work, it can take a significant toll on their emotional and physical well-being. The wife may have felt like she was constantly putting in more effort than her husband, and that her efforts were not being appreciated or reciprocated. Next step: Tears or sadness may be valid answers, but I think the wife would likely feel more than just tears or sadness. It can be overwhelming to feel like you're doing all the work in a relationship. I think harder is a good next step because it's more specific. 
+
+Expert 3: The wife likely felt a sense of sadness and hopelessness. When a marriage is failing, it's common for one or both spouses to feel like they've lost the person they thought they knew. The wife may have felt like her husband was no longer interested in her or the marriage, and that the relationship was beyond repair. Next step: Tears or sadness is too broad of an answer. It's possible the wife felt tears or sadness, but I think it's more likely she felt anguish. Anguish more accurately describes the emotional turmoil and distress a wife would experience in this situation. 
+
+Final Answer = (A)",(C),150,388
+12,"Johnny sat on a bench and relaxed after doing a lot of work on his hobby.  Where is he?
+A) state park 
+B) bus depot 
+C) garden 
+D) gym 
+E) rest area 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","Expert 1: Johnny was working on a hobby, which could imply that he is at home. 
+---
+Expert 2: I agree, working on a hobby usually takes place at home. However, the mention of a bench suggests a public space.
+---
+Expert 3: Public benches can be found in various places, including parks, bus depots, and gardens. The mention of relaxation after work suggests a place where people can take a break, which eliminates the gym.   
+---
+Expert 1: I think we can eliminate (D) gym. It doesn't make sense for someone to work on a hobby and then relax at a gym. 
+---
+Expert 2: I agree. The remaining options are (A) state park, (B) bus depot, (C) garden, and (E) rest area. A state park and a garden would both have benches where Johnny could relax. 
+---
+Expert 3: A bus depot seems less likely because it's a place where people are usually in transit, not relaxing. That leaves us with (A) state park and (C) garden.
+---
+Expert 1: I think the most likely answer is (A) state park. Johnny could have been working on his hobby in nature, and then sat down on a bench to relax and enjoy the scenery. 
+---
+Expert 2: I agree. **Final Answer = (A)**",(C),158,299
+13,"James was cooling off two quickly.  He would die if he didn't find some way to stop what?
+A) loss of heat 
+B) revenge 
+C) expansion 
+D) relaxation 
+E) calm down 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","**Expert 1:** James was cooling off too quickly, so he needed to stop the loss of heat. 
+Next Step: Find out how James can stop the loss of heat.
+
+**Expert 2:** Revenge and relaxation aren't related to James cooling off too quickly, so we can eliminate B and D. Expansion and calm down are also unlikely options, so we can eliminate C and E. That leaves us with A, loss of heat.
+Next Step: Explore methods to prevent loss of heat.
+
+**Expert 3:** James was cooling off too quickly, and loss of heat is the only option that makes sense.
+Final Answer = (A)",(A),159,137
+14,"Of all the rooms in a house it was his favorite, the aromas always drew him to the what?
+A) yard 
+B) basement 
+C) kitchen 
+D) living room 
+E) garden 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","Expert 1: The aromas drew him to the room, so it must be a room where food is prepared. Final Answer = (C)
+
+Expert 2: I agree with Expert 1. The kitchen is the only room in the house where food is typically prepared. Final Answer = (C)
+
+Expert 3: I also agree with Expert 1 and Expert 2. The kitchen is the most likely room to be associated with aromas that would draw someone to it. Final Answer = (C)",(C),155,104
+15,"Bill is stuck in marsh when a man comes up to him peaking Cajun, where is he?
+A) low lands 
+B) new york 
+C) forest 
+D) louisiana 
+E) everglades 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","**Expert 1:**
+
+Cajun is spoken in southern Louisiana. So Bill must be in Louisiana.
+
+**Expert 2:**
+
+The only option that mentions Louisiana is (D).
+
+**Expert 3:**
+
+The question says ""where is he?"". So the answer must be a location.
+
+**All Experts:**
+
+(D) is the only option that is a location and is in Louisiana.
+
+**Final Answer = (D)**",(D),156,91
+16,"What is it called when you slowly cook using a grill?
+A) backyard 
+B) restaurant 
+C) crockpot 
+D) neighbor's house 
+E) barbeque 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","**Expert 1:**
+It's not backyard or neighbor's house, since those are not specific cooking methods.
+
+**Expert 2:**
+It's not restaurant, since that's not a specific cooking method either, and it doesn't specify slowly cooking.
+
+**Expert 3:**
+It's not crockpot, since that's a specific type of slow cooker that uses a pot.
+
+**Final Answer = (E)**",(E),150,95
+17,"What type of person typically contracts illness?
+A) hospital 
+B) head 
+C) sick person 
+D) elderly person 
+E) doctor's office 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","Step 1: I would first eliminate options that don't make sense. A hospital is a place where people go to get treated for illness, not where they typically contract it. D and E are similar in that they are both places where people may come into contact with illness, but they are not typically where people contract it. That leaves us with B) head and C) sick person.
+
+Step 2: I would then consider the remaining options. B) head doesn't make sense because the head is not a place where illness typically contracts. That leaves us with C) sick person.
+
+Final Answer = (C)",(D),146,129
+18,"Where would you expect to find a pizzeria while shopping?
+A) chicago 
+B) street 
+C) little italy 
+D) food court 
+E) capital cities 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","Expert 1: 
+It would be in a place where you would find many restaurants, so the answer must be either D or A. 
+**Current Answer** D) food court or A) chicago
+
+Expert 2: 
+I think we can eliminate A) Chicago and, since the question mentions ""shopping"", I think it's obvious the answer is D) food court. 
+**Current Answer** D) food court 
+
+Expert 3: 
+I agree. Since you would find many restaurants in a food court and you would be shopping, the answer must be D) food court. 
+**Final Answer = D)**",(D),147,135
+19,"When eating everything on the tasting menu, what does one tend to feel?
+A) full stomach 
+B) getting full 
+C) gaining weight 
+D) sick 
+E) satisfaction 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","**Step 1**
+Expert 1: When eating everything on the tasting menu, one tends to feel getting full. 
+
+Expert 2: When eating everything on the tasting menu, one tends to feel satisfaction. 
+
+Expert 3: When eating everything on the tasting menu, one tends to feel a full stomach. 
+
+
+**Step 2**
+Expert 1: When eating everything on the tasting menu, one tends to feel getting full. 
+
+Expert 2: When eating everything on the tasting menu, one tends to feel satisfaction. 
+
+Expert 3: When eating everything on the tasting menu, one tends to feel getting full. (Expert 3 changed their answer.) 
+
+
+**Step 3**
+Expert 1: When eating everything on the tasting menu, one tends to feel getting full. 
+
+Expert 2: When eating everything on the tasting menu, one tends to feel satisfaction. 
+
+
+**Final Answer = (B)**",(B),151,199
+20,"What does playing soccer for a long time lead to?
+A) excitement 
+B) fatigue 
+C) anger 
+D) hurting 
+E) getting tired 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","**Expert 1:** Playing soccer for a long time leads to physical exertion, which can cause fatigue and tiredness. Next step: Fatigue and tiredness can also lead to other negative consequences, such as decreased performance, increased risk of injury, and decreased motivation. 
+
+**Expert 2:** Playing soccer for a long time leads to increased physical activity, which can lead to improved physical fitness and cardiovascular health. Next step: Improved physical fitness and cardiovascular health can lead to other positive outcomes, such as reduced risk of chronic diseases, improved mood, and increased energy levels. 
+
+**Expert 3:** Playing soccer for a long time leads to repetitive movements and stress on the body, which can lead to pain and injuries. Next step: Pain and injuries can lead to decreased performance, decreased motivation, and decreased enjoyment of the game. 
+
+**Final Answer = (E)**",(E),145,175
+21,"Which entrance would you use if you do not want to use the back entrance?
+A) side 
+B) main 
+C) anterior 
+D) current 
+E) front 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","Step 1: Eliminate options that are not a type of entrance.
+
+Expert 1: 
+* Current and anterior are not types of entrances.
+* Eliminate options (C) and (D).
+
+Expert 2:
+* Side, main, front are types of entrances.
+* Keep options (A), (B), and (E).
+
+Expert 3:
+* I agree with Expert 1 and Expert 2.
+
+Updated options:
+(A) side
+(B) main
+(E) front
+
+Move to step 2.",(B),149,117
+22,"You can share files with someone if you have a connection to a what?
+A) freeway 
+B) radio 
+C) wires 
+D) computer network 
+E) electrical circuit 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","Expert 1: Connections to freeways are not related to file sharing. Final Answer = (A).
+
+Expert 2: Radios are not used for file sharing. Final Answer = (B).
+
+Expert 3: While electrical circuits can be used for file sharing, it is not the most common method. Final Answer = (C).",(D),150,69
+23,"The accelerator was controller via a hand throttle, and the foot pedals controlled the steering in the small what?
+A) car 
+B) fuel system 
+C) accelerate 
+D) boat 
+E) airplane 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","**Expert 1**
+
+A hand throttle controls acceleration, and foot pedals control steering. This sounds like a vehicle.
+
+**Expert 2**
+
+A hand throttle and foot pedals make sense for a vehicle, but it's not a car because it's small. It could be a boat or an airplane.
+
+**Expert 3**
+
+A boat typically has a hand throttle and steering wheel, not foot pedals. An airplane makes more sense.
+
+**Next Step**
+
+Experts 1 and 3 agree that it's an airplane. Expert 2 needs to decide if they agree or want to leave.
+
+**Final Answer = (D)**",(E),155,135
+24,"Sean was lying about the body, but he was very scared.  He constantly worried about what?
+A) the reward money 
+B) hurt feelings 
+C) being found out 
+D) problems 
+E) trouble 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","Since Sean was lying about the body, it is unlikely that he was worried about the reward money (A).
+
+Next Step:
+Expert 2",(C),158,30
+25,"The drug kingpin told his man to run errands, this was code to go to all the dealers to do what they had?
+A) park 
+B) make time for 
+C) receive instructions 
+D) take money 
+E) leave work 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","Step 1: The word ""errands"" suggests that the dealers were to do multiple tasks. Final Answer = (C)",(D),164,26
+26,"Though he could've kept going his body appreciated the rest, it had been constantly what during the day?
+A) walk 
+B) lay down 
+C) working 
+D) moving 
+E) exercise 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","Expert 1: It says ""his body appreciated the rest"" so it must be talking about something that is tiring.  Laying down is typically not tiring, so we can eliminate (B). So (A), (C), (D), and (E) are all possible.
+Next Expert!
+
+Expert 2: It says ""constantly"" so it must be something that is happening over and over again. Walking, moving, and exercise can all be done repeatedly, but working is not typically done repeatedly throughout the day. So (C) is out. So (A), (D), and (E) are all possible.
+Next Expert!
+
+Expert 3: It says ""his body appreciated the rest"" so it must be something that is physically demanding. Walking, moving, and exercise are all physically demanding, but working is not always physically demanding. So (A), (D), and (E) are all possible.
+Final Answer = (D)",(D),156,200
+27,"Too many people want exotic snakes.  The demand is driving what to carry them?
+A) ditch 
+B) shop 
+C) north america 
+D) pet shops 
+E) outdoors 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","The question asks what is driving the demand for exotic snakes. The options are ditch, shop, north america, pet shops, and outdoors. We can eliminate ditch, north america, and outdoors as they are not relevant to the demand for exotic snakes. This leaves us with pet shops and shop. Pet shops are the most likely answer as they are the most common place to buy exotic snakes. 
+
+Next Step: Pet shops are a common place to buy exotic snakes, but are they the only place?",(D),152,101
+28,"Joe suffered many consequences from stabbing a stranger to death.   Among them, the family of the victim did something to him. What was that?
+A) knife wounds 
+B) buy a gun 
+C) bleeding 
+D) jail time 
+E) law suit 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","Expert 1: 
+Joe was found guilty and sentenced to jail time for murdering the stranger. 
+
+Next Step: 
+The family of the victim did not stab Joe, so A) is not the correct answer.  
+
+Expert 2: 
+Since D) is the only answer that remaining and fits, that must be the answer. 
+
+Final Answer = (D)",(E),167,80
+29,"To prevent any glare during the big football game he made sure to clean the dust of his what?
+A) television 
+B) attic 
+C) corner 
+D) they cannot clean corner and library during football match they cannot need that 
+E) ground 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","Expert 1: We are playing a football match so we are focusing on things we need during the match so (B), (C), and (D) are not needed during the match. Final Answer = (A).
+Expert 2: The only choice left is (A) television, which makes the most sense because we want to prevent glare during the game. Final Answer = (A).
+Expert 3: I agree that the answer is (A) television. Final Answer = (A).",(A),165,103
+30,"I have something in my head I want to share, what ways can I do that?
+A) write an essay 
+B) organize thoughts 
+C) speak information 
+D) summarize main points 
+E) have information 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","**Step 1:**
+
+**Expert 1:** Organize thoughts to ensure clarity and coherence.
+
+**Expert 2:** Gather relevant information to support the ideas being shared.
+
+**Expert 3:** Consider the intended audience to tailor the message effectively.
+
+**Expert 4:** Have information readily available to facilitate a smooth sharing process.
+
+**Step 2:**
+
+**Expert 1:** Identify the most appropriate method of sharing: writing, speaking, or summarizing.
+
+**Expert 2:** Determine the level of detail and technicality required for the audience.
+
+**Expert 3:** Craft a compelling message that engages and persuades the audience.
+
+**Step 3:**
+
+**Expert 1:** Execute the chosen method of sharing effectively and confidently.
+
+**Expert 2:** Ensure clear and concise communication throughout the process.
+
+**Expert 3:** Seek feedback and evaluate the effectiveness of the shared information.
+
+**Final Answer = (B)**",(C),158,194
+31,"He wanted a house that was gated off from other places, where should he start looking?
+A) neighborhood 
+B) subdivision 
+C) city 
+D) suburbs 
+E) street 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","**Expert 1:**
+
+- He wants a house that is gated off from other places. Gated communities are typically found in suburban areas.
+
+**Expert 2:**
+
+- I agree with Expert 1. The suburbs is the best place to start looking for a house that is gated off from other places.
+
+**Expert 3:**
+
+- I think that subdivisions are also a good place to start looking. Subdivisions are often gated and have security features.
+
+Final Answer = (B)",(B),151,102
+32,"Where in Southern Europe would you find many canals?
+A) michigan 
+B) new york 
+C) amsterdam 
+D) venice 
+E) bridge 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","Expert 1:  Michigan and New York are in the USA, not Southern Europe, so we can eliminate A and B.  
+Expert 2:  Amsterdam is in the Netherlands, which is in Northern Europe, so we can eliminate C. 
+Expert 3:  Bridge is not a city or country, so we can eliminate E. 
+Final Answer = (D)",(D),145,80
+33,"What would a camper need to do before he or she can start cooking food?
+A) make breakfast 
+B) go hiking 
+C) pack or bag 
+D) light fire 
+E) grab a match 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","First, the camper would need to light a fire in order to cook food.
+
+Final Answer = (D)",(D),156,23
+34,"What could happen to a paper if you leave it outside even if it does not move?
+A) one material often recycled 
+B) ripped 
+C) saturated with water 
+D) one dimensional 
+E) crumpled 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","Well, if the paper does not move, it will be ripped by the action of the wind.
+Next step:",(C),157,24
+35,"Mark's semen was very thick, but after his vasectomy it was also what?
+A) blank 
+B) sparse 
+C) thin 
+D) clear 
+E) free flowing 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.",Invalid Response,(D),0,0
+36,"What is a great place to lay in the sun?
+A) in the basement 
+B) west 
+C) solar system 
+D) beach 
+E) beans 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.",1. Let's rule out the options that clearly won't work. Final Answer = (C),(D),147,22
+37,"Where would you find a seafood restaurant in the east coast of North America?
+A) maine 
+B) boston 
+C) beach town 
+D) coastal cities 
+E) ocean 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","Expert 1: Of course a beach town, they are always right on the water! Next step.
+Expert 2:  I don't agree, while beach towns sometimes have them, I believe you'd be more likely to find one in a bustling area like a city. Next step.
+Expert 3:  I agree with expert number 2. While beach towns and coastal cities do often have seafood restaurants, they are also found in non-coastal cities.  I believe the most likely answer to be D, coastal cities. Final Answer = (D).",(A),150,118
+38,"The president is the leader of what institution?
+A) walmart 
+B) white house 
+C) country 
+D) corporation 
+E) government 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.",1. The president is the leader of an institution that is related to the government. Final Answer = TBD,(E),143,21
+39,"Sitting to close while watching TV can cause what sort of pain?
+A) brain problems 
+B) laziness 
+C) get fat 
+D) headache 
+E) laughter 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.",Expert 1: Eye strain is caused by staring at the TV screen for too long at close range. Final Answer = (D),(D),148,27
+40,"Where is a bald eagle safe?
+A) pine tree 
+B) open country 
+C) in washington 
+D) wildlife refuge 
+E) sky 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","Expert 1: The question is asking for a place where a bald eagle is safe. A pine tree (A) might be a good place for a bald eagle to perch, but it is not necessarily safe. Open country (B) is not a good place for a bald eagle to be safe because it is exposed to predators. Option (C) says ""in washington"" but it does not specify any other characteristic. While Washington state is known for bald eagles, this option is also not descriptive enough to be correct. A wildlife refuge (D) is a place where bald eagles are protected and safe, so this is a good option. The sky (E) is a place where bald eagles can fly and hunt, but it is not necessarily safe because they can be shot or killed by other predators.
+
+Expert 2: I agree with Expert 1 that a wildlife refuge (D) is a safe place for a bald eagle. Bald eagles are protected by law in the United States, and wildlife refuges are specifically designed to provide a safe habitat for wildlife.
+
+Expert 3: I agree with Experts 1 and 2 that a wildlife refuge (D) is the best answer. Wildlife refuges are protected areas where bald eagles can nest, feed, and raise their young without being disturbed.
+
+Final Answer = (D)",(D),144,270
+41,"The game promised it was free, but the child's parents soon found themselves doing what for microtransactions?
+A) costly 
+B) captive 
+C) contained 
+D) paying 
+E) caught 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","First, free games make most of their money through microtransactions, which are small in-game purchases that can give players advantages or cosmetic items. Final Answer = (D)",(D),155,35
+42,"What kind of driving leads to accidents?
+A) stressful 
+B) dangerous 
+C) fun 
+D) illegal 
+E) deadly 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","**Expert 1:**
+
+- Step 1: Eliminating C) fun, as driving should not be considered a fun activity.
+
+**Expert 2:**
+
+- Step 2: Eliminating D) illegal, as not all illegal driving leads to accidents.
+
+**Expert 3:**
+
+- Step 3: Eliminating E) deadly, as not all accidents are deadly.
+
+**Final Answer = (A)**",(B),141,87
+43,"What is eating too much dinner likely to result in?
+A) tiredness 
+B) living longer 
+C) stomach ache 
+D) illness 
+E) acid reflux 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","Step 1: It is likely to result in indigestion or discomfort. 
+
+Next Expert >",(C),147,19
+44,"What is a person chatting with friends likely hoping to accomplish?
+A) gathering of information 
+B) communication 
+C) feel relaxed 
+D) kill boredom 
+E) social bonding 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","**Expert 1:**
+
+- I believe the person is most likely hoping to accomplish E) social bonding. 
+
+**Expert 2:**
+
+- I agree with Expert 1 that E) social bonding is a primary goal. However, I also think that the person may be hoping to accomplish C) feel relaxed as well.
+
+**Expert 3:**
+
+- I agree with both Expert 1 and Expert 2. I think the person is likely hoping to accomplish all of the options listed, including:
+    - E) social bonding
+    - C) feel relaxed
+    - D) kill boredom
+    - B) communication
+
+**Final Answer = (E)**",(E),150,139
+45,"Jame's bare feet were burned as he walked, because the sunshine had made the surface hot.  Where might he have been?
+A) disneyland 
+B) snow 
+C) windowsill 
+D) street 
+E) summer 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","Step 1: It says that the sunshine had made the surface hot, so we can eliminate B and E because they don't involve the sun. 
+Final Answer = (A), (C), or (D).",(D),162,46
+46,"A fox was thirsty searching for water during the drought, where was he?
+A) painting 
+B) hen house 
+C) california 
+D) virginia 
+E) movie hall 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","Expert #1
+The fox is unlikely to be found in a painting, movie hall, or hen house. Final Answer = (C) or (D).
+
+Expert #2
+During a drought, the fox would be most likely to be found where there is water. Final Answer = (C).
+
+Expert #3
+I agree with Expert #2. Final Answer = (C).",(C),150,79
+47,"What might be the result of a season of successful skiing?
+A) finish line 
+B) broken bones 
+C) broken legs 
+D) chapped lips 
+E) healthy body 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","Step 1: skiing keeps you active 
+Final Answer = (E",(E),151,15
+49,"The man was eating lunch, but rushed when he looked at his watch, why did he rush?
+A) gain weight 
+B) late for work 
+C) heartburn 
+D) bad breath 
+E) early for work 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","**Expert 1:** Hmm, the question states that the man saw his watch, so we can infer that time is relevant. He rushed, which suggests he was in a hurry. Combining these two, we can guess he was late for something. At this point, the most likely options are B and E.
+
+**Expert 2:** I agree, but since he was eating lunch, it's more likely he was late for something rather than early. So I would eliminate E.
+
+**Expert 3:** That makes sense. He was eating lunch, so it's likely he was at work or somewhere near his workplace. That further supports the idea that he was late for work.
+
+**Final Answer = (B)**",(B),160,149
+50,"The evacuation became mandatory, so what came on the TV?
+A) advisory 
+B) mandate 
+C) soap opera 
+D) elective 
+E) optional 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","Expert 1: We can eliminate options C, D, and E since they don't make sense in the context of an evacuation.
+Expert 2: That leaves us with A and B. An advisory is a suggestion, while a mandate is an order. Since the evacuation became mandatory, it makes more sense for the TV to air a mandate.
+Expert 3: I agree. The final answer should be B.
+Final Answer = (B)",(A),146,94
+51,"The person gave a good hands on what to show how to do the work?
+A) demonstration 
+B) garage 
+C) building 
+D) barn 
+E) synagogue 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","Step 1: Eliminate C, D, and E as they are not related to showing how to do work.
+Final Answer = (A) or (B)",(A),149,34
+52,"Where would you see some people doing jumping jacks?
+A) military base 
+B) opera 
+C) water fountain 
+D) bus stop 
+E) church 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","1. While jumping jacks can be done in various locations, I have never seen anyone do them at an opera. Final Answer: (B)",(A),146,29
+53,"The body guard was good at his duties, he made the person who hired him what?
+A) better job 
+B) irritated 
+C) feel safe 
+D) save money 
+E) headache 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","Step 1: The bodyguard's primary purpose is to protect the person who hired him/her. The answer should be related to safety or security. Eliminate A, D, and E.
+
+Final Answer = (C)",(C),154,46
+54,"Learning languages is difficult.  Even in a full immersion environment you're likely to make mistakes, mistakes will cause misinterpretation, which will be uncomfortable, which will cause what?,
+A) better communication 
+B) overthinking 
+C) frustration 
+D) misunderstandings 
+E) headaches 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","**Expert 1's Step 1:**
+Mistakes can lead to frustration when trying to learn a new language.
+
+**Expert 2's Step 1:**
+Making mistakes in a language can be embarrassing and lead to anxiety.
+
+**Expert 3's Step 1:**
+When making mistakes, it's easy to overthink and doubt your own abilities.",(C),172,79
+55,"Jim enjoyed killing people, but he did it too often and the cops found out.  What might the cops do to him?
+A) going to jail 
+B) going to prison 
+C) beat him up 
+D) get arrested 
+E) die 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.",Invalid Response,(D),0,0
+56,"Where is there usually a fiddle playing?
+A) music store 
+B) dance hall 
+C) orchestra 
+D) symphony 
+E) tennessee 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","**Step 1**
+
+Expert 1: A fiddle is a string instrument that is often used in folk music. Music stores may sell fiddles, but they are not typically places where fiddles are played. I'm going to rule out option (A) for now.
+
+Updated options: (B), (C), (D), (E)
+
+Expert 2: Dance halls are often places where people go to dance to live music. Fiddles are commonly used in traditional dance music. I'm going to rule out options (C) and (D) for now, as they are more likely to feature violins than fiddles.
+
+Updated options: (B), (E)
+
+Expert 3: Tennessee is a state in the southeastern United States. It is known for its country music scene. Fiddles are commonly used in country music. I'm going to rule out option (B) for now, as it is more likely to feature bluegrass bands, which typically use banjos instead of fiddles.
+
+Updated options: (E)
+
+**Final Answer = (E)**",(C),144,226
+57,"What is the only was to recover from exhaustion?
+A) mediate 
+B) have rest 
+C) stay in bed 
+D) run out of steam 
+E) go to sleep 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","**Expert 1:**
+Meditation can help calm the mind and body, but it is not the only way to recover from exhaustion.
+
+**Expert 2:**
+Rest is an important part of recovering from exhaustion, but it is not the only way.
+
+**Expert 3:**
+Staying in bed can help you rest, but it is not the only way to recover from exhaustion.
+
+Final Answer = (E)",(B),151,86
+58,"What would you do if you want to be able to earn money?
+A) apply for job 
+B) stand in line 
+C) take care of proposals 
+D) pass course 
+E) play the lottery 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","1. We need to find a way to generate income. (A) and (D) are both valid options for generating income.
+Final Answer = (A) or (D)",(A),157,38
+59,"What is a grumpy person likely to have?
+A) headache 
+B) understand themselves 
+C) compliments 
+D) own house 
+E) happiness 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.",Invalid Response,(A),0,0
+60,"What do drugs do?
+A) damage 
+B) cloud mind 
+C) lower i.q 
+D) cause illness 
+E) cause accidents 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.",Invalid Response,(E),0,0
+61,"A beaver can destroy a machines functionality if they build their dam in this?
+A) strip club 
+B) pocket 
+C) millpond 
+D) ontario 
+E) lake or river 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","**Expert 1:**
+A beaver can build a dam in a millpond, which can disrupt the flow of water and potentially damage machinery.
+
+**Expert 2:**
+Beavers typically build dams in lakes or rivers. They are unlikely to build dams in unusual places like strip clubs or pockets.
+
+**Expert 3:**
+Ontario is a large province in Canada. It is unlikely that a beaver would build a dam in the entire province.
+
+Final Answer = (E)",(C),153,98
+62,"They decided to hash things out over drinks, after enough booze they were able to get close on a few things and what?
+A) reach tentative agreement 
+B) suicide 
+C) examine thing 
+D) commit murder 
+E) stay in bed 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","Step 1 (Expert 1): This was an intense conversation and the drinks may have loosened their tongues, but I don't think they reached any kind of agreement. 
+Step 2 (Expert 2): I agree, they were all too stubborn to come to an agreement. 
+Step 3 (Expert 3): I think they may have reached a tentative agreement, but it was more like a truce than anything else.
+Step 4 (Expert 1): I can see that, it was more like they were just too tired to argue anymore.
+Step 5 (Expert 2): So, I think we can rule out suicide, murder, and staying in bed.
+Step 6 (Expert 3): I agree, that leaves us with A) reach tentative agreement and C) examine things.
+Step 7 (Expert 1): I don't think they examined things any further, they were just too drunk at that point.
+Step 8 (Expert 3): I agree, so that leaves us with A) reach tentative agreement.
+Final Answer = (A)",(A),164,229
+63,"Where could a fungus grow and not be disturbed by sunlight?
+A) under rocks 
+B) manhattan 
+C) toenails 
+D) grocery store 
+E) fallen tree 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","Where a fungus could grow and not be disturbed by sunlight? under rocks 
+
+Next Step:",(A),150,19
+64,"Can you name a good reason for attending school?
+A) get smart 
+B) boredom 
+C) colds and flu 
+D) taking tests 
+E) spend time 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","Expert A: School is a place where you can learn and grow, so it's a good reason to attend. Next step: (B)
+
+Expert B: Boredom is not a good reason to attend school. You should be going to school to learn and better yourself. Next step: (C)
+
+Expert C: Colds and flu are not a good reason to attend school. You should stay home if you are sick so you don't get others sick. Next step: (D)
+Final Answer = (A)",(A),148,110
+65,"What state south of Kentucky and north of Alabama will you find people playing the fiddle?
+A) alabama 
+B) tennessee 
+C) violin case 
+D) music store 
+E) bow and strings 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","Realizing that the other answers are unrelated to the question, I will eliminate them. 
+Next Step (A), (D), (E)",(B),156,30
+66,"Though she made the cut years ago, its figurative scars would never what?
+A) joining 
+B) put together 
+C) stitch 
+D) heal 
+E) paste 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","Looking at the options, none of them have a meaning that could replace ""would never."" Final Answer = (E)",(D),149,24
+67,"What does sex often make happen in people?
+A) making love 
+B) feel good 
+C) happyness 
+D) wonderful thing 
+E) cloud judgment 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.",Invalid Response,(B),0,0
+68,"Where would you see people in uniform playing with a ball?
+A) hole 
+B) television 
+C) sporting goods store 
+D) pool table 
+E) sporting event 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","**Step 1:**
+
+- **Expert 1:** People in uniform are often seen in sporting events. **Next step: E**
+- **Expert 2:** I'm not sure, but I think I've seen people in uniform playing with a ball at a pool table. **Next step: D**
+- **Expert 3:** I've never seen people in uniform playing with a ball in any of the other options. **Next step: (A)**
+
+**Final Answer = (E)**",(E),149,107
+69,"What kind of place could have a seafood restaurant?
+A) new york 
+B) coastal cities 
+C) city 
+D) coastal cities 
+E) boston 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","Step 1: A coastal city is a city located on the coast, therefore it is likely to have a seafood restaurant.
+Final Answer - (D)",(C),146,32
+70,"Who was the head of the branch yelling at?
+A) owner 
+B) foot 
+C) subordinate 
+D) base 
+E) point 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","Step 1: The question is ""Who was the head of the branch yelling at?"" The answer should be a person or a group of people. So, we can eliminate options D and E.
+
+Final Answer = (A), (B) or (C).",(C),143,54
+71,"He made another call, he did this all day hoping people would what well to his offer?
+A) hang up 
+B) respond 
+C) contact 
+D) answer 
+E) attracting ducks 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","Thinking Step 1: ""Hoping people would"" suggests a desired or intended outcome. Offering something usually carries hope that someone will make a positive response.
+Final Answer = (B)",(B),154,37
+72,"She needs to visit a bookshop after buying the latest fashion, where should she look?
+A) student union 
+B) mall 
+C) department store 
+D) library 
+E) town or city 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","Expert 1: I know libraries are for borrowing books. This is about buying books, so D can be eliminated. 
+Step 1: D can be eliminated. 
+
+**Expert 2:** I know student unions are for university students. This context makes no mention of universities, so A can be eliminated.
+Step 1: A can be eliminated.
+
+**Expert 3:** I know malls and cities can have bookshops. This eliminates C and E.
+Step 1: C and E can be eliminated. 
+
+**Expert 1:** Since we eliminated 3 options, let's look at the remaining ones. The only one that mentions a bookshop is B.
+Step 2: Final Answer = (B)",(B),155,154
+73,"Where could you see an advertisement while reading news?
+A) television 
+B) bus 
+C) email 
+D) web page 
+E) la ville 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","Step 1: Definitely not on a Bus, you can't see any advertisement on the bus while reading because you are not reaching any advertisement place.
+Remaining Options - A, C, D, E
+
+Expert 1 - 
+Step 2: We can see an advertisement on TV because TV has advertisement every now and then.
+Remaining Options - A, C, D
+
+Expert 3 - 
+Step 3: You can easily see an advertisement while reading news because you have to open a web page to read the news. So it is possible to view advertisement on a web page,.
+Remaining Options - A, C
+
+Expert 2 - 
+Step 4: We can see an advertisement while reading news in our email as well. When we open our email to read the news we see some advertisement running.
+Final Answer = (A).",(D),145,177
+74,"What is required to be good at playing tennis?
+A) tennis racket 
+B) skill 
+C) competition 
+D) tennis court 
+E) legs 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once."," **Expert 1**: 
+Obviously, you need a tennis racket. You can't play tennis without one. 
+*Next Step*
+We have two options: (A) and (B). Do we need skill or a tennis court? Let's move to the next expert.
+
+**Expert 2**: 
+Tennis is a competitive sport, so you need competition. 
+*Next Step*
+We have (B) and (C). Do we need skill or competition? Let's move to the next expert.
+
+**Expert 3**: 
+You need legs to move around the court. 
+*Next Step*
+We have (B) and (E). Do we need skill or legs?
+Final Answer = (B)",(B),145,159
+75,"What state is the John Davis  Lodge toll road found in?
+A) new jersey 
+B) eastern united states 
+C) good repair 
+D) connecticut 
+E) arizona 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","Expert 1: The John Davis Lodge Turnpike is a toll road in Illinois, so it is not found in New Jersey, the eastern United States, Connecticut, or Arizona. 
+
+Next step: The John Davis Lodge Turnpike is in good repair, so it cannot be C: good repair. The only remaining option is D: Connecticut.
+
+Final Answer = (D)",(D),152,75
+76,"The man went to clown college, he had always want to run away with the what?
+A) circus 
+B) carnival 
+C) surprise 
+D) spoons 
+E) party 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.",Invalid Response,(A),0,0
+77,"Jamie wanted to reduce her waist size, but all of her efforts failed miserably.  She continued to do what?
+A) gain weight 
+B) augment 
+C) dispare 
+D) make larger 
+E) expand 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","Checking the definitions of the terms, ""augment"" implies increasing something, which doesn't make sense in the context. ""Make larger"" and ""expand"" are also clearly wrong because they mean increasing the size. ""Dispare"" is not a valid word in English. 
+
+Therefore, the only option left is (A) gain weight.
+
+Final Answer = (A)",(A),159,77
+78,"James felt himself losing consciousness.  He was frightened.  He didn't want this.  He was scared of what?
+A) death 
+B) coma 
+C) peace 
+D) forgetfulness 
+E) loss of life 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","Expert 1: James was scared of losing consciousness, which could lead to a loss of life. He didn't want to die. Next.
+
+Expert 2: James was scared of losing consciousness, which could lead to a coma. He didn't want to be in a coma. Next.
+
+Expert 3: James was scared of losing consciousness, which could lead to peace. He didn't want to be at peace. Next.",(A),162,92
+79,"If someone is aloof and self-important, what is their experience when meeting people?
+A) stress 
+B) nervousness 
+C) smile 
+D) being bored 
+E) making new friends 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","Expert 1:
+They may feel superior and indifferent towards others, thus making them appear aloof and self-important. However, they may also feel insecure and defensive due to their need to maintain their perceived status. 
+We should consider the possibility of (D) being bored or even (A) stress as a potential experience during social interactions. 
+Next step: Expert 2
+Final Answer = None Yet",(D),153,84
+80,"He was receiving workman's compensation, he had tripped over a metal rod while building where?
+A) factory 
+B) construction site 
+C) engine 
+D) insides of skyscraper's walls 
+E) shops 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","The sentence starts with the phrase ""He was receiving workman's compensation,"" which indicates that he was injured on the job. Workman's compensation is typically provided to employees who are injured while working at their workplace.
+
+Based on this, we can eliminate options (C) and (E) because they are not typically considered workplaces. So we are left with options (A), (B), and (D).
+
+Next, we can consider the phrase ""he had tripped over a metal rod."" This suggests that he was working in an area where there were metal rods on the ground.
+
+Option (A) (factory) and Option (B) (construction site) are both places where there could be metal rods on the ground. Option (D) (insides of skyscraper's walls) is less likely to have metal rods on the ground, so we can eliminate that option.
+
+Therefore, our remaining options are (A) and (B). We cannot determine from the given information which one is correct, so we will need to wait for the other experts to contribute their thinking.
+
+Expert 1's answer: Eliminated (C), (D), and (E). Next step: Consider the phrase ""he had tripped over a metal rod.""",(B),158,256
+81,"John and James spent most of their time communicating with each other on their project.  The time required to communicate slowed their what?
+A) static 
+B) train of thought. 
+C) progress 
+D) transfer of information 
+E) collaboration 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","Expert 1: The time required to communicate slowed their progress.
+Communicating with each other took time away from working on the project, slowing down their overall progress.
+
+Next Step: Final Answer = (C)",(C),164,44
+82,"When you play around with your dog they will have?
+A) alive 
+B) health 
+C) fun 
+D) playing dead 
+E) black 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","Expert 1: Dogs come in all shapes and colors, so it cannot be D or E. Final Answer (A)
+
+Expert 2: Dogs are living creatures, so it cannot be C. Final Answer (A)
+
+Expert 3: Dogs love to play and have fun, so the answer is C. Final Answer (C)",(C),145,70
+83,"Where would a person keep a book while it's being read?
+A) closet 
+B) library of congress 
+C) classroom 
+D) in bed 
+E) desk 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.",1. We have to assume that the person is at their house if the options are bed and desk. It is unlikely that someone would take a book and read it in a closet. Final Answer = (D),(E),150,43
+84,"The student needed to  get some new pencils, where did he go?
+A) store 
+B) classroom 
+C) backpack 
+D) cabinet 
+E) teacher 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","Since a student has their pencils in their classroom and at home, it's logical they would go there first to get new pencils. 
+
+Next Expert:",(A),148,32
+85,"She loved buying products, she was driven by her what to shop more than any practical needs?
+A) desire 
+B) money 
+C) time 
+D) credit 
+E) spending money 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","Expert 1: She loved buying products, so we can eliminate options that don't involve buying. B and D are out. Next step.
+
+Expert 2: She was driven by her what to shop more than any practical needs. So it must be something that makes her want to shop, not something that enables her to shop. C and E are out. Next step.
+
+Expert 3: We're left with A and D. Desire is something that drives you to do something, while credit is something that enables you to do something. So the answer must be A. Final Answer = (A).",(A),153,126
+86,"How does getting paid feel?
+A) income tax 
+B) satisfaction 
+C) sorrow 
+D) ocean 
+E) bill collectors to happy 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","Expert 1: Getting paid involves receiving compensation for work done. Compensation is typically in the form of money. Income tax is a tax levied on income earned, so it seems related to getting paid.
+Next step: I think the next step is to consider the other options and see if they are more relevant to the question.
+
+Expert 2: Getting paid is often associated with a sense of accomplishment and satisfaction for completing a task or providing a service. Satisfaction is a positive emotion that can result from getting paid.
+Next step: I agree with Expert 1 that we should consider the other options to see if they are more relevant.
+
+Expert 3: Getting paid can also involve dealing with bill collectors, especially if the payment is late or insufficient. Bill collectors are often associated with negative emotions, such as stress and anxiety.
+Next step: I think we should consider whether any of the other options are more relevant to the question.
+
+Expert 1: Option D, ""ocean,"" and Option E, ""bill collectors to happy,"" do not seem to be directly related to getting paid.
+Next step: I propose we eliminate options D and E from consideration.
+
+Expert 2: I agree with Expert 1. Options D and E do not seem to be relevant to the question of how getting paid feels.
+Next step: Let's focus on options A, B, and C.
+
+Expert 3: Option A, ""income tax,"" is a tax levied on income earned. It is not a feeling associated with getting paid.
+Next step: I suggest we eliminate option A from consideration.
+
+Expert 1: I agree with Expert 3. Income tax is not a feeling associated with getting paid.
+Next step: We are left with options B and C.
+
+Expert 2: Option B, ""satisfaction,"" is a positive emotion that can result from getting paid.
+Next step: Option C, ""sorrow,"" is a negative emotion that does not seem to be directly related to getting paid.
+
+Expert 3: I agree with Expert 2. Sorrow is not a feeling typically associated with getting paid.
+Final Answer = (B)",(B),143,443
+87,"The fat man refused to accept what was possible, he complained that he what the simplest activities?
+A) no go 
+B) unlikely 
+C) unable 
+D) cant do 
+E) impossibility 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","**Expert 1:**
+
+The fat man is complaining that he is unable to do the simplest activities, so the answer is C) unable.
+
+**Expert 2:**
+
+The fat man is refusing to accept what is possible, so the answer is B) unlikely.
+
+**Expert 3:**
+
+The fat man is complaining that he can't do the simplest activities, so the answer is D) can't do.
+
+**Final Answer = (C)**",(D),154,96
+88,"Where can meat last a long time?
+A) backery 
+B) ham sandwich 
+C) fridge 
+D) butcher shop 
+E) freezer 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","Expert 1: Most meats need to be kept at near freezing temperatures to keep bacteria from growing. Final Answer = (E)
+
+Expert 2: My grandmother has always kept her ham in the fridge, and it always lasts until the end of the month. Final Answer = (C)
+
+Expert 3: **I am leaving.** I had originally thought that meat might last the longest in a butcher shop, but now that I am thinking about it, freezers are clearly the best choice. ",(E),144,101
+89,"What group of musicians will include someone playing the cello?
+A) ocean 
+B) symphony 
+C) band 
+D) music store 
+E) music shop 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","Expert 1: A music store and music shop won't have people playing instruments, they sell them. So it's not (D) or (E).
+Expert 2: The ocean is a place, it doesn't have musicians. So it's not (A).
+Expert 3: Bands don't usually have cellos. So it's not (C).
+Final Answer = (B)",(B),146,89
+90,"Where do bees congregate with red flowerS?
+A) trash can 
+B) honey 
+C) bouquet of flowers 
+D) rose garden 
+E) field of flowers 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","Expert 1: These insects build their colonies in honeycombs to store their honey, so they'd congregate with honey. Next step: 
+
+Expert 2: Because flowers are their main food source, bees would congregate with flowers. Next step:
+
+Expert 3: Due to their size, it is unlikely that bees can fit inside of a trash can, making this answer incorrect. Next step:",(D),149,84
+91,"What is someone who gets angry after getting drunk likely to participate in?
+A) violence 
+B) falling down 
+C) vomiting 
+D) vomiting 
+E) lower standards 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","Alcohol is a depressant, so it slows down the body's functions. This can lead to slowed reflexes, impaired coordination, and slurred speech. So (B) falling down is likely to happen.
+
+Next Step:",(A),149,46
+92,"The teacher told all the students that listening was key, it was the main way they would gain what?
+A) empathy 
+B) anxiety 
+C) knowlege 
+D) falling down 
+E) hear things 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","Expert 1: I think the answer is (C), because knowledge is gained through listening.
+
+Expert 2: I agree, knowledge is the main thing that students gain from listening.
+
+Expert 3: Wait, I think I'm wrong. The teacher said that listening was the key to gaining something, but they didn't specify what that was. So, I think the answer is (E), because listening is the key to hearing things.
+
+Expert 1: I agree, that makes more sense.
+
+Expert 2: Yes, I think we can all agree that the answer is (E).
+
+Final Answer = (E)",(C),157,133
+93,"Stanley had a dream that was very vivid and scary. He had trouble telling it from what?
+A) reality 
+B) imagination 
+C) dreamworker 
+D) nightmare 
+E) awake 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","Expert #1: The dream was very vivid and scary, so it is likely that Stanley had trouble telling it from reality. 
+Next Step: Eliminate all other options as Stanley is likely telling the dream from imagined reality. 
+
+Expert #2: B) Imagination seems like the correct answer at this point. Dreams can appear real and since we know the dream was scary this takes away the option of a dreamworker. Also, Stanley has trouble telling the dream from reality so he must not be awake. 
+Next Step: Confirm the answer is B) Imagination.
+
+Expert #3: Final Answer = (B) Imagination",(A),153,127
+94,"The city's community garden was demolished for yet another what?
+A) wasteland 
+B) ocean 
+C) desert 
+D) parking lot 
+E) flowers 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","**Expert 1**
+
+The question is asking what the community garden was demolished for. Options B, C, and D all refer to large and impersonal spaces. Option E is too specific and does not fit with the other options. Therefore, I will eliminate options B, C, D, and E.
+
+**Remaining Option:** A
+
+**Expert 2**
+
+Option A, wasteland, is a plausible answer because it suggests that the community garden was demolished and left as an empty and unused space. This is a common occurrence in urban areas where land is scarce and valuable.
+
+**Remaining Option:** A
+
+**Expert 3**
+
+I agree with Expert 2. Option A, wasteland, is the most likely answer because it is consistent with the question and the other options have been eliminated.
+
+**Final Answer = (A)**",(D),147,170
+95,"WHat do cats get into when they are ripping things apart?
+A) dog's mouth 
+B) floor 
+C) garage 
+D) trouble 
+E) nature 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","**Step 1:**
+
+**Expert 1:** Cats are often curious and playful animals, and they may rip things apart as a way to explore their environment and learn about new things. Final Answer = (B)
+
+**Expert 2:** Cats have sharp claws and teeth, which they can use to tear apart objects. They may also rip things apart to mark their territory or to relieve stress or boredom. Final Answer = (D)
+
+**Expert 3:** Cats are not typically aggressive animals, and they are unlikely to rip things apart in order to attack or harm another animal. Final Answer = (A)",(D),149,125
+96,"What is a good result of losing weight?
+A) increased energy 
+B) healthier 
+C) loose skin 
+D) beauty 
+E) death 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","Step 1: Eliminate E as an answer choice. Losing weight does not result in death. 
+
+Step 2: Eliminate C as an answer choice. Losing weight can contribute to loose skin, but it is not a good result. 
+
+Step 3: Final Answer = (B)",(B),144,60
+97,"A person lived in my what?
+A) demonstration 
+B) conference 
+C) building 
+D) garage 
+E) mouth 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.",What is something that a person can live in? Final Answer = (C),(D),140,16
+98,"The skin was cut while chopping onions, where was this skin likely cut?
+A) good health 
+B) finger 
+C) meat 
+D) body 
+E) own family 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","Expert 1: The skin is most likely cut on the finger, as this is the most common area to be cut while chopping onions. Cut = No Final Answer
+Expert 2: I agree that the skin is most likely cut on the finger. Finger = No Final Answer
+Expert 3: I also agree that the skin is most likely cut on the finger. Additionally, the phrase ""good health"" in option A suggests that the skin is healthy, which is unlikely if it has been cut. Good health = No Final Answer
+Final Answer = (B)",(B),150,115
+99,"What might you feel after doing housework for hours?
+A) anger 
+B) not boredom 
+C) stress 
+D) boredom 
+E) anxiety 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","1) There is nothing that is opposite of boredom. Since not boredom is an incorrect answer, then we can eliminate (B).
+
+Final Answer = (D)",(C),144,33
+100,"The accountant used a calculator regularly, he kept one at home and one at the what?
+A) desk drawer 
+B) desktop 
+C) office 
+D) wristwatch 
+E) city hall 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","Step 1:
+
+Expert 1: This is a trick question, accountants do not use calculators. Final Answer = N/A
+
+Expert 2: Desk drawer or desktop are the most likely. Final Answer = N/A
+
+Expert 3: Office is also a good guess. Final Answer = N/A",(C),154,65
+101,"At the end of your meal what will a waiter do?
+A) serve food 
+B) eat 
+C) set table 
+D) serve meal 
+E) present bill 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","Expert 1: 
+The waiter cannot be serving food (A) or serving a meal (D) since those actions would have already taken place.  I will eliminate those options. 
+Next step: 
+Expert 2: 
+After eliminating options A and D, we are left with B, C, and E. The waiter will not eat (B) or set the table (C) at the end of the meal. The only remaining option is E.
+Final Answer = (E)",(E),149,105
+102,"If you aren't glad, unhappy or gloomy, what illness may you have?
+A) depressed 
+B) downcast 
+C) angry 
+D) unhappy 
+E) sorrowful 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","Expert 1: A, B, D, E are wrong because all of them are synonyms of 'unhappy'. Final Answer = (C)",(A),151,30
+103,"You can hear testimony of how spirituality changes lives when you do what?
+A) go to church 
+B) appear in court 
+C) watch soap operas 
+D) paying attention 
+E) go into court 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","Expert 1: We can hear testimonies of how spirituality changes lives when we pay attention to what is being said.
+
+Next step: 
+
+Expert 2: I agree. When we pay attention to the words, we can hear the message that is being conveyed.
+
+Next step: 
+
+Expert 3: I think that we can also hear testimonies of how spirituality changes lives when we go to church.
+
+Next step: 
+
+Expert 1: I agree. Church is a place where we can worship and hear messages about spirituality.
+
+Final Answer = (D)",(A),156,117
+104,"It was a great rest, she had never felt this much what in the morning?
+A) active 
+B) hunger 
+C) in motion 
+D) wakefulness 
+E) lay down 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","The paragraph focuses on the person's state in the morning after a night's rest. The options that describe being in a state of activity or motion (A, C) can be eliminated. The option describing hunger (B) is not usually associated with waking up from a night's rest. Therefore, the state that best fits the context is 'wakefulness' (D).
+Next:",(D),153,81
+105,"Which region has the most famous temple?
+A) jerusalem 
+B) jewish community 
+C) middle east 
+D) city 
+E) mosque 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","Expert 1: The question is asking about a temple, not a mosque. So I'm eliminating (E).Option E eliminated. 
+
+Expert 2: (B) Jewish community is not a region. So I'm eliminating (B).Option B eliminated. 
+
+Expert 3: (D) City is not a region. So I'm eliminating (D).Option D eliminated. 
+
+Expert 1: (A) Jerusalem is a city in the Middle East, but it's not a region. So I'm eliminating (A).Option A eliminated. 
+
+Expert 2: That leaves us with (C) Middle East.Option C remaining. 
+
+Final Answer = (C).",(C),144,149
+106,"Where would you find a bee gathering pollen?
+A) united states 
+B) sky 
+C) court 
+D) field of flowers 
+E) orchard 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","1) Where would you find a bee gathering pollen?
+The bee is most likely to find pollen in a field where there are various flowers. This is because pollen is a powdery substance that is found on the stamens of flowers. Bees collect pollen and use it to make honey and feed their young.
+
+Next Step:
+
+Flowers are abundant in orchards, so it is likely that bees would gather pollen there.
+
+Final Answer = (E).",(D),145,89
+107,"Where would you put a folding chair if you do not plan to use it and you do not have any large doors in your house?
+A) roof 
+B) school 
+C) beach 
+D) closet 
+E) garage 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.",Garage seems like a good spot. Final Answer = (E).,(D),160,13
+108,"If you're speaking to a lawyer about getting a divorce, what relationship status are you trying to end?
+A) being married 
+B) sisters 
+C) marriage 
+D) two people 
+E) lawyer 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","Step 1: The question is asking about ending a relationship status, so we can eliminate options B and D. Final Answer = (A, C, E)",(A),157,33
+109,"How do geese normally get from place to place?
+A) carried by people 
+B) guard house 
+C) fly 
+D) follow ultralight airplane 
+E) group together 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","**Expert 1:**
+
+They fly in large groups.
+
+**Expert 2:**
+
+They can also be carried by people or follow an ultralight airplane.
+
+**Expert 3:**
+
+They do not normally guard houses, so I will eliminate B.
+
+**Expert 1:**
+
+I agree. We can eliminate B.
+
+**Expert 2:**
+
+They do not normally get carried by people, so we can eliminate A.
+
+**Expert 3:**
+
+I agree. We can eliminate A.
+
+**Expert 1:**
+
+The remaining options are C, D, and E.
+
+**Expert 2:**
+
+I believe they normally fly, so I am going to choose C.
+
+**Expert 3:**
+
+I agree. I think they normally fly in large groups, so I am also going to choose C.
+
+**Expert 1:**
+
+Final Answer = (C)",(C),150,185
+110,"John was punching and punching at the wall but succeeded only in bloodying his knuckles. This was bad.  He would be unable to hold his tools if he injured what?
+A) hostility 
+B) anger 
+C) nose 
+D) fists 
+E) hands 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","**Expert 1:**
+
+John was punching the wall, which means he was trying to damage something. The only option that can be damaged is his fists, so the answer must be related to his fists.
+
+**Expert 2:**
+
+John's knuckles were bloody, which means he was punching with his fists. If he injured his fists, he would be unable to hold his tools.
+
+**Expert 3:**
+
+Hostility and anger are not physical injuries, so they cannot be correct. A nose is not related to holding tools, so it cannot be correct. Hands are correct, but the question specifically mentions fists, so it must be more specific.
+
+**Final Answer = (D)**",(E),168,143
+111,"Though it stayed strictly indoors, the small dog felt like it had all the space in the world in the what?
+A) living room 
+B) dog park 
+C) basket 
+D) small apartment 
+E) big house 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","Thinking Step 1: The dog stayed indoors, so B, C, and D can be eliminated. Final Answer = (A).",(E),160,27
+112,"WHat leads to someone's death when they are very depressed?
+A) suicide 
+B) overdosing 
+C) sadness 
+D) murder 
+E) cyanide 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","Expert 1: Depressed people often turn to substances to cope with their pain, which can lead to an overdose. Final Answer = (B)",(A),149,30
+113,"She was sick and staying in bed the day of the event, unfortunately this meant she was what?
+A) resting 
+B) sleep more 
+C) bed sores 
+D) missing out 
+E) comfort 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","Expert 1: She was sick and staying in bed the day of the event, so she was likely resting.
+Final Answer = (A)
+
+Expert 2: I agree that she was likely resting, but she may have also been sleeping more than usual since she was sick.
+Final Answer = (B)
+
+Expert 3: I think she was likely bed sores because she was staying in bed all day.
+Final Answer = (C)",(D),156,93
+114,"Where would a lizard surprise a person?
+A) new mexico 
+B) forrest 
+C) dessert 
+D) garden 
+E) creek 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","**Expert 1:** Lizards live in warm, sunny, rocky environments. The forest is relatively cold and humid compared to the other options. Final Answer = (C)
+
+**Expert 2:** Lizards need a place to hide and find food. A garden can have many hiding places, such as flowers, foliage, and tall grass. Final Answer = (D)
+
+**Expert 3:** There are no lizards in creeks. Lizards cannot swim and would drown in a creek. Final Answer = (D)
+
+**Expert 1:** Deserts have warm, dry climates and rocky environments that lizards prefer. Final Answer = (C)
+
+**Expert 2:** Lizards can also be found in gardens, but the garden is not as ideal a habitat as a desert. Final Answer = (C)
+
+**Final Answer = (C)**",(D),143,174
+115,"They were getting together for the big game, he wasn't hosting but made sure to bring pretty of food with him over to where?
+A) picnic 
+B) friend's house 
+C) table 
+D) space shuttle 
+E) fairgrounds 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","Thinking about the passage, We know that there was a gathering and there was a big game. Most of the time when there are gatherings and big games the gathering revolves around the big game. When people gather to watch games, the most common places are at friends or family's houses or at public event places like stadiums or bars. So looking at friends or family houses or other places where the event might be taking place are the places this could have happened. 
+
+Next Expert:",(B),166,97
+116,"Who is likely yo have a caring heart?
+A) person 
+B) species 
+C) artichoke 
+D) all mammals 
+E) live animal 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","Expert 1: A person is likely to have a caring heart because they are capable of empathy and compassion. If a person has a caring heart, they will be more likely to help others, even if they don't know them. Next Expert.
+Expert 2: All mammals are likely to have a caring heart because they are all capable of forming bonds with others. Mammals are also known to be social creatures, which means that they are more likely to care about the well-being of others. Next Expert.
+Expert 3: I realize I am wrong because artichokes are not living animals. I am leaving. Final Answer = (D).",(A),145,134
+117,"I'm looking for alcohol and fried foods, any suggestions?
+A) pub 
+B) plane 
+C) beer 
+D) store 
+E) fraternity house 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","**Step 1:**
+
+**Expert A:** Pubs are known for serving alcohol and fried foods.
+**Expert B:** Planes do not typically serve alcohol or fried foods.
+**Expert C:** Beer is an alcoholic beverage, but it is not a place where you can find fried foods.
+
+**Remaining Experts:** A, D, E
+
+**Step 2:**
+
+**Expert A:** Pubs typically have a wide selection of alcoholic beverages and fried foods.
+**Expert D:** Stores may sell alcohol and fried foods, but they are not known for serving them.
+**Expert E:** Fraternity houses are known for having parties where alcohol is served, but they may not always have fried foods.
+
+**Remaining Experts:** A
+
+**Final Answer = (A)**",(A),147,157
+118,"If I had a jar which was likely to spoil if left out, where would I want to put it?
+A) kitchen cupboard 
+B) pantry 
+C) grocery store 
+D) pantry 
+E) refrigerator 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","- Expert 1: I would eliminate the grocery store (C) because it is not a place where I would store my own food. Final Answer = (A), (B), (D), or (E).
+- Expert 2: I agree with Expert 1. The grocery store (C) is not a suitable place to store food. I would also eliminate the kitchen cupboard (A) because it is often a warm and humid place, which can cause food to spoil more quickly. Final Answer = (B) or (D).
+- Expert 3: I agree with Expert 1 and Expert 2. The grocery store (C) and the kitchen cupboard (A) are both unsuitable places to store food. I would choose the pantry (D) because it is a cool, dark, and dry place that is ideal for storing food. Final Answer = (D).",(E),157,181
+119,"Sam went to Paris where he ordered a blowfish at a sushi place.  Where was Sam?
+A) books 
+B) france 
+C) fish market 
+D) atlantic ocean 
+E) cuba 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","**Expert 1:** Blowfish is a type of fish. Final Answer = (D)
+
+**Expert 2:** Sushi is a Japanese dish. Paris is in France. Final Answer = (B)
+
+**Expert 3:** I realize now that my initial answer was incorrect. I will leave the discussion.",(B),155,64
+120,"What will happen to skin pinched in something?
+A) feel cold 
+B) feel pressure 
+C) feel bumpy 
+D) itches 
+E) feel clammy 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","Expert 1: Skin pinched in something will create pressure on the nerves in the skin, which will send a signal to the brain that will be interpreted as feeling pressure.
+Next step: 
+
+Expert 2: The pressure on the nerves will also cause the blood vessels in the skin to constrict, which will reduce the flow of blood to the area and make the skin feel cold.
+Next step: 
+
+Expert 3: The reduced blood flow will also cause the skin to become pale and clammy.
+Final Answer = (B)",(B),148,112
+121,"Sally lost her kite because she wasn't careful.  She thought that there was more string on the spool, but it slipped out of her fingers when she reached the what?.
+A) child's hand 
+B) the last straw 
+C) hobby shop 
+D) end of line 
+E) toy store 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","**Expert 1:**  It mentions Sally lost her kite because of the string, so It doesn't sound like the kite is in anyone's hand. Thinking about the other options, Hobby shop and Toy store are places where you can get a kite and not necessarily where you lose it. This leaves us with the last straw and the end of the line. A straw doesn't sound like the best option. So I will choose the end of the line. 
+Next>
+
+**Expert 2:**  I agree with the reasoning of Expert 1. Going through the options, It is unlikely for the kite to be in a child's hand because it slipped out of Sally's fingers. So A is out. B is also out because it is talking about a straw, and that doesn't make sense. C and E are not related to what happened to the kite. That only leaves us with the last straw and the end of the line. The end of the line sounds more reasonable because it means the string ended and the kite was lost. 
+Next> 
+
+**Expert 3:**  I also agree with the reasoning of the other two experts. When I read the question, I thought that the last straw might be referencing an idiom. I thought it meant the last straw on the camel's back which means the last bit of weight put on something which then causes it to fail. So I was going to choose that. But then I realized that would not make sense because there is no mention of a camel in this question. So I will have to go with the end of the line. 
+Final Answer = (D)",(D),178,340
+122,"The man uses grooming before a job interview, what is he trying to portray?
+A) looking good 
+B) beauty 
+C) tardiness 
+D) handsomeness 
+E) neatness 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","Expert 1, Step 1: The man is trying to make a positive impression on the interviewer. 
+
+Expert 2, Step 1: The man is trying to present himself as professional and polished. 
+
+Expert 3, Step 1: The man is trying to show the interviewer that he takes pride in his appearance. 
+Final Answer = (E)",(E),153,77
+123,"Where would there be many people sitting in chair and listening to religious speech?
+A) auditorium 
+B) office 
+C) synagogue 
+D) confession 
+E) church 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","I would narrow it down to (A), (E), or (C), since they are all places where people would sit in chairs and listen to religious speech. 
+
+Next step:",(C),148,38
+124,"Where is a tabby cat likely to be happiest?
+A) box 
+B) home 
+C) alley 
+D) lap 
+E) barn 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","**Expert 1:**
+
+A tabby cat is a domestic breed, so it is unlikely to be happiest in an alley or a barn.
+
+**Expert 2:**
+
+Tabby cats are known for being affectionate and playful, so they are likely to be happiest in a home where they can receive attention and stimulation.
+
+**Expert 3:**
+
+Tabby cats are natural hunters, so they may also enjoy spending time in a box where they can hide and play.
+
+Next Step:
+
+**Expert 1:**
+
+Since a tabby cat is a domestic breed, it is most likely to be happiest in a home where it can receive food, water, shelter, and attention.
+
+**Expert 2:**
+
+Tabby cats are also known for being independent and curious, so they may also enjoy spending time in a yard or other outdoor space where they can explore.
+
+**Expert 3:**
+
+However, tabby cats are not typically known for being particularly attached to their owners, so they may also be happy in a home where they are not the only pet.
+
+Final Answer: (B)",(D),143,223
+125,"East coast areas such as Florida are found where?
+A) florida 
+B) denmark 
+C) united states 
+D) map 
+E) california 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","Step 1: Eliminate options that are clearly not related to the question.
+Expert 1: Options D and E are not related to the location of East coast areas, so I will eliminate them.
+Expert 2: Option B is a country in Europe, so it is not related to the location of East coast areas in the United States. 
+Expert 3: Option A is too specific and does not provide enough information about the location of East coast areas. I will eliminate it.",(C),145,101
+126,"To learn must have the right book, to work efficiently what must one have?
+A) improve yourself 
+B) become knowledgeable 
+C) have tools 
+D) persistence 
+E) have more knowledge 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","Expert 1: It takes persistence to keep going even when things are difficult. However, it is not the answer to this question because it does not go hand in hand with working efficiently. Next Expert.
+
+Expert 2: I believe we need to become knowledgeable to work efficiently. Next Expert.
+
+Expert 3: I think we must have the right tools to work efficiently. Final Answer = (C).",(C),154,83
+127,"What is a mobile launching platform found in the ocean?
+A) launch pad 
+B) circus 
+C) aircraft carrier 
+D) large open area 
+E) space station 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","Step 1: Mobile implies movement. A launch pad, space station, or large open area are not mobile. An aircraft carrier and circus are both mobile, but only an aircraft carrier is found in the ocean. 
+Final Answer = (C)",(C),149,51
+128,"There weren't potatoes but actually a snake in his what?
+A) burlap sack 
+B) hot country 
+C) purse 
+D) pet shops 
+E) deep grass 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","Step 1: I would eliminate (D) and (E) because a pet shop or deep grass does not make sense in the context of this question. 
+Next step for all experts.",(A),150,40
+129,"What could listening to music cause you to be?
+A) happy 
+B) smile 
+C) calm 
+D) entertainment 
+E) relaxation 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","Listening to music can cause you to be happy. 
+
+Final Answer = (A)",(C),143,18
+130,"If you want to make a big splash in a river with a rock, from where should you throw it?
+A) mountains countryside 
+B) ground 
+C) bridge 
+D) mountain range 
+E) surface of earth 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","Mountains countryside provides the highest elevation, allowing for maximum distance and speed when the rock is thrown. Final Answer = (A).",(C),159,25
+131,"What is committing perjury likely to lead to?
+A) shame 
+B) arrest 
+C) embarrassment 
+D) go to jail 
+E) tension 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","Perjury can lead to legal consequences, including arrest, prosecution, and potential imprisonment. It is a serious offense that can undermine the integrity of the justice system.
+Next Step: (B)",(B),144,39
+132,"The new play was the go to performance of the year, all the crowds would stand and what?
+A) admiration 
+B) applaud 
+C) make reservations 
+D) experience 
+E) sleep 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.",This sounds like an event where people would stand up and applaud in appreciation. Final Answer = (B).,(B),154,21
+133,"""There are 10 apples on an apple tree.  Three fall off.  Now there are X apples.""  What is this an example of?
+A) park 
+B) coloring book 
+C) garden center 
+D) math problem 
+E) gravity 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","Expert 1: It's a math problem because it involves numbers and a calculation. Next
+Expert 2: It's also about physics, specifically gravity, because the apples fall off the tree due to the force of gravity. Next
+Expert 3: I agree that it's primarily a math problem, but it could also be related to gardening since apples grow on trees and gardening involves taking care of plants. Final Answer = (D)",(D),168,92
+134,"Where are people likely to find food?
+A) opera 
+B) supermarket 
+C) building 
+D) conference 
+E) apartment 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","Expert 1: People are likely to need to eat while at work, so I'm going to eliminate options A, D, and E. Step 1 Final Answer: (B) or (C)
+
+Expert 2: Since people will need to buy groceries at some point, I'm going to say the correct answer is (B). Step 2 Final Answer: (B)
+
+Expert 3: I agree that (B) is the most likely option, so I'm going to go with that. Step 3 Final Answer: (B)",(B),141,117
+135,"What might a kid do with his friend before going to play?
+A) laugh 
+B) sit 
+C) being entertained 
+D) math 
+E) meet 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","Expert 1:
+
+What do kids do with their friends when they are going to play? What are some synonyms for ""play?"" One synonym for play is have fun. What do kids do with their friends when they're having fun? They laugh with them.
+Final Answer: (A)",(E),147,61
+136,"What is a person who is well educated?
+A) illiterate 
+B) knowledgable 
+C) own house 
+D) have enough food 
+E) meet expectations 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","**Expert 1:**
+We should first remove all options that cannot apply to a well-educated person. Being illiterate is contradictory to being educated, owning a house or having enough food are not necessarily related to education, and meeting expectations is too vague and subjective.
+Next Step: B) knowledgable
+
+**Expert 2:**
+I agree with removing A), C), D), and E). The only remaining option, B) knowledgable, is a quality often possessed by well-educated individuals.
+Final Answer = (B)",(B),147,109
+137,"Ben was an alcoholic and was in an accident.  Because of his mistake, he spent 8 years somewhere. Where was he?
+A) prison 
+B) bridge 
+C) locked up 
+D) homeless shelter 
+E) neighbor's house 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","**Thinking Step 1**
+
+**Expert 1:** Ben was an alcoholic, which suggests a pattern of excessive alcohol consumption. The accident may have been a consequence of this. Therefore, I believe he was in **(A) prison** because drunk driving is a common offense that can lead to incarceration.
+
+**Expert 2:** The phrasing ""Because of his mistake"" suggests that Ben's accident was due to some error on his part. I think he was on a **(B) bridge** when he made a mistake, such as driving while intoxicated or texting while driving.
+
+**Expert 3:** The phrase ""spent 8 years somewhere"" indicates a prolonged period of confinement. I believe he was in a **(C) locked up** facility, such as a prison or mental health institution, where he served a sentence or received treatment for his alcoholism.",(A),165,177
+138,"Where do you buy tickets at a ticket booth for games/
+A) train station 
+B) cathedral 
+C) metro station 
+D) fairgrounds 
+E) amusement park 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","Expert 1: A ticket booth is a place where people can buy tickets for events or transportation. I know that you can buy tickets for trains at a train station, and you can buy tickets for amusement parks at an amusement park. So, I think the answer is either A or E.
+
+Next step: I think we should eliminate the other options. We can't buy tickets for games at a cathedral, so that eliminates option B. We can't buy tickets for games at a metro station, so that eliminates option C. We can't buy tickets for games at a fairgrounds, so that eliminates option D.
+
+Final Answer = (E)",(D),149,135
+139,"A soccer field that is not contained in a building would be where?
+A) playground 
+B) mexico 
+C) town 
+D) outside 
+E) world cup 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","Step 1: Field is not contained in a building. Playground and town are, so they are out.
+Final Answer = Not yet determined",(D),148,29
+140,"Letters are sometimes delivered by hand through one of these.
+A) mail box 
+B) suitcase 
+C) front door 
+D) bowl 
+E) post office 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","**Expert 1**
+
+Step 1: The front door is not a possible answer because mail is not delivered through the front door.
+
+**Expert 2**
+
+Step 1: A suitcase is not a possible answer because mail is not delivered through a suitcase.
+
+**Expert 3**
+
+Step 1: A bowl is not a possible answer because mail is not delivered through a bowl.
+
+**All Experts**
+
+Step 2: The post office is not the correct answer, because it does not receive mail, it sends out mail.
+
+**Expert 3 leaves, as they realize the answer cannot be a bowl.**
+
+**Experts 1 and 2**
+
+Step 3: The only remaining option is a mailbox.
+
+Final Answer = (A)",(C),147,159
+141,"John came to see Sam and Sam kicked him out.  Sam didn't like company.  He prefered what?
+A) you 
+B) abbreviation 
+C) solitude 
+D) loneliness 
+E) alone 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","1) John came to see Sam, indicating that Sam did in fact like company.  Do we cross off D and E?       Final Answer = (C).
+
+2) Sam kicked John out.  Does this eliminate C?  Final Answer =  (A)",(C),158,55
+142,"If somebody likes temperatures cool, they might have more than one electric fan where?
+A) home 
+B) hardware store 
+C) home 
+D) hot room 
+E) office 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","Step 1 - Home and office can be places where someone might have more than 1 electric fan. Final Answer = N/A 
+
+Step 2 - Hardware stores sell electric fans, but someone is unlikely to have more than one there. Final Answer = N/A
+
+Step 3 - A hot room is a place where someone might have an electric fan, but not necessarily more than one. Final Answer = (A)",(A),151,88
+143,"Sky diving scared him, once they jumped out of the plane he began losing consciousness while what?
+A) injury 
+B) death 
+C) playing uno 
+D) coma 
+E) falling down 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","Expert #1: Since he is losing consciousness, a serious medical consequence is most likely, so I'm eliminating A and E. Final Answer: (B) or (D)
+
+Expert #2: He may be passing out from fear, so C is unlikely. Final Answer: (B) or (D)
+
+Expert #3: A coma is a prolonged state of unconsciousness, so that's the most likely of the remaining options. Final Answer: (D)",(E),154,98
+144,"The president had to make a decision regarding the hate attack on his country, what did he do?
+A) wage war 
+B) fight enemy 
+C) kill 
+D) destroy enemy 
+E) attacked his country 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.",Invalid Response,(A),0,0
+145,"What's it called when you have seen something through an eyepiece?
+A) sights 
+B) optical illusion 
+C) optical telescope 
+D) light microscope 
+E) binocular 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","Step 1: We need to consider what the definitions of the terms in the answer choices are.
+
+Final Answer = (C)",(A),151,27
+146,"He had done a great job with the scary decorations, they were completely what?
+A) terrible 
+B) little 
+C) halloween 
+D) small 
+E) horrible 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","Step 1: Halloween is a holiday associated with scary things, so the decorations are likely to be scary as well. 
+
+Next expert, your turn.",(E),149,32
+147,"If you did well on the test, you might get an A as a what?
+A) see work 
+B) practice 
+C) quiz 
+D) school grade 
+E) homework 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","Step 1: By reading the question, I know it's looking for a result or consequence of doing well on a test. (A), (B), and (E) are not potential results. (C) could be interpreted as a result but is not strongly related to doing well on a test. That leaves (D) as the only viable option. Final Answer = (D)",(D),152,80
+148,"If you tell you boss your suffering from boredom they'll likely tell you to get back to what?
+A) dream 
+B) fiddle 
+C) watch film 
+D) see new 
+E) work 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","Expert 1: There is no logical answer outlined in the text, therefore this question cannot be answered. I will stop here.
+
+Expert 2: I agree with Expert 1: There is no logical answer outlined in the text, therefore this question cannot be answered. I will stop here.
+
+Expert 3: I agree with Expert 1 and Expert 2. There is no logical answer outlined in the text, therefore this question cannot be answered. I will stop here.
+
+Final Answer = (N/A)",(E),156,107
+149,"What is a good result of jogging?
+A) insect repellent 
+B) heart attacks 
+C) improved health 
+D) shin splints 
+E) being tired 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","**Expert 1**
+
+*Jogging is a form of exercise that has been shown to have multiple health benefits.*
+
+**Expert 2**
+
+*I'm going to have to agree with Expert 1 on this one. Jogging has been shown to improve cardiovascular health, reduce the risk of some chronic diseases, and boost mood.*
+
+**Expert 3**
+
+*While jogging can be a good way to improve your health, it's important to note that it can also lead to injuries such as shin splints. Therefore, it's important to gradually increase your mileage and intensity to avoid these types of injuries.*
+
+**Final Answer = (C)**",(C),147,137
+150,"What is done to wood to attach something to it?
+A) nailed 
+B) carved 
+C) polished 
+D) eat cake 
+E) petrify 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","Step 1: Eliminate any obvious non-sequiturs. 
+Final Answer = (D)",(A),146,21
+151,"Where is a fox likely to be caught?
+A) tennessee 
+B) inside joke 
+C) grassy field 
+D) the forrest 
+E) england 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","Next step: Cross out the places where a fox likely would not be caught. 
+
+Final Answer = (B)",(C),147,24
+152,"Where do you put a new dining table?
+A) cafeteria 
+B) arranging papers 
+C) in the park 
+D) formal dining room 
+E) house 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","**Expert 1**
+
+Step 1: Option C in the park is impractical because a dining table needs to be sheltered to protect it from the elements.
+ **Eliminate C.**
+
+**Expert 2**
+
+Step 1: Option B arranging papers is not correct because a dining table is for eating, not for organizing documents.
+ **Eliminate B.**
+
+**Expert 3**
+
+Step 1: Option A in the cafeteria is possible but could be noisy and crowded. It's not the best choice for a formal meal.
+ **Eliminate A.**  
+ 
+**Final Answer = (D)**",(E),147,129
+153,"Sometimes fighting inflation isn't even what, because it is so negligible?
+A) economic instability 
+B) not noticeable 
+C) spend more 
+D) rising interest rates 
+E) boring 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.",When inflation is negligible it is barely noticeable and not a major economic concern. Final Answer = (B),(B),153,21
+154,"What is likely to have more than one level in a city?
+A) carpenter's shop 
+B) video game 
+C) garage 
+D) total number 
+E) building 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","I would rule out C, D, and A because a garage, total number, and carpenter's shop are likely to have only one level.
+
+Next, I would check to see if video games have more than one level. Yes, they most definitely do. 
+ 
+Final Answer (B).",(C),151,63
+155,"Where is likely to have a lot of fire extinguishers?
+A) garage 
+B) hospital 
+C) boat 
+D) house 
+E) doll house 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","1) A garage is likely to have a fire extinguisher because it often stores flammable liquids and materials.
+
+2) A hospital is likely to have fire extinguishers because it has a lot of electrical equipment and hazardous materials.
+
+3) Expert 2 leaves because they realize that a doll house is not likely to have a fire extinguisher.",(B),146,67
+156,"Where would someone learn to play an upright piano?
+A) music room 
+B) music store 
+C) music class 
+D) medium 
+E) house 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","Expert 1: The question is not asking where someone would usually learn the piano but instead where one could learn to play the piano. 'Medium' cannot be correct because it is not a place. Music rooms, stores and classes are all places where someone could learn to play the piano. House is a bit ambiguous but since we are taking 'learn' in a more structured sense, it can be eliminated. 
+
+I eliminate (D) house. 
+
+Next Expert, your turn. 
+Final Answer = ( )",(C),146,106
+157,"What is necessary for learning by yourself?
+A) exposure 
+B) patience 
+C) study 
+D) cooperation 
+E) thought 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","Exposure to new information is necessary for learning by yourself, as it provides the raw material for your brain to process and understand. Final Answer = (A)",(C),141,31
+158,"John and Jane were a couple.  They were dating for a while and wanted to be together for even longer. For this reason, they did what?
+A) make sex 
+B) plan to marry 
+C) dance 
+D) electrical circuit 
+E) row about 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","They started making plans for their future together. 
+
+Next:  They planned to spend the rest of their lives together. 
+
+Final Answer = (B)",(B),169,33
+159,"What emotion does getting paid lead to?
+A) sorrow 
+B) paying bills 
+C) happiness 
+D) frustration 
+E) spending money 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","**Step 1:**
+
+Getting paid is often associated with positive outcomes, such as financial stability and the ability to afford desired goods and services. Therefore, I believe the emotion it leads to is:
+
+**Expert 1:** Happiness
+
+**Step 2:**
+
+While getting paid can alleviate financial stress, it does not directly lead to sorrow or frustration. Additionally, it is not the same as paying bills or spending money, which are actions that may follow receiving payment.
+
+**Expert 1:** Eliminate (A), (D), (E)
+
+**Expert 2:** Eliminate (A), (D)
+
+**Step 3:**
+
+Of the remaining options, ""paying bills"" is a consequence of getting paid, not an emotion. Therefore, the emotion that getting paid leads to is:
+
+**Expert 1:** Final Answer (C)
+**Expert 2:** Final Answer (C)
+
+**Expert 3:** Eliminate (B)
+
+**Step 4:**
+
+I have considered all the options and eliminated those that do not logically follow from the premise. Therefore, I conclude that the emotion associated with getting paid is:
+
+**Expert 3:** Final Answer (C)",(C),143,243
+160,"Who is likely going in to a market?
+A) stress 
+B) food 
+C) that you 
+D) spending money 
+E) walking 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","**Expert 1:**
+
+Step 1: Eliminate options that are not likely to be associated with entering a market.
+
+Option E (walking) can be eliminated as it is not typically associated with entering a market.
+
+Updated options: A, B, C, D
+
+**Expert 2:**
+
+Step 2: Consider the remaining options and identify any that are more likely to be associated with entering a market.
+
+Option A (stress) and C (that you) are less likely to be associated with entering a market than B (food) and D (spending money).
+
+Updated options: B, D
+
+**Expert 3:**
+
+Step 3: Finalize the answer by selecting the most likely option.
+
+Based on the remaining options, B (food) is more likely to be associated with entering a market than D (spending money).
+
+Final Answer = (B)",(C),144,181
+161,"What is a characteristic of thin glass?
+A) break easily 
+B) shattering 
+C) melt 
+D) bend 
+E) hold water 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.",Thin glass is delicate and prone to breaking or shattering when subjected to force or impact. Final Answer = (A),(A),143,23
+162,"What do you get for not moving your car during the required time?
+A) towed 
+B) accidents 
+C) driving 
+D) getting tired 
+E) ticket 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","Expert 1: Accidents and driving are not correct answers. They do not fit with the question. Eliminate B and C.
+
+Expert 2: Getting tired is not the correct answer. It is not a result of not moving your car during the required time. Eliminate D.
+
+Expert 3: The remaining answer is correct. When you do not move your car during the required time, you get a (E) ticket.
+
+Final Answer = (E)",(E),148,94
+163,"Bob's feet hurt from running barefoot on the hot pavement.  I lost his shoes, didn't know where they landed, and had to run from the corner store to his home.  About where did he run?
+A) a bed of nails 
+B) town 
+C) attractive consistent look 
+D) city block 
+E) ground 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","1) Bob's feet hurt from running barefoot on the hot pavement.  So he must have run on pavement.  Eliminate A) and E).
+
+Final Answer = (D)",(D),185,39
+164,"Where would you be able to hear a bassoon played in an unpleasing fashion?
+A) orchestra 
+B) baritone woodwind sound 
+C) symphony 
+D) play music 
+E) high school band 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","Expert 1: Bassoon is a woodwind instrument so it can't be a baritone woodwind sound (B), or high school band (E) because that would be a brass instrument. Final Answer = (A).
+
+Expert 2: Bassoon is a woodwind instrument so it can't be a play music (D) because that is not an instrument. The bassoon is a common instrument in orchestras and symphonies so it could be either (C) or (A). 
+
+Expert 3: I agree with Expert 2 that it could be either (C) or (A). Since the question asks “in an unpleasing fashion” we can assume that it is asking about a situation where the bassoon is not being played well. It is more likely that a bassoon would be played poorly in a high school band than in a professional orchestra. The bassoon is an uncommon instrument and not all band directors are bassoon players themselves, so it is possible that a high school band director may not be able to properly instruct a student on how to play the bassoon. Final Answer = (E).",(E),157,232
+165,"John loved competing because he was very competitive.  He liked being about to divide people into what categories?
+A) winners and losers 
+B) perform better 
+C) might win 
+D) losses 
+E) enemies 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","Expert 1: Someone who is competitive likes competition. John was competitive by dividing people into winners and losers. 
+Next Step -->
+
+Final Answer = (A)",(A),158,34
+166,"The game was on sale.  I got it then because it was usually what?
+A) buying 
+B) purchase 
+C) overpriced 
+D) way to much 
+E) expensive 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","An object that is on sale is often a lower cost than it's usual price.
+Next Expert?
+Final Answer = (C)",(E),152,29
+167,"What could a massive building be if it is not constructed well?
+A) insubstantial 
+B) massless 
+C) dwarf 
+D) inconsequential 
+E) good 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.",1. A massive building cannot be dwarf if it is not constructed well. Final Answer = (C),(A),148,21
+168,"Where could a printer be used by thousands of people?
+A) school 
+B) home office 
+C) people store 
+D) print shop 
+E) newspaper office 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","Step 1: Think of places where multiple people could access and use a printer.
+Final Answer = (D)",(A),148,24
+169,"What could prevent someone from buying chistmas presents?
+A) happiness 
+B) lack of money 
+C) stress 
+D) relief 
+E) exhiliration 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.",Lack of money is a common reason why someone may not be able to buy Christmas presents. Final Answer = (B).,(B),148,24
+170,"What is the hope of playing sports without competition?
+A) running 
+B) have fun 
+C) balls touch 
+D) winning 
+E) get tired 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","**Expert 1**
+
+Step 1: (B) is a possible answer, as it is often a reason why people play sports.
+**Expert 2**
+
+Step 1: I would immediately rule out (D), as competition is not required for playing sports.
+**Expert 3**
+
+Step 1: (E) is not a good answer, as one can get tired without playing sports.
+**Expert 1**
+
+Step 2: (C) is not a good answer, as it does not address the hope of playing sports.
+**Expert 2**
+
+Step 2: (B) is my only remaining answer, and it seems to be the most appropriate.
+**Expert 3**
+
+Step 2: (A) is not a good answer, as it is just one activity that can be done in sports.
+
+**Final Answer = (B)**",(B),146,187
+171,"They moved out of the city to have a master bedroom, what kind of home did they seek?
+A) large house 
+B) suburban home 
+C) big house 
+D) old house 
+E) keeping personal objects 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","Expert 1: That's not very much information to go on, I don't think I can start. Expert 2: Master bedrooms are usually located in the master suite, which is usually the largest bedroom in the house, and larger houses are more likely to have large master suites. So my answer for the first step is large house. Expert 3: There's no mention of the city they moved from, so we don't know if this is an upgrade or a downgrade in home size. I'll pass. 
+
+Expert 1: Suburban homes are usually larger than those in the city. And since they moved to have a master bedroom, it must be important to them. So I'm going to go with suburban home. Expert 2: I agree. Master bedrooms are more common in suburban homes than in other types of homes. So suburban home is my answer for this step as well. 
+
+Expert 1: I think we're done. Suburban homes are typically larger than city homes and usually have a master bedroom. So that must be what they were looking for. Final Answer = (B)",(B),159,233
+172,"What could you add a line to?
+A) bus stop 
+B) graph 
+C) post office 
+D) grass 
+E) play 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","Bus stop - you can add a line to create a queue. 
+
+Final Answer = (A)",(B),143,21
+173,"Joe bought a ficus.  He thought it would look good in what part of his home?
+A) family room 
+B) tropical forest 
+C) flower garden 
+D) movie theater 
+E) hair salon 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","**Expert #1:**
+
+* **Thinking:** A ficus is a type of tree, so it would not be suitable for a flower garden or a movie theater.
+* **Next Step:** Eliminate C) and D)
+
+**Expert #2:**
+
+* **Thinking:** A ficus is a plant that is native to tropical regions, so it would not be suitable for a family room that is not well-lit and humid.
+* **Next Step:** Eliminate A)
+
+**Expert #3:**
+
+* **Thinking:** A ficus is a popular houseplant, so it would be suitable for a hair salon.
+* **Next Step:** Eliminate B)
+
+**All Experts:**
+
+* **Final Answer:** (E)
+
+**Expert #1:**
+
+* **Thinking:** Oops, I was wrong. A ficus is not a suitable plant for a hair salon because it requires a lot of sunlight.
+* **I am leaving.**
+
+**Remaining Experts:**
+
+* **Final Answer:** (B)",(A),158,209
+174,"Sarah wanted to by a new rug.  Ink spilled onto her old one.  Really, she didn't know what that thing had an inkwell in the first place.  What piece of furniture might have been on her run?
+A) front of door 
+B) bedroom 
+C) desk 
+D) table 
+E) living room 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.",I'm thinking we need to focus on why the ink spilled. Is there a piece of furniture where it would be likely that an inkwell would be sitting that someone might knock over? Final Answer = (C),(C),184,44
+175,"When people discover something new while chatting with friends, why are they likely to continue talking?
+A) agreement 
+B) to fill their time 
+C) discomfort 
+D) misunderstanding 
+E) learning about 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.",The discovery of something new while chatting with friends creates a sense of curiosity and excitement that compels people to continue the conversation. 'Final Answer = (E).',(E),156,31
+176,"How can one's views change after learning about science?
+A) appreciation of nature 
+B) become educated 
+C) excitement 
+D) increased knowledge 
+E) see things differently 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","**Expert 1:**
+
+One's views can change after learning about science by becoming educated. Science provides knowledge and understanding of the world around us, which can lead to a more informed and educated perspective on various aspects of life.
+
+**Expert 2:**
+
+Learning about science can lead to an increased appreciation of nature. Science helps us understand the intricate workings of the natural world, fostering a sense of awe and wonder.
+
+**Expert 3:**
+
+Science can help us see things differently by providing new ways of understanding phenomena. It encourages critical thinking, challenges assumptions, and broadens our perspectives.
+
+**Expert 1:**
+
+Increased knowledge gained through science can lead to a greater understanding of the world and a more informed decision-making process.
+
+**Expert 2:**
+
+Science can foster excitement and a sense of discovery. Learning about new scientific advancements and discoveries can spark curiosity and ignite a passion for knowledge.
+
+**Expert 3:**
+
+Science promotes critical thinking and problem-solving skills, which can be applied to various aspects of life beyond scientific contexts.
+
+**Final Answer = (E)**",(E),151,224
+177,"Traveling underwater has many dangers, such as low visibility causing what?
+A) disorientation 
+B) due to 
+C) meeting new people 
+D) getting somewhere 
+E) relocation 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","**Step 1:**
+
+* Expert 1: Low visibility can cause disorientation. Final Answer = (A)
+* Expert 2: I'm not sure about this yet.
+* Expert 3: Low visibility can make it difficult to see where you're going.
+
+**Step 2:**
+
+* Expert 2: Low visibility can cause disorientation. Final Answer = (A)
+* Expert 3: I agree with Expert 2. Final Answer = (A)",(A),151,103
+178,"Where are people likely to stand at an intersection?
+A) cars 
+B) city street 
+C) street corner 
+D) fork in road 
+E) at a red light 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","**Expert 1:**
+
+The question asks where people are likely to stand. (A) ""cars"" is not a place where people stand. (B) ""city street"" is too broad, as people can stand anywhere on a city street. (D) ""fork in road"" is also too broad, as people can stand anywhere at a fork in the road. (E) ""at a red light"" is a specific location where people are likely to stand, but it is not the only place. So, I eliminate (A), (B), (D), and (E), leaving (C) ""street corner"".
+
+**Expert 2:**
+
+I agree with Expert 1 that (A), (B), (D), and (E) can be eliminated. (C) ""street corner"" is the most likely place where people are likely to stand at an intersection. People often wait at street corners to cross the street, or to catch a bus or taxi.
+
+**Expert 3:**
+
+I also agree with the other experts that (C) ""street corner"" is the most likely place where people are likely to stand at an intersection. There is no other option that is as specific and plausible.
+
+**Final Answer = (C).**",(C),150,259
+179,"Janet knew she was dying from her injuries because she could feel herself doing what?
+A) sleeping longer 
+B) getting cold 
+C) death and decay 
+D) change of color 
+E) stop breathing 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","1. I think Janet knew she was dying because she could feel herself getting cold. When a person is dying, their body temperature drops. This is because the body is no longer able to produce enough heat to stay warm. 
+
+Next Expert...",(B),156,50
+180,"An expressway can suffer from traffic, this traffic gets worse the closer you get to any what?
+A) michigan 
+B) map 
+C) american city 
+D) rest stops 
+E) country 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","Expert 1: This question makes no sense regarding traffic on the expressway. Traffic can get worse no matter the location. There is no logical Final Answer. I am leaving this question. 
+
+Expert 2: The traffic on an expressway can get worse the closer you get to any large city. This is because there are more people and cars in cities, which can lead to congestion. Final Answer = (C)",(C),156,86
+181,"Where are there more telephone booths?
+A) gas stations 
+B) city 
+C) london 
+D) train station 
+E) airport 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","1. There are likely more telephone booths in the city than at gas stations. Many gas stations no longer have them and they are infrequently built new. I'm going to eliminate A. 
+Next expert, your turn.",(B),142,46
+182,"John moved away from his family.  He was a bit upset that he had to do it, but he needed the job.  Still, he would have preferred it if the job were what?
+A) present 
+B) stay here 
+C) closer 
+D) available 
+E) come here 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","Expert 1:  I would first eliminate answers (A) and (E) because these choices will not follow grammatically with the sentence. 
+
+Expert 2: Also eliminates answer (A) since the job isn't present as indicated above. 
+
+Expert 3: I would also eliminate (E) because it does not make since grammatically within the provided context. 
+
+Final Answer = (B)",(C),175,86
+183,"James complained that Alexa's electric guitar was too loud and he couldn't get any work done at home,  so she decided that she should get an acoustic guitar.  Where might she look for one?
+A) house 
+B) music shop 
+C) studio 
+D) storage 
+E) closet 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","Expert 1: I think it would be helpful to figure out where Alexa might already have an acoustic guitar. Final Answer = (E).
+
+Expert 2: I agree, it seems like Alexa might have an acoustic guitar in her closet. But I also think it's possible she might look for one in a music shop. Final Answer = (E) (B).
+
+Expert 3: I agree with both of you. I think Alexa might look in her closet or in a music shop. Final Answer = (E) (B).",(B),177,111
+184,"What can someone feeling happiness fall into?
+A) lead to laughter 
+B) love 
+C) laughter 
+D) smiles 
+E) tears 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.",Step 1: Happiness usually leads to positive emotions. Final Answer =  (D),(B),143,18
+185,"How might a person address someone who is leaving?
+A) further cause 
+B) wave goodbye 
+C) attempt suicide 
+D) insulting them 
+E) thank god 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.",This is a horrible question. I am going to opt out. Suicide is never the answer.,(B),148,19
+186,"What does a chef do when working in the evening?
+A) cook dinner 
+B) study french cooking 
+C) taste sauce 
+D) prepare food 
+E) thin sauce 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","1. C) taste sauce. I think this is a good first step because it is a common task that a chef would do in the evening.
+Final Answer = (C)",(A),150,37
+187,"What would happen to a person if his or her money is stolen?
+A) complete sentence 
+B) feel angry 
+C) drink tea 
+D) cross street 
+E) park 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.",Final Answer = (B).,(B),151,6
+188,"The people in class were instructed to brainstorm ideas, how would they use their minds for this?
+A) shake hands 
+B) control events 
+C) talk to each other 
+D) think creatively 
+E) dress themselves 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","First Expert: 
+The people in the class were instructed to brainstorm ideas. Brainstorming is a group creativity technique by which efforts are made to find a conclusion for a specific problem by gathering a list of ideas spontaneously contributed by its members. The goal is to generate creative ideas in a short period of time. During brainstorming, all ideas are welcome, no matter how unusual or outlandish they may seem. 
+
+Based on this, I believe that the correct answer is D: think creatively.
+D) think creatively (Next Expert)",(D),159,109
+189,"Someone lacking immortality will one day be?
+A) kick the bucket 
+B) mortal 
+C) dead 
+D) can die 
+E) dying 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","Step 1: They will one day be... Mortal. 
+
+Final Answer = (B)",(C),144,20
+190,"After his mother saw his report card he knew he was going to be doing housework, what could have prevented this?
+A) sneezing 
+B) fatigue 
+C) house clean 
+D) feeling satisfied 
+E) getting good grades 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","Fatigue might have prevented him from doing the housework since he may not have the energy to do so.
+Next Expert:",(E),160,24
+191,"Glass that hasn't been treated to be extra strong is what?
+A) weak 
+B) fragile 
+C) forceless 
+D) regular 
+E) flimsy 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","Step 1: Glass that hasn't been treated to be extra strong means its in its normal state.
+
+Final Answer (D).",(B),148,28
+192,"If you've thrown a rod you've done damage to what?
+A) fishing camp 
+B) hardware store 
+C) engine 
+D) your spine 
+E) sporting goods store 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","**Step 1**
+
+Expert 1: ""Throwing a rod implies fishing, and rods are used for fishing. So it must be related to fishing.""
+
+**Step 2**
+
+Expert 2: ""When you throw a rod, you're applying force. And force can cause damage.""
+
+**Step 3**
+
+Expert 3: ""Since it's related to fishing and force, the most likely part that could be damaged is the fishing equipment.""
+
+**Final Answer = (C)**",(C),153,105
+193,"What enables most people to transport themselves?
+A) helicopter 
+B) own cars 
+C) speak words 
+D) believe in god 
+E) dance together 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","Expert 1: Most people don’t own helicopters or don’t have access to them. Speaking words, believing in god, or dancing together does not help in transporting oneself. So it must be related to cars. Next step: Let’s find out if it is their own cars or other people’s cars. 
+
+Expert 2: People use their own cars to transport themselves most often, whether it’s to go to work, run errands, or visit friends and family. Next step: Let’s confirm this by comparing it to other options. 
+
+Expert 3: While public transportation, taxis, and ride-sharing services certainly play a role in transporting people, they are not as commonly used as personal vehicles. Final Answer = (B)",(B),146,157
+194,"What do people in the same family often share?
+A) brown hair 
+B) names 
+C) two eyes 
+D) will 
+E) brains 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.",Step 1: Everyone shares the same two eyes. Family members don't always share hair color or brains. Final Answer = (C).,(B),145,29
+195,"What is an area with no grass where I can get things to sell at a roadside stand?
+A) surface of earth 
+B) rest area 
+C) supermarket 
+D) state park 
+E) garden 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","Expert 1: The term ""roadside stand"" implies that the location is along a road.
+Next: 
+
+Expert 2: A supermarket is not typically located along a road.
+Next: 
+
+Expert 3: A garden is not typically used for commercial purposes.
+Next:",(E),156,61
+196,"Where do kids find fish in their backyards?
+A) boat 
+B) ocean 
+C) pond 
+D) end of line 
+E) ocean 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","Expert 1: Kids don't find fish in their backyards unless there is a pond or lake on the property. Final Answer = (C).
+
+Expert 2: Kids don't find fish in their backyards. Final Answer = (N/A).
+
+Expert 3: If there is a pond or lake in the backyard, kids might find fish in there. Final Answer = (C).",(C),145,84
+197,"Where must one wear a white shoe?
+A) wedding 
+B) tennis 
+C) closet 
+D) left foot 
+E) house 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","**Step 1:**
+
+Expert 1: Weddings are a formal event where specific dress codes are often followed, and white shoes are commonly worn by the bride. (A)
+
+Expert 2: Tennis shoes are typically worn for athletic activities and are not suitable for formal occasions. (Eliminate B)
+
+Expert 3: Shoes are typically worn on the feet, not in the closet. (Eliminate C)
+
+Intermediate Answer: (A)",(A),142,92
+198,"James chose to not to print the cards, because he wanted to be more personal. What type of cards did he choose, instead?
+A) cursive writing 
+B) hand writing 
+C) store bought 
+D) online media 
+E) hand written 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","Expert 1: Since James wanted to be more personal, the cards he chose must have been handwritten or written in cursive writing.
+**Next step**: The next step is to differentiate between handwritten and cursive writing.
+---
+Expert 2: James wanted to be personal, so he likely chose to write the cards himself. This eliminates options C and D.
+**Next step**: The next step is to determine whether he wrote in cursive or standard handwriting.
+---
+Expert 3: James' decision to be personal suggests he wrote the cards himself. This eliminates option C.
+**Next step**: The question now is whether he wrote in cursive or standard handwriting.
+---
+**Final Answer = (E)**",(E),165,146
+199,"They checked the weather one more time during the flight, they were on their way to paradise and wanted it to what?
+A) look beautiful 
+B) be happy 
+C) change quickly 
+D) occur here 
+E) surprise us 
+
+End your answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A). Only do this once.","**Expert 1:** The context of the question doesn't give any indication that the weather has the ability to think or change, so none of (B) and (D) makes sense.
+
+**Expert 2:** They were on their way to paradise, so it's reasonable that they would want the weather to be beautiful.
+
+**Expert 3:** (A) look beautiful 
+
+Final Answer = (A)",(A),162,88

@@ -1,0 +1,1601 @@
+ITERATION,QUESTION,RESPONSE,ANSWER,TOTAL INPUT,TOTAL OUTPUT
+0,"The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change?
+A) ignore 
+B) enforce 
+C) authoritarian 
+D) yell at 
+E) avoid 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (A)', role='assistant', function_call=None, tool_calls=None)",(A),95,6
+1,"Sammy wanted to go to where the people were.  Where might he go?
+A) race track 
+B) populated areas 
+C) the desert 
+D) apartment 
+E) roadblock 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (B)', role='assistant', function_call=None, tool_calls=None)",(B),91,6
+2,"To locate a choker not located in a jewelry box or boutique where would you go?
+A) jewelry store 
+B) neck 
+C) jewlery box 
+D) jewelry box 
+E) boutique 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (B)', role='assistant', function_call=None, tool_calls=None)",(A),93,6
+3,"Google Maps and other highway and street GPS services have replaced what?
+A) united states 
+B) mexico 
+C) countryside 
+D) atlas 
+E) oceans 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (D)', role='assistant', function_call=None, tool_calls=None)",(D),84,6
+4,"The fox walked from the city into the forest, what was it looking for?
+A) pretty flowers. 
+B) hen house 
+C) natural habitat 
+D) storybook 
+E) dense forest 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (C)', role='assistant', function_call=None, tool_calls=None)",(C),92,6
+5,"What home entertainment equipment requires cable?
+A) radio shack 
+B) substation 
+C) cabinet 
+D) television 
+E) desk 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (D)', role='assistant', function_call=None, tool_calls=None)",(D),79,6
+6,"The only baggage the woman checked was a drawstring bag, where was she heading with it?
+A) garbage can 
+B) military 
+C) jewelry store 
+D) safe 
+E) airport 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (E)', role='assistant', function_call=None, tool_calls=None)",(E),91,6
+7,"The forgotten leftovers had gotten quite old, he found it covered in mold in the back of his what?
+A) carpet 
+B) refrigerator 
+C) breadbox 
+D) fridge 
+E) coach 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (D)', role='assistant', function_call=None, tool_calls=None)",(B),92,6
+8,"What do people use to absorb extra ink from a fountain pen?
+A) shirt pocket 
+B) calligrapher's hand 
+C) inkwell 
+D) desk drawer 
+E) blotter 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (E)', role='assistant', function_call=None, tool_calls=None)",(E),91,6
+9,"Where is a business restaurant likely to be located?
+A) town 
+B) at hotel 
+C) mall 
+D) business sector 
+E) yellow pages 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (D)', role='assistant', function_call=None, tool_calls=None)",(D),83,6
+10,"Where do you put your grapes just before checking out?
+A) mouth 
+B) grocery cart 
+C) super market 
+D) fruit basket 
+E) fruit market 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (B)', role='assistant', function_call=None, tool_calls=None)",(B),85,6
+11,"Before getting a divorce, what did the wife feel who was doing all the work?
+A) harder 
+B) anguish 
+C) bitterness 
+D) tears 
+E) sadness 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (C)', role='assistant', function_call=None, tool_calls=None)",(C),87,6
+12,"Johnny sat on a bench and relaxed after doing a lot of work on his hobby.  Where is he?
+A) state park 
+B) bus depot 
+C) garden 
+D) gym 
+E) rest area 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='This question does not provide sufficient context to definitively determine where Johnny is. He could be in any of these locations.', role='assistant', function_call=None, tool_calls=None)",(C),95,24
+13,"James was cooling off two quickly.  He would die if he didn't find some way to stop what?
+A) loss of heat 
+B) revenge 
+C) expansion 
+D) relaxation 
+E) calm down 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (A)', role='assistant', function_call=None, tool_calls=None)",(A),95,6
+14,"Of all the rooms in a house it was his favorite, the aromas always drew him to the what?
+A) yard 
+B) basement 
+C) kitchen 
+D) living room 
+E) garden 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (C)', role='assistant', function_call=None, tool_calls=None)",(C),93,6
+15,"Bill is stuck in marsh when a man comes up to him peaking Cajun, where is he?
+A) low lands 
+B) new york 
+C) forest 
+D) louisiana 
+E) everglades 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (D)', role='assistant', function_call=None, tool_calls=None)",(D),96,6
+16,"What is it called when you slowly cook using a grill?
+A) backyard 
+B) restaurant 
+C) crockpot 
+D) neighbor's house 
+E) barbeque 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (E)', role='assistant', function_call=None, tool_calls=None)",(E),88,6
+17,"What type of person typically contracts illness?
+A) hospital 
+B) head 
+C) sick person 
+D) elderly person 
+E) doctor's office 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (D)', role='assistant', function_call=None, tool_calls=None)",(D),82,6
+18,"Where would you expect to find a pizzeria while shopping?
+A) chicago 
+B) street 
+C) little italy 
+D) food court 
+E) capital cities 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (D)', role='assistant', function_call=None, tool_calls=None)",(D),87,6
+19,"When eating everything on the tasting menu, what does one tend to feel?
+A) full stomach 
+B) getting full 
+C) gaining weight 
+D) sick 
+E) satisfaction 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (E)', role='assistant', function_call=None, tool_calls=None)",(B),88,6
+20,"What does playing soccer for a long time lead to?
+A) excitement 
+B) fatigue 
+C) anger 
+D) hurting 
+E) getting tired 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (B)', role='assistant', function_call=None, tool_calls=None)",(E),82,6
+21,"Which entrance would you use if you do not want to use the back entrance?
+A) side 
+B) main 
+C) anterior 
+D) current 
+E) front 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (E)', role='assistant', function_call=None, tool_calls=None)",(B),86,6
+22,"You can share files with someone if you have a connection to a what?
+A) freeway 
+B) radio 
+C) wires 
+D) computer network 
+E) electrical circuit 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (D)', role='assistant', function_call=None, tool_calls=None)",(D),87,6
+23,"The accelerator was controller via a hand throttle, and the foot pedals controlled the steering in the small what?
+A) car 
+B) fuel system 
+C) accelerate 
+D) boat 
+E) airplane 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (A)', role='assistant', function_call=None, tool_calls=None)",(E),92,6
+24,"Sean was lying about the body, but he was very scared.  He constantly worried about what?
+A) the reward money 
+B) hurt feelings 
+C) being found out 
+D) problems 
+E) trouble 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (C)', role='assistant', function_call=None, tool_calls=None)",(C),95,6
+25,"The drug kingpin told his man to run errands, this was code to go to all the dealers to do what they had?
+A) park 
+B) make time for 
+C) receive instructions 
+D) take money 
+E) leave work 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (D)', role='assistant', function_call=None, tool_calls=None)",(D),102,6
+26,"Though he could've kept going his body appreciated the rest, it had been constantly what during the day?
+A) walk 
+B) lay down 
+C) working 
+D) moving 
+E) exercise 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (D)', role='assistant', function_call=None, tool_calls=None)",(D),92,6
+27,"Too many people want exotic snakes.  The demand is driving what to carry them?
+A) ditch 
+B) shop 
+C) north america 
+D) pet shops 
+E) outdoors 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (D)', role='assistant', function_call=None, tool_calls=None)",(D),89,6
+28,"Joe suffered many consequences from stabbing a stranger to death.   Among them, the family of the victim did something to him. What was that?
+A) knife wounds 
+B) buy a gun 
+C) bleeding 
+D) jail time 
+E) law suit 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (E)', role='assistant', function_call=None, tool_calls=None)",(E),104,6
+29,"To prevent any glare during the big football game he made sure to clean the dust of his what?
+A) television 
+B) attic 
+C) corner 
+D) they cannot clean corner and library during football match they cannot need that 
+E) ground 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (A)', role='assistant', function_call=None, tool_calls=None)",(A),102,6
+30,"I have something in my head I want to share, what ways can I do that?
+A) write an essay 
+B) organize thoughts 
+C) speak information 
+D) summarize main points 
+E) have information 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (A), Final Answer = (B), Final Answer = (C), Final Answer = (D)', role='assistant', function_call=None, tool_calls=None)",(C),95,24
+31,"He wanted a house that was gated off from other places, where should he start looking?
+A) neighborhood 
+B) subdivision 
+C) city 
+D) suburbs 
+E) street 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (D)', role='assistant', function_call=None, tool_calls=None)",(B),88,6
+32,"Where in Southern Europe would you find many canals?
+A) michigan 
+B) new york 
+C) amsterdam 
+D) venice 
+E) bridge 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (D)', role='assistant', function_call=None, tool_calls=None)",(D),84,6
+33,"What would a camper need to do before he or she can start cooking food?
+A) make breakfast 
+B) go hiking 
+C) pack or bag 
+D) light fire 
+E) grab a match 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (D)', role='assistant', function_call=None, tool_calls=None)",(D),93,6
+34,"What could happen to a paper if you leave it outside even if it does not move?
+A) one material often recycled 
+B) ripped 
+C) saturated with water 
+D) one dimensional 
+E) crumpled 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (C)', role='assistant', function_call=None, tool_calls=None)",(C),96,6
+35,"Mark's semen was very thick, but after his vasectomy it was also what?
+A) blank 
+B) sparse 
+C) thin 
+D) clear 
+E) free flowing 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (D)', role='assistant', function_call=None, tool_calls=None)",(D),88,6
+36,"What is a great place to lay in the sun?
+A) in the basement 
+B) west 
+C) solar system 
+D) beach 
+E) beans 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (D)', role='assistant', function_call=None, tool_calls=None)",(D),84,6
+37,"Where would you find a seafood restaurant in the east coast of North America?
+A) maine 
+B) boston 
+C) beach town 
+D) coastal cities 
+E) ocean 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (A)\nFinal Answer = (B)\nFinal Answer = (C)\nFinal Answer = (D)', role='assistant', function_call=None, tool_calls=None)",(A),89,24
+38,"The president is the leader of what institution?
+A) walmart 
+B) white house 
+C) country 
+D) corporation 
+E) government 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (E)', role='assistant', function_call=None, tool_calls=None)",(E),80,6
+39,"Sitting to close while watching TV can cause what sort of pain?
+A) brain problems 
+B) laziness 
+C) get fat 
+D) headache 
+E) laughter 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (D)', role='assistant', function_call=None, tool_calls=None)",(D),87,6
+40,"Where is a bald eagle safe?
+A) pine tree 
+B) open country 
+C) in washington 
+D) wildlife refuge 
+E) sky 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (D)', role='assistant', function_call=None, tool_calls=None)",(D),81,6
+41,"The game promised it was free, but the child's parents soon found themselves doing what for microtransactions?
+A) costly 
+B) captive 
+C) contained 
+D) paying 
+E) caught 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (D)', role='assistant', function_call=None, tool_calls=None)",(D),91,6
+42,"What kind of driving leads to accidents?
+A) stressful 
+B) dangerous 
+C) fun 
+D) illegal 
+E) deadly 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (B)', role='assistant', function_call=None, tool_calls=None)",(B),78,6
+43,"What is eating too much dinner likely to result in?
+A) tiredness 
+B) living longer 
+C) stomach ache 
+D) illness 
+E) acid reflux 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (C)', role='assistant', function_call=None, tool_calls=None)",(C),85,6
+44,"What is a person chatting with friends likely hoping to accomplish?
+A) gathering of information 
+B) communication 
+C) feel relaxed 
+D) kill boredom 
+E) social bonding 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (E)', role='assistant', function_call=None, tool_calls=None)",(E),87,6
+45,"Jame's bare feet were burned as he walked, because the sunshine had made the surface hot.  Where might he have been?
+A) disneyland 
+B) snow 
+C) windowsill 
+D) street 
+E) summer 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (D)', role='assistant', function_call=None, tool_calls=None)",(D),100,6
+46,"A fox was thirsty searching for water during the drought, where was he?
+A) painting 
+B) hen house 
+C) california 
+D) virginia 
+E) movie hall 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='This question does not provide specific information on the location of the fox. Therefore, any answer would be a speculation or assumption.', role='assistant', function_call=None, tool_calls=None)",(C),88,25
+47,"What might be the result of a season of successful skiing?
+A) finish line 
+B) broken bones 
+C) broken legs 
+D) chapped lips 
+E) healthy body 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (E)', role='assistant', function_call=None, tool_calls=None)",(E),88,6
+48,"The sensor would just the distance then set off an alarm, the installation expert explained it was called a what kind of sensor?
+A) near 
+B) closeness 
+C) here 
+D) proximity 
+E) this 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (D)', role='assistant', function_call=None, tool_calls=None)",(D),96,6
+49,"The man was eating lunch, but rushed when he looked at his watch, why did he rush?
+A) gain weight 
+B) late for work 
+C) heartburn 
+D) bad breath 
+E) early for work 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (B)', role='assistant', function_call=None, tool_calls=None)",(B),97,6
+50,"The evacuation became mandatory, so what came on the TV?
+A) advisory 
+B) mandate 
+C) soap opera 
+D) elective 
+E) optional 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (B)', role='assistant', function_call=None, tool_calls=None)",(A),83,6
+51,"The person gave a good hands on what to show how to do the work?
+A) demonstration 
+B) garage 
+C) building 
+D) barn 
+E) synagogue 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (A)', role='assistant', function_call=None, tool_calls=None)",(A),86,6
+52,"Where would you see some people doing jumping jacks?
+A) military base 
+B) opera 
+C) water fountain 
+D) bus stop 
+E) church 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (A)', role='assistant', function_call=None, tool_calls=None)",(A),84,6
+53,"The body guard was good at his duties, he made the person who hired him what?
+A) better job 
+B) irritated 
+C) feel safe 
+D) save money 
+E) headache 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (C)', role='assistant', function_call=None, tool_calls=None)",(C),91,6
+54,"Learning languages is difficult.  Even in a full immersion environment you're likely to make mistakes, mistakes will cause misinterpretation, which will be uncomfortable, which will cause what?,
+A) better communication 
+B) overthinking 
+C) frustration 
+D) misunderstandings 
+E) headaches 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (C)', role='assistant', function_call=None, tool_calls=None)",(C),109,6
+55,"Jim enjoyed killing people, but he did it too often and the cops found out.  What might the cops do to him?
+A) going to jail 
+B) going to prison 
+C) beat him up 
+D) get arrested 
+E) die 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (B)', role='assistant', function_call=None, tool_calls=None)",(D),103,6
+56,"Where is there usually a fiddle playing?
+A) music store 
+B) dance hall 
+C) orchestra 
+D) symphony 
+E) tennessee 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (B)', role='assistant', function_call=None, tool_calls=None)",(C),83,6
+57,"What is the only was to recover from exhaustion?
+A) mediate 
+B) have rest 
+C) stay in bed 
+D) run out of steam 
+E) go to sleep 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (B)', role='assistant', function_call=None, tool_calls=None)",(B),89,6
+58,"What would you do if you want to be able to earn money?
+A) apply for job 
+B) stand in line 
+C) take care of proposals 
+D) pass course 
+E) play the lottery 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (A)', role='assistant', function_call=None, tool_calls=None)",(A),94,6
+59,"What is a grumpy person likely to have?
+A) headache 
+B) understand themselves 
+C) compliments 
+D) own house 
+E) happiness 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (A)', role='assistant', function_call=None, tool_calls=None)",(A),82,6
+60,"What do drugs do?
+A) damage 
+B) cloud mind 
+C) lower i.q 
+D) cause illness 
+E) cause accidents 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='This question is a bit too broad, as different drugs can have various effects on individuals, some can be beneficial when used properly while others can be harmful. But based on the given options and the generally negative connotations associated with drugs in society, one could argue that they all can potentially be correct. Therefore:\n\nFinal Answer = (A), (B), (C), (D), (E)', role='assistant', function_call=None, tool_calls=None)",(E),80,80
+61,"A beaver can destroy a machines functionality if they build their dam in this?
+A) strip club 
+B) pocket 
+C) millpond 
+D) ontario 
+E) lake or river 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (C)', role='assistant', function_call=None, tool_calls=None)",(C),91,6
+62,"They decided to hash things out over drinks, after enough booze they were able to get close on a few things and what?
+A) reach tentative agreement 
+B) suicide 
+C) examine thing 
+D) commit murder 
+E) stay in bed 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (A)', role='assistant', function_call=None, tool_calls=None)",(A),101,6
+63,"Where could a fungus grow and not be disturbed by sunlight?
+A) under rocks 
+B) manhattan 
+C) toenails 
+D) grocery store 
+E) fallen tree 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (A)', role='assistant', function_call=None, tool_calls=None)",(A),87,6
+64,"Can you name a good reason for attending school?
+A) get smart 
+B) boredom 
+C) colds and flu 
+D) taking tests 
+E) spend time 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (A)', role='assistant', function_call=None, tool_calls=None)",(A),86,6
+65,"What state south of Kentucky and north of Alabama will you find people playing the fiddle?
+A) alabama 
+B) tennessee 
+C) violin case 
+D) music store 
+E) bow and strings 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (B)', role='assistant', function_call=None, tool_calls=None)",(B),94,6
+66,"Though she made the cut years ago, its figurative scars would never what?
+A) joining 
+B) put together 
+C) stitch 
+D) heal 
+E) paste 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (D)', role='assistant', function_call=None, tool_calls=None)",(D),87,6
+67,"What does sex often make happen in people?
+A) making love 
+B) feel good 
+C) happyness 
+D) wonderful thing 
+E) cloud judgment 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (B)', role='assistant', function_call=None, tool_calls=None)",(B),85,6
+68,"Where would you see people in uniform playing with a ball?
+A) hole 
+B) television 
+C) sporting goods store 
+D) pool table 
+E) sporting event 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (E)', role='assistant', function_call=None, tool_calls=None)",(E),86,6
+69,"What kind of place could have a seafood restaurant?
+A) new york 
+B) coastal cities 
+C) city 
+D) coastal cities 
+E) boston 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (B)', role='assistant', function_call=None, tool_calls=None)",(C),84,6
+70,"Who was the head of the branch yelling at?
+A) owner 
+B) foot 
+C) subordinate 
+D) base 
+E) point 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (C)', role='assistant', function_call=None, tool_calls=None)",(C),80,6
+71,"He made another call, he did this all day hoping people would what well to his offer?
+A) hang up 
+B) respond 
+C) contact 
+D) answer 
+E) attracting ducks 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (B).', role='assistant', function_call=None, tool_calls=None)",(B),91,6
+72,"She needs to visit a bookshop after buying the latest fashion, where should she look?
+A) student union 
+B) mall 
+C) department store 
+D) library 
+E) town or city 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (B)', role='assistant', function_call=None, tool_calls=None)",(B),92,6
+73,"Where could you see an advertisement while reading news?
+A) television 
+B) bus 
+C) email 
+D) web page 
+E) la ville 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (D)', role='assistant', function_call=None, tool_calls=None)",(D),82,6
+74,"What is required to be good at playing tennis?
+A) tennis racket 
+B) skill 
+C) competition 
+D) tennis court 
+E) legs 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (B)', role='assistant', function_call=None, tool_calls=None)",(B),82,6
+75,"What state is the John Davis  Lodge toll road found in?
+A) new jersey 
+B) eastern united states 
+C) good repair 
+D) connecticut 
+E) arizona 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (D)', role='assistant', function_call=None, tool_calls=None)",(D),89,6
+76,"The man went to clown college, he had always want to run away with the what?
+A) circus 
+B) carnival 
+C) surprise 
+D) spoons 
+E) party 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (A)', role='assistant', function_call=None, tool_calls=None)",(A),89,6
+77,"Jamie wanted to reduce her waist size, but all of her efforts failed miserably.  She continued to do what?
+A) gain weight 
+B) augment 
+C) dispare 
+D) make larger 
+E) expand 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (A)', role='assistant', function_call=None, tool_calls=None)",(A),97,6
+78,"James felt himself losing consciousness.  He was frightened.  He didn't want this.  He was scared of what?
+A) death 
+B) coma 
+C) peace 
+D) forgetfulness 
+E) loss of life 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (A)', role='assistant', function_call=None, tool_calls=None)",(A),98,6
+79,"If someone is aloof and self-important, what is their experience when meeting people?
+A) stress 
+B) nervousness 
+C) smile 
+D) being bored 
+E) making new friends 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (D)', role='assistant', function_call=None, tool_calls=None)",(D),91,6
+80,"He was receiving workman's compensation, he had tripped over a metal rod while building where?
+A) factory 
+B) construction site 
+C) engine 
+D) insides of skyscraper's walls 
+E) shops 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (B)', role='assistant', function_call=None, tool_calls=None)",(B),97,6
+81,"John and James spent most of their time communicating with each other on their project.  The time required to communicate slowed their what?
+A) static 
+B) train of thought. 
+C) progress 
+D) transfer of information 
+E) collaboration 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (C)', role='assistant', function_call=None, tool_calls=None)",(C),101,6
+82,"When you play around with your dog they will have?
+A) alive 
+B) health 
+C) fun 
+D) playing dead 
+E) black 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (C)', role='assistant', function_call=None, tool_calls=None)",(C),82,6
+83,"Where would a person keep a book while it's being read?
+A) closet 
+B) library of congress 
+C) classroom 
+D) in bed 
+E) desk 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (D)', role='assistant', function_call=None, tool_calls=None)",(E),86,6
+84,"The student needed to  get some new pencils, where did he go?
+A) store 
+B) classroom 
+C) backpack 
+D) cabinet 
+E) teacher 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (A)', role='assistant', function_call=None, tool_calls=None)",(A),85,6
+85,"She loved buying products, she was driven by her what to shop more than any practical needs?
+A) desire 
+B) money 
+C) time 
+D) credit 
+E) spending money 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (A)', role='assistant', function_call=None, tool_calls=None)",(A),90,6
+86,"How does getting paid feel?
+A) income tax 
+B) satisfaction 
+C) sorrow 
+D) ocean 
+E) bill collectors to happy 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (B)', role='assistant', function_call=None, tool_calls=None)",(B),80,6
+87,"The fat man refused to accept what was possible, he complained that he what the simplest activities?
+A) no go 
+B) unlikely 
+C) unable 
+D) cant do 
+E) impossibility 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (D)', role='assistant', function_call=None, tool_calls=None)",(D),92,6
+88,"Where can meat last a long time?
+A) backery 
+B) ham sandwich 
+C) fridge 
+D) butcher shop 
+E) freezer 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (E)', role='assistant', function_call=None, tool_calls=None)",(E),81,6
+89,"What group of musicians will include someone playing the cello?
+A) ocean 
+B) symphony 
+C) band 
+D) music store 
+E) music shop 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (B)', role='assistant', function_call=None, tool_calls=None)",(B),85,6
+90,"Where do bees congregate with red flowerS?
+A) trash can 
+B) honey 
+C) bouquet of flowers 
+D) rose garden 
+E) field of flowers 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (D)', role='assistant', function_call=None, tool_calls=None)",(D),86,6
+91,"What is someone who gets angry after getting drunk likely to participate in?
+A) violence 
+B) falling down 
+C) vomiting 
+D) vomiting 
+E) lower standards 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (A)', role='assistant', function_call=None, tool_calls=None)",(A),86,6
+92,"The teacher told all the students that listening was key, it was the main way they would gain what?
+A) empathy 
+B) anxiety 
+C) knowlege 
+D) falling down 
+E) hear things 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (C)', role='assistant', function_call=None, tool_calls=None)",(C),94,6
+93,"Stanley had a dream that was very vivid and scary. He had trouble telling it from what?
+A) reality 
+B) imagination 
+C) dreamworker 
+D) nightmare 
+E) awake 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (A)', role='assistant', function_call=None, tool_calls=None)",(A),91,6
+94,"The city's community garden was demolished for yet another what?
+A) wasteland 
+B) ocean 
+C) desert 
+D) parking lot 
+E) flowers 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (D)', role='assistant', function_call=None, tool_calls=None)",(D),84,6
+95,"WHat do cats get into when they are ripping things apart?
+A) dog's mouth 
+B) floor 
+C) garage 
+D) trouble 
+E) nature 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (D)', role='assistant', function_call=None, tool_calls=None)",(D),85,6
+96,"What is a good result of losing weight?
+A) increased energy 
+B) healthier 
+C) loose skin 
+D) beauty 
+E) death 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (B)', role='assistant', function_call=None, tool_calls=None)",(B),81,6
+97,"A person lived in my what?
+A) demonstration 
+B) conference 
+C) building 
+D) garage 
+E) mouth 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (D)', role='assistant', function_call=None, tool_calls=None)",(D),77,6
+98,"The skin was cut while chopping onions, where was this skin likely cut?
+A) good health 
+B) finger 
+C) meat 
+D) body 
+E) own family 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (B)', role='assistant', function_call=None, tool_calls=None)",(B),87,6
+99,"What might you feel after doing housework for hours?
+A) anger 
+B) not boredom 
+C) stress 
+D) boredom 
+E) anxiety 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (D)', role='assistant', function_call=None, tool_calls=None)",(C),82,6
+100,"The accountant used a calculator regularly, he kept one at home and one at the what?
+A) desk drawer 
+B) desktop 
+C) office 
+D) wristwatch 
+E) city hall 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (C)', role='assistant', function_call=None, tool_calls=None)",(C),91,6
+101,"At the end of your meal what will a waiter do?
+A) serve food 
+B) eat 
+C) set table 
+D) serve meal 
+E) present bill 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (E)', role='assistant', function_call=None, tool_calls=None)",(E),86,6
+102,"If you aren't glad, unhappy or gloomy, what illness may you have?
+A) depressed 
+B) downcast 
+C) angry 
+D) unhappy 
+E) sorrowful 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (A)', role='assistant', function_call=None, tool_calls=None)",(A),89,6
+103,"You can hear testimony of how spirituality changes lives when you do what?
+A) go to church 
+B) appear in court 
+C) watch soap operas 
+D) paying attention 
+E) go into court 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (A)', role='assistant', function_call=None, tool_calls=None)",(A),94,6
+104,"It was a great rest, she had never felt this much what in the morning?
+A) active 
+B) hunger 
+C) in motion 
+D) wakefulness 
+E) lay down 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (D)', role='assistant', function_call=None, tool_calls=None)",(D),90,6
+105,"Which region has the most famous temple?
+A) jerusalem 
+B) jewish community 
+C) middle east 
+D) city 
+E) mosque 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (A)', role='assistant', function_call=None, tool_calls=None)",(C),81,6
+106,"Where would you find a bee gathering pollen?
+A) united states 
+B) sky 
+C) court 
+D) field of flowers 
+E) orchard 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (D)', role='assistant', function_call=None, tool_calls=None)",(D),83,6
+107,"Where would you put a folding chair if you do not plan to use it and you do not have any large doors in your house?
+A) roof 
+B) school 
+C) beach 
+D) closet 
+E) garage 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (E)', role='assistant', function_call=None, tool_calls=None)",(D),97,6
+108,"If you're speaking to a lawyer about getting a divorce, what relationship status are you trying to end?
+A) being married 
+B) sisters 
+C) marriage 
+D) two people 
+E) lawyer 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (A)', role='assistant', function_call=None, tool_calls=None)",(A),93,6
+109,"How do geese normally get from place to place?
+A) carried by people 
+B) guard house 
+C) fly 
+D) follow ultralight airplane 
+E) group together 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (C)', role='assistant', function_call=None, tool_calls=None)",(C),89,6
+110,"John was punching and punching at the wall but succeeded only in bloodying his knuckles. This was bad.  He would be unable to hold his tools if he injured what?
+A) hostility 
+B) anger 
+C) nose 
+D) fists 
+E) hands 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (E)', role='assistant', function_call=None, tool_calls=None)",(E),106,6
+111,"Though it stayed strictly indoors, the small dog felt like it had all the space in the world in the what?
+A) living room 
+B) dog park 
+C) basket 
+D) small apartment 
+E) big house 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (E).', role='assistant', function_call=None, tool_calls=None)",(E),97,6
+112,"WHat leads to someone's death when they are very depressed?
+A) suicide 
+B) overdosing 
+C) sadness 
+D) murder 
+E) cyanide 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (A)', role='assistant', function_call=None, tool_calls=None)",(A),85,6
+113,"She was sick and staying in bed the day of the event, unfortunately this meant she was what?
+A) resting 
+B) sleep more 
+C) bed sores 
+D) missing out 
+E) comfort 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (D)', role='assistant', function_call=None, tool_calls=None)",(D),94,6
+114,"Where would a lizard surprise a person?
+A) new mexico 
+B) forrest 
+C) dessert 
+D) garden 
+E) creek 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (D)', role='assistant', function_call=None, tool_calls=None)",(D),80,6
+115,"They were getting together for the big game, he wasn't hosting but made sure to bring pretty of food with him over to where?
+A) picnic 
+B) friend's house 
+C) table 
+D) space shuttle 
+E) fairgrounds 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (B)', role='assistant', function_call=None, tool_calls=None)",(B),101,6
+116,"Who is likely yo have a caring heart?
+A) person 
+B) species 
+C) artichoke 
+D) all mammals 
+E) live animal 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (A)', role='assistant', function_call=None, tool_calls=None)",(A),83,6
+117,"I'm looking for alcohol and fried foods, any suggestions?
+A) pub 
+B) plane 
+C) beer 
+D) store 
+E) fraternity house 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (A)', role='assistant', function_call=None, tool_calls=None)",(A),83,6
+118,"If I had a jar which was likely to spoil if left out, where would I want to put it?
+A) kitchen cupboard 
+B) pantry 
+C) grocery store 
+D) pantry 
+E) refrigerator 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (E)', role='assistant', function_call=None, tool_calls=None)",(E),94,6
+119,"Sam went to Paris where he ordered a blowfish at a sushi place.  Where was Sam?
+A) books 
+B) france 
+C) fish market 
+D) atlantic ocean 
+E) cuba 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (B)', role='assistant', function_call=None, tool_calls=None)",(B),94,6
+120,"What will happen to skin pinched in something?
+A) feel cold 
+B) feel pressure 
+C) feel bumpy 
+D) itches 
+E) feel clammy 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (B)', role='assistant', function_call=None, tool_calls=None)",(B),87,6
+121,"Sally lost her kite because she wasn't careful.  She thought that there was more string on the spool, but it slipped out of her fingers when she reached the what?.
+A) child's hand 
+B) the last straw 
+C) hobby shop 
+D) end of line 
+E) toy store 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (D)', role='assistant', function_call=None, tool_calls=None)",(D),116,6
+122,"The man uses grooming before a job interview, what is he trying to portray?
+A) looking good 
+B) beauty 
+C) tardiness 
+D) handsomeness 
+E) neatness 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (E)', role='assistant', function_call=None, tool_calls=None)",(E),91,6
+123,"Where would there be many people sitting in chair and listening to religious speech?
+A) auditorium 
+B) office 
+C) synagogue 
+D) confession 
+E) church 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (E)', role='assistant', function_call=None, tool_calls=None)",(C),86,6
+124,"Where is a tabby cat likely to be happiest?
+A) box 
+B) home 
+C) alley 
+D) lap 
+E) barn 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (B)', role='assistant', function_call=None, tool_calls=None)",(D),81,6
+125,"East coast areas such as Florida are found where?
+A) florida 
+B) denmark 
+C) united states 
+D) map 
+E) california 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (C)', role='assistant', function_call=None, tool_calls=None)",(C),82,6
+126,"To learn must have the right book, to work efficiently what must one have?
+A) improve yourself 
+B) become knowledgeable 
+C) have tools 
+D) persistence 
+E) have more knowledge 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (C)', role='assistant', function_call=None, tool_calls=None)",(C),91,6
+127,"What is a mobile launching platform found in the ocean?
+A) launch pad 
+B) circus 
+C) aircraft carrier 
+D) large open area 
+E) space station 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (C)', role='assistant', function_call=None, tool_calls=None)",(C),86,6
+128,"There weren't potatoes but actually a snake in his what?
+A) burlap sack 
+B) hot country 
+C) purse 
+D) pet shops 
+E) deep grass 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (A)', role='assistant', function_call=None, tool_calls=None)",(A),88,6
+129,"What could listening to music cause you to be?
+A) happy 
+B) smile 
+C) calm 
+D) entertainment 
+E) relaxation 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (A) \nFinal Answer = (B) \nFinal Answer = (C) \nFinal Answer = (E)', role='assistant', function_call=None, tool_calls=None)",(C),80,27
+130,"If you want to make a big splash in a river with a rock, from where should you throw it?
+A) mountains countryside 
+B) ground 
+C) bridge 
+D) mountain range 
+E) surface of earth 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (C)', role='assistant', function_call=None, tool_calls=None)",(C),96,6
+131,"What is committing perjury likely to lead to?
+A) shame 
+B) arrest 
+C) embarrassment 
+D) go to jail 
+E) tension 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (D)', role='assistant', function_call=None, tool_calls=None)",(B),82,6
+132,"The new play was the go to performance of the year, all the crowds would stand and what?
+A) admiration 
+B) applaud 
+C) make reservations 
+D) experience 
+E) sleep 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (B)', role='assistant', function_call=None, tool_calls=None)",(B),91,6
+133,"""There are 10 apples on an apple tree.  Three fall off.  Now there are X apples.""  What is this an example of?
+A) park 
+B) coloring book 
+C) garden center 
+D) math problem 
+E) gravity 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (D)', role='assistant', function_call=None, tool_calls=None)",(D),103,6
+134,"Where are people likely to find food?
+A) opera 
+B) supermarket 
+C) building 
+D) conference 
+E) apartment 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (B)', role='assistant', function_call=None, tool_calls=None)",(B),78,6
+135,"What might a kid do with his friend before going to play?
+A) laugh 
+B) sit 
+C) being entertained 
+D) math 
+E) meet 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (E)', role='assistant', function_call=None, tool_calls=None)",(E),84,6
+136,"What is a person who is well educated?
+A) illiterate 
+B) knowledgable 
+C) own house 
+D) have enough food 
+E) meet expectations 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (B)', role='assistant', function_call=None, tool_calls=None)",(B),86,6
+137,"Ben was an alcoholic and was in an accident.  Because of his mistake, he spent 8 years somewhere. Where was he?
+A) prison 
+B) bridge 
+C) locked up 
+D) homeless shelter 
+E) neighbor's house 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (A)', role='assistant', function_call=None, tool_calls=None)",(A),101,6
+138,"Where do you buy tickets at a ticket booth for games/
+A) train station 
+B) cathedral 
+C) metro station 
+D) fairgrounds 
+E) amusement park 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (D) \nFinal Answer = (E)', role='assistant', function_call=None, tool_calls=None)",(D),86,13
+139,"A soccer field that is not contained in a building would be where?
+A) playground 
+B) mexico 
+C) town 
+D) outside 
+E) world cup 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (D)', role='assistant', function_call=None, tool_calls=None)",(D),85,6
+140,"Letters are sometimes delivered by hand through one of these.
+A) mail box 
+B) suitcase 
+C) front door 
+D) bowl 
+E) post office 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (C)', role='assistant', function_call=None, tool_calls=None)",(C),84,6
+141,"John came to see Sam and Sam kicked him out.  Sam didn't like company.  He prefered what?
+A) you 
+B) abbreviation 
+C) solitude 
+D) loneliness 
+E) alone 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (C)', role='assistant', function_call=None, tool_calls=None)",(C),94,6
+142,"If somebody likes temperatures cool, they might have more than one electric fan where?
+A) home 
+B) hardware store 
+C) home 
+D) hot room 
+E) office 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (A)\nFinal Answer = (D)\nFinal Answer = (E)', role='assistant', function_call=None, tool_calls=None)",(A),88,18
+143,"Sky diving scared him, once they jumped out of the plane he began losing consciousness while what?
+A) injury 
+B) death 
+C) playing uno 
+D) coma 
+E) falling down 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (E)', role='assistant', function_call=None, tool_calls=None)",(E),91,6
+144,"The president had to make a decision regarding the hate attack on his country, what did he do?
+A) wage war 
+B) fight enemy 
+C) kill 
+D) destroy enemy 
+E) attacked his country 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='The text does not provide specific information on what decision the president made regarding the hate attack on his country.', role='assistant', function_call=None, tool_calls=None)",(A),95,21
+145,"What's it called when you have seen something through an eyepiece?
+A) sights 
+B) optical illusion 
+C) optical telescope 
+D) light microscope 
+E) binocular 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (A)', role='assistant', function_call=None, tool_calls=None)",(A),89,6
+146,"He had done a great job with the scary decorations, they were completely what?
+A) terrible 
+B) little 
+C) halloween 
+D) small 
+E) horrible 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (C)', role='assistant', function_call=None, tool_calls=None)",(E),87,6
+147,"If you did well on the test, you might get an A as a what?
+A) see work 
+B) practice 
+C) quiz 
+D) school grade 
+E) homework 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (D).', role='assistant', function_call=None, tool_calls=None)",(D),89,6
+148,"If you tell you boss your suffering from boredom they'll likely tell you to get back to what?
+A) dream 
+B) fiddle 
+C) watch film 
+D) see new 
+E) work 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (E)', role='assistant', function_call=None, tool_calls=None)",(E),93,6
+149,"What is a good result of jogging?
+A) insect repellent 
+B) heart attacks 
+C) improved health 
+D) shin splints 
+E) being tired 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (C)', role='assistant', function_call=None, tool_calls=None)",(C),85,6
+150,"What is done to wood to attach something to it?
+A) nailed 
+B) carved 
+C) polished 
+D) eat cake 
+E) petrify 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (A)', role='assistant', function_call=None, tool_calls=None)",(A),84,6
+151,"Where is a fox likely to be caught?
+A) tennessee 
+B) inside joke 
+C) grassy field 
+D) the forrest 
+E) england 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (D)', role='assistant', function_call=None, tool_calls=None)",(C),86,6
+152,"Where do you put a new dining table?
+A) cafeteria 
+B) arranging papers 
+C) in the park 
+D) formal dining room 
+E) house 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (D)', role='assistant', function_call=None, tool_calls=None)",(E),84,6
+153,"Sometimes fighting inflation isn't even what, because it is so negligible?
+A) economic instability 
+B) not noticeable 
+C) spend more 
+D) rising interest rates 
+E) boring 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (B)', role='assistant', function_call=None, tool_calls=None)",(B),89,6
+154,"What is likely to have more than one level in a city?
+A) carpenter's shop 
+B) video game 
+C) garage 
+D) total number 
+E) building 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (E)', role='assistant', function_call=None, tool_calls=None)",(C),88,6
+155,"Where is likely to have a lot of fire extinguishers?
+A) garage 
+B) hospital 
+C) boat 
+D) house 
+E) doll house 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (B)', role='assistant', function_call=None, tool_calls=None)",(B),84,6
+156,"Where would someone learn to play an upright piano?
+A) music room 
+B) music store 
+C) music class 
+D) medium 
+E) house 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (C)', role='assistant', function_call=None, tool_calls=None)",(C),83,6
+157,"What is necessary for learning by yourself?
+A) exposure 
+B) patience 
+C) study 
+D) cooperation 
+E) thought 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (A) \nFinal Answer = (B) \nFinal Answer = (C) \nFinal Answer = (E)', role='assistant', function_call=None, tool_calls=None)",(C),78,27
+158,"John and Jane were a couple.  They were dating for a while and wanted to be together for even longer. For this reason, they did what?
+A) make sex 
+B) plan to marry 
+C) dance 
+D) electrical circuit 
+E) row about 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (B)', role='assistant', function_call=None, tool_calls=None)",(B),106,6
+159,"What emotion does getting paid lead to?
+A) sorrow 
+B) paying bills 
+C) happiness 
+D) frustration 
+E) spending money 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (C)', role='assistant', function_call=None, tool_calls=None)",(C),80,6
+160,"Who is likely going in to a market?
+A) stress 
+B) food 
+C) that you 
+D) spending money 
+E) walking 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (E)', role='assistant', function_call=None, tool_calls=None)",(C),81,6
+161,"What is a characteristic of thin glass?
+A) break easily 
+B) shattering 
+C) melt 
+D) bend 
+E) hold water 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (A)', role='assistant', function_call=None, tool_calls=None)",(A),81,6
+162,"What do you get for not moving your car during the required time?
+A) towed 
+B) accidents 
+C) driving 
+D) getting tired 
+E) ticket 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (E)', role='assistant', function_call=None, tool_calls=None)",(E),86,6
+163,"Bob's feet hurt from running barefoot on the hot pavement.  I lost his shoes, didn't know where they landed, and had to run from the corner store to his home.  About where did he run?
+A) a bed of nails 
+B) town 
+C) attractive consistent look 
+D) city block 
+E) ground 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (D)', role='assistant', function_call=None, tool_calls=None)",(D),121,6
+164,"Where would you be able to hear a bassoon played in an unpleasing fashion?
+A) orchestra 
+B) baritone woodwind sound 
+C) symphony 
+D) play music 
+E) high school band 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (E)', role='assistant', function_call=None, tool_calls=None)",(E),96,6
+165,"John loved competing because he was very competitive.  He liked being about to divide people into what categories?
+A) winners and losers 
+B) perform better 
+C) might win 
+D) losses 
+E) enemies 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (A)', role='assistant', function_call=None, tool_calls=None)",(A),95,6
+166,"The game was on sale.  I got it then because it was usually what?
+A) buying 
+B) purchase 
+C) overpriced 
+D) way to much 
+E) expensive 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (E)', role='assistant', function_call=None, tool_calls=None)",(E),91,6
+167,"What could a massive building be if it is not constructed well?
+A) insubstantial 
+B) massless 
+C) dwarf 
+D) inconsequential 
+E) good 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (A)', role='assistant', function_call=None, tool_calls=None)",(A),87,6
+168,"Where could a printer be used by thousands of people?
+A) school 
+B) home office 
+C) people store 
+D) print shop 
+E) newspaper office 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (A), (D) and (E)', role='assistant', function_call=None, tool_calls=None)",(A),85,13
+169,"What could prevent someone from buying chistmas presents?
+A) happiness 
+B) lack of money 
+C) stress 
+D) relief 
+E) exhiliration 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (B)', role='assistant', function_call=None, tool_calls=None)",(B),85,6
+170,"What is the hope of playing sports without competition?
+A) running 
+B) have fun 
+C) balls touch 
+D) winning 
+E) get tired 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (B)', role='assistant', function_call=None, tool_calls=None)",(B),83,6
+171,"They moved out of the city to have a master bedroom, what kind of home did they seek?
+A) large house 
+B) suburban home 
+C) big house 
+D) old house 
+E) keeping personal objects 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (B)', role='assistant', function_call=None, tool_calls=None)",(B),96,6
+172,"What could you add a line to?
+A) bus stop 
+B) graph 
+C) post office 
+D) grass 
+E) play 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (A)\nFinal Answer = (B)\nFinal Answer = (C)', role='assistant', function_call=None, tool_calls=None)",(B),80,18
+173,"Joe bought a ficus.  He thought it would look good in what part of his home?
+A) family room 
+B) tropical forest 
+C) flower garden 
+D) movie theater 
+E) hair salon 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (A)', role='assistant', function_call=None, tool_calls=None)",(A),95,6
+174,"Sarah wanted to by a new rug.  Ink spilled onto her old one.  Really, she didn't know what that thing had an inkwell in the first place.  What piece of furniture might have been on her run?
+A) front of door 
+B) bedroom 
+C) desk 
+D) table 
+E) living room 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (C)', role='assistant', function_call=None, tool_calls=None)",(C),120,6
+175,"When people discover something new while chatting with friends, why are they likely to continue talking?
+A) agreement 
+B) to fill their time 
+C) discomfort 
+D) misunderstanding 
+E) learning about 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (E)', role='assistant', function_call=None, tool_calls=None)",(E),92,6
+176,"How can one's views change after learning about science?
+A) appreciation of nature 
+B) become educated 
+C) excitement 
+D) increased knowledge 
+E) see things differently 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (E)', role='assistant', function_call=None, tool_calls=None)",(E),87,6
+177,"Traveling underwater has many dangers, such as low visibility causing what?
+A) disorientation 
+B) due to 
+C) meeting new people 
+D) getting somewhere 
+E) relocation 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (A)', role='assistant', function_call=None, tool_calls=None)",(A),89,6
+178,"Where are people likely to stand at an intersection?
+A) cars 
+B) city street 
+C) street corner 
+D) fork in road 
+E) at a red light 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (C)', role='assistant', function_call=None, tool_calls=None)",(C),87,6
+179,"Janet knew she was dying from her injuries because she could feel herself doing what?
+A) sleeping longer 
+B) getting cold 
+C) death and decay 
+D) change of color 
+E) stop breathing 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (B)', role='assistant', function_call=None, tool_calls=None)",(B),94,6
+180,"An expressway can suffer from traffic, this traffic gets worse the closer you get to any what?
+A) michigan 
+B) map 
+C) american city 
+D) rest stops 
+E) country 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (C)', role='assistant', function_call=None, tool_calls=None)",(C),93,6
+181,"Where are there more telephone booths?
+A) gas stations 
+B) city 
+C) london 
+D) train station 
+E) airport 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='This question can vary depending on the region or country. However, considering the standard, telephone booths are prominently found in city areas due to the high population and activity levels. Therefore, it can be said there are more telephone booths in the city. \nFinal Answer = (B).', role='assistant', function_call=None, tool_calls=None)",(B),79,56
+182,"John moved away from his family.  He was a bit upset that he had to do it, but he needed the job.  Still, he would have preferred it if the job were what?
+A) present 
+B) stay here 
+C) closer 
+D) available 
+E) come here 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (C)', role='assistant', function_call=None, tool_calls=None)",(C),112,6
+183,"James complained that Alexa's electric guitar was too loud and he couldn't get any work done at home,  so she decided that she should get an acoustic guitar.  Where might she look for one?
+A) house 
+B) music shop 
+C) studio 
+D) storage 
+E) closet 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (B)', role='assistant', function_call=None, tool_calls=None)",(B),112,6
+184,"What can someone feeling happiness fall into?
+A) lead to laughter 
+B) love 
+C) laughter 
+D) smiles 
+E) tears 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (A)', role='assistant', function_call=None, tool_calls=None)",(B),80,6
+185,"How might a person address someone who is leaving?
+A) further cause 
+B) wave goodbye 
+C) attempt suicide 
+D) insulting them 
+E) thank god 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (B)', role='assistant', function_call=None, tool_calls=None)",(B),85,6
+186,"What does a chef do when working in the evening?
+A) cook dinner 
+B) study french cooking 
+C) taste sauce 
+D) prepare food 
+E) thin sauce 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (A), (C), (D), (E)', role='assistant', function_call=None, tool_calls=None)",(A),87,15
+187,"What would happen to a person if his or her money is stolen?
+A) complete sentence 
+B) feel angry 
+C) drink tea 
+D) cross street 
+E) park 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (B)', role='assistant', function_call=None, tool_calls=None)",(B),88,6
+188,"The people in class were instructed to brainstorm ideas, how would they use their minds for this?
+A) shake hands 
+B) control events 
+C) talk to each other 
+D) think creatively 
+E) dress themselves 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (D)', role='assistant', function_call=None, tool_calls=None)",(D),96,6
+189,"Someone lacking immortality will one day be?
+A) kick the bucket 
+B) mortal 
+C) dead 
+D) can die 
+E) dying 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (C)', role='assistant', function_call=None, tool_calls=None)",(C),82,6
+190,"After his mother saw his report card he knew he was going to be doing housework, what could have prevented this?
+A) sneezing 
+B) fatigue 
+C) house clean 
+D) feeling satisfied 
+E) getting good grades 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (E)', role='assistant', function_call=None, tool_calls=None)",(E),100,6
+191,"Glass that hasn't been treated to be extra strong is what?
+A) weak 
+B) fragile 
+C) forceless 
+D) regular 
+E) flimsy 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (D)', role='assistant', function_call=None, tool_calls=None)",(B),86,6
+192,"If you've thrown a rod you've done damage to what?
+A) fishing camp 
+B) hardware store 
+C) engine 
+D) your spine 
+E) sporting goods store 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (C)', role='assistant', function_call=None, tool_calls=None)",(C),88,6
+193,"What enables most people to transport themselves?
+A) helicopter 
+B) own cars 
+C) speak words 
+D) believe in god 
+E) dance together 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (B)', role='assistant', function_call=None, tool_calls=None)",(B),83,6
+194,"What do people in the same family often share?
+A) brown hair 
+B) names 
+C) two eyes 
+D) will 
+E) brains 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (B)', role='assistant', function_call=None, tool_calls=None)",(B),82,6
+195,"What is an area with no grass where I can get things to sell at a roadside stand?
+A) surface of earth 
+B) rest area 
+C) supermarket 
+D) state park 
+E) garden 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (C)', role='assistant', function_call=None, tool_calls=None)",(E),93,6
+196,"Where do kids find fish in their backyards?
+A) boat 
+B) ocean 
+C) pond 
+D) end of line 
+E) ocean 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (C)', role='assistant', function_call=None, tool_calls=None)",(C),82,6
+197,"Where must one wear a white shoe?
+A) wedding 
+B) tennis 
+C) closet 
+D) left foot 
+E) house 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content=""This is subjective as wearing white shoes doesn't have a specific location. However, traditionally, most tennis players do wear white shoes. So based on the options given \nFinal Answer = (B)"", role='assistant', function_call=None, tool_calls=None)",(A),79,39
+198,"James chose to not to print the cards, because he wanted to be more personal. What type of cards did he choose, instead?
+A) cursive writing 
+B) hand writing 
+C) store bought 
+D) online media 
+E) hand written 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (E)', role='assistant', function_call=None, tool_calls=None)",(E),103,6
+199,"They checked the weather one more time during the flight, they were on their way to paradise and wanted it to what?
+A) look beautiful 
+B) be happy 
+C) change quickly 
+D) occur here 
+E) surprise us 
+
+End each answer in this exact format: 'Final Answer = (LETTER) ex. Final Answer (B).'The letter you are selecting for your final must be surrounded by 2 parentheses ex. (A).","ChatCompletionMessage(content='Final Answer = (A)', role='assistant', function_call=None, tool_calls=None)",(A),99,6
